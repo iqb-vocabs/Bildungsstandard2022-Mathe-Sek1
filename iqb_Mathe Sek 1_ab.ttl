@@ -1,0 +1,38 @@
+@base <https://w3id.org/iqb/bista22mas1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<ab/78a4e0e2-8185-49cc-b30d-91f8a61d610e> a skos:Concept ;
+    skos:broader <ab/> ;
+    skos:definition "Dieser Anforderungsbereich umfasst das selbstständige Auswählen geeigneter Arbeitstechniken und Verfahren sowie das Bearbeiten komplexer oder unbekannter Sachverhalte u. a. mit dem Ziel, zu eigenen Problemformulierungen, Lösungen, Begründungen, Folgerungen, Interpretationen oder Wertungen zu gelangen."@de ;
+    skos:inScheme <> ;
+    skos:notation "3" ;
+    skos:prefLabel "Anforderungsbereich  III: Verallgemeinern und Reflektieren"@de .
+
+<ab/977a645f-1366-4be6-a825-445dead5ef35> a skos:Concept ;
+    skos:broader <ab/> ;
+    skos:definition "Dieser Anforderungsbereich umfasst die Wiedergabe und direkte Anwendung von grundlegenden Begriffen, Sätzen und Verfahren in einem abgegrenzten Gebiet und einem wiederholenden Zusammenhang."@de ;
+    skos:inScheme <> ;
+    skos:notation "1" ;
+    skos:prefLabel "Anforderungsbereich I: Reproduzieren"@de .
+
+<ab/bef6981c-c928-43a1-8b19-d7e6685b682f> a skos:Concept ;
+    skos:broader <ab/> ;
+    skos:definition "Dieser Anforderungsbereich umfasst das selbstständige Auswählen, Anordnen, Darstellen und Bearbeiten bekannter Sachverhalte, indem Kenntnisse, Fertigkeiten und Fähigkeiten verknüpft werden, die in der Auseinandersetzung mit Mathematik auf verschiedenen Gebieten erworben wurden."@de ;
+    skos:inScheme <> ;
+    skos:notation "2" ;
+    skos:prefLabel "Anforderungsbereich II: Zusammenhänge herstellen"@de .
+
+<> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "Mathe Sek 1_Anforderungsbereiche"@de ;
+    skos:hasTopConcept <ab/> .
+
+<ab/> a skos:Concept ;
+    skos:definition "Zum Lösen mathematischer Aufgaben werden die prozessbezogenen Kompetenzen in unterschiedlicher Ausprägung benötigt. Diesbezüglich lassen sich drei Anforderungsbereiche für alle Schülerinnen und Schüler unterscheiden. Im Allgemeinen nehmen Anspruch und kognitive Komplexität von Anforderungsbereich I bis Anforderungsbereich III zu. Die Anforderungsbereiche sind für alle prozessbezogenen Kompetenzen wie folgt charakterisiert:"@de ;
+    skos:narrower <ab/78a4e0e2-8185-49cc-b30d-91f8a61d610e>,
+        <ab/977a645f-1366-4be6-a825-445dead5ef35>,
+        <ab/bef6981c-c928-43a1-8b19-d7e6685b682f> ;
+    skos:prefLabel "Anforderungsbereiche"@de ;
+    skos:topConceptOf <> .
+
