@@ -7,7 +7,7 @@
     skos:definition "Dieser Anforderungsbereich umfasst das selbstständige Auswählen geeigneter Arbeitstechniken und Verfahren sowie das Bearbeiten komplexer oder unbekannter Sachverhalte u. a. mit dem Ziel, zu eigenen Problemformulierungen, Lösungen, Begründungen, Folgerungen, Interpretationen oder Wertungen zu gelangen."@de ;
     skos:inScheme <> ;
     skos:notation "3" ;
-    skos:prefLabel "Anforderungsbereich  III: Verallgemeinern und Reflektieren"@de .
+    skos:prefLabel "Anfor derungsbereich  III: Verallgemeinern und Reflektieren"@de .
 
 <ab/977a645f-1366-4be6-a825-445dead5ef35> a skos:Concept ;
     skos:broader <ab/> ;
