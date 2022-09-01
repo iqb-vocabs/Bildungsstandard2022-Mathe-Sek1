@@ -1,680 +1,680 @@
-@base <https://w3id.org/iqb/bista22mas1/> .
+@base <https://w3id.org/iqb/bista22mas1/002/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<stdProzess/03518bdb-6185-449c-9f3e-9ccee8266099> a skos:Concept ;
-    skos:broader <stdProzess/1835e769-ace3-4509-805e-d868ff4e1635> ;
-    skos:inScheme <> ;
-    skos:notation "5.2.3" ;
-    skos:prefLabel "übersetzen symbolische und formale Sprache in natürliche Sprache und umgekehrt,"@de .
-
-<stdProzess/09258b04-3aac-4eeb-88b8-06c6d9ad2bfb> a skos:Concept ;
-    skos:broader <stdProzess/94919ad1-f308-434b-b130-3251e2717e0e> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.1" ;
-    skos:prefLabel "entwickeln und erläutern komplexe Argumentationen,"@de .
-
-<stdProzess/0a26d032-c15e-419a-8648-809f92ef2293> a skos:Concept ;
-    skos:broader <stdProzess/9f51513e-7b06-41b2-886b-cb0d92637c57> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.3" ;
-    skos:prefLabel "interpretieren Ergebnisse einer Modellierung,"@de .
-
-<stdProzess/0c852abe-95ac-4e2a-b4e5-e0792d742711> a skos:Concept ;
-    skos:broader <stdProzess/9f51513e-7b06-41b2-886b-cb0d92637c57> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.5" ;
-    skos:prefLabel "ordnen einem mathematischen Modell passende Situationen zu,"@de .
-
-<stdProzess/0fcb9d7d-f26c-48ac-882e-a55e127292d4> a skos:Concept ;
-    skos:broader <stdProzess/8599073b-23cb-4b37-9949-cb76a643b291> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.4" ;
-    skos:prefLabel "erläutern mathematische Zusammenhänge, Ordnungen und logische Strukturen,"@de .
-
-<stdProzess/10d96430-69a7-47fa-922a-b2c9a5ace670> a skos:Concept ;
-    skos:broader <stdProzess/42a5f558-0dfa-46c5-bdd2-df0ac5f884b5> ;
-    skos:inScheme <> ;
-    skos:notation "6.3.2" ;
-    skos:prefLabel "beschreiben die innere Struktur von Lösungsverfahren, erfassen deren Allgemeingültigkeit und übertragen die Verfahren auf neue Situationen."@de .
-
-<stdProzess/12c64a86-f5dc-4e85-b40f-2c839ce42e80> a skos:Concept ;
-    skos:broader <stdProzess/e8ec236c-d4de-4b68-a7a3-da51a8faec9a> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.1" ;
-    skos:prefLabel "formulieren einfache mathematische Sachverhalte mit eigenen Worten und mithilfe mathematischer Begriffe mündlich und schriftlich,"@de .
-
-<stdProzess/153e0f64-e73d-4729-b497-76f71a2ab1d9> a skos:Concept ;
-    skos:broader <stdProzess/ee1dd142-b367-4be9-bfe1-7cd5d636a4d1> ;
-    skos:inScheme <> ;
-    skos:notation "7.2.3" ;
-    skos:prefLabel "nutzen bekannte Algorithmen mit digitalen Mathematikwerkzeugen,"@de .
-
-<stdProzess/26476f61-992d-4dc8-896d-bc93f991eebf> a skos:Concept ;
-    skos:broader <stdProzess/20f6235c-24ae-418f-96a4-1148fabec83d> ;
-    skos:inScheme <> ;
-    skos:notation "7.3.2" ;
-    skos:prefLabel "konzipieren und erstellen selbst analoge und digitale Medien um mathematische Sachverhalte darzustellen oder zu bearbeiten und stellen ihre Ergebnisse vor (z. B. Präsentation, Videos),"@de .
-
-<stdProzess/2a87e3e4-9a0e-483e-8849-c015f2aeea70> a skos:Concept ;
-    skos:broader <stdProzess/8599073b-23cb-4b37-9949-cb76a643b291> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.3" ;
-    skos:prefLabel "bewerten Ergebnisse und Aussagen auch bzgl. ihres Anwendungskontextes,"@de .
-
-<stdProzess/2d801027-9649-4d7e-9b55-af70b14d921c> a skos:Concept ;
-    skos:broader <stdProzess/87b9dac6-6a78-4360-96ff-05cecce64823> ;
-    skos:inScheme <> ;
-    skos:notation "4.3.1" ;
-    skos:prefLabel "modellieren komplexe oder unvertraute Situationen und entwickeln ggf. eigene Modelle,"@de .
-
-<stdProzess/2e0b8ea0-24be-4e73-9ad3-6879b86fc49e> a skos:Concept ;
-    skos:broader <stdProzess/20f6235c-24ae-418f-96a4-1148fabec83d> ;
-    skos:inScheme <> ;
-    skos:notation "7.3.5" ;
-    skos:prefLabel "setzen bekannte mathematische Verfahren mithilfe digitaler Mathematikwerkzeuge (z. B. Tabellenkalkulation) als Algorithmus um,"@de .
-
-<stdProzess/39d935f5-5a23-4e6c-8710-5577287431a6> a skos:Concept ;
-    skos:broader <stdProzess/c1eadfdb-6cd2-48dc-a955-359f2e7fe3a0> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.1" ;
-    skos:prefLabel "präsentieren sachgerecht komplexe mathematische Sachverhalte mündlich und schriftlich,"@de .
-
-<stdProzess/3c81745b-675f-4d02-82d3-518b968ff4be> a skos:Concept ;
-    skos:broader <stdProzess/1074f166-7ad0-4c47-9c3b-f5a67676e08a> ;
-    skos:inScheme <> ;
-    skos:notation "7.1.3" ;
-    skos:prefLabel "nutzen analoge und digitale Mathematikwerkzeuge (z. B. wissenschaftlichen Taschenrechner), die aus dem Unterricht vertraut sind,"@de .
-
-<stdProzess/3d3e8be2-612c-442d-a559-8b73dcbf207d> a skos:Concept ;
-    skos:broader <stdProzess/1074f166-7ad0-4c47-9c3b-f5a67676e08a> ;
-    skos:inScheme <> ;
-    skos:notation "7.1.1" ;
-    skos:prefLabel "verwenden allgemeine Medien zur Kommunikation (z. B. Recherche in Fachliteratur oder Internet, Nutzung von Lernplattformen) und zur Präsentation mathematischer Inhalte in Situationen, in denen der Einsatz geübt wurde,"@de .
-
-<stdProzess/3d5920fd-4897-456a-ae8c-ed68625dacdb> a skos:Concept ;
-    skos:broader <stdProzess/1835e769-ace3-4509-805e-d868ff4e1635> ;
-    skos:inScheme <> ;
-    skos:notation "5.2.2" ;
-    skos:prefLabel "wechseln sachgerecht zwischen mathematischen Darstellungen und erklären, wie sie vernetzt sind,"@de .
-
-<stdProzess/49adf629-ef31-401d-8581-df71724a3d07> a skos:Concept ;
-    skos:broader <stdProzess/4ca73e65-ca88-46c1-b9a3-3e03905748e5> ;
-    skos:inScheme <> ;
-    skos:notation "5.1.2" ;
-    skos:prefLabel "interpretieren vertraute Darstellungen,"@de .
-
-<stdProzess/5324875b-bcc3-444c-ac92-2c9318ae97c0> a skos:Concept ;
-    skos:broader <stdProzess/20f6235c-24ae-418f-96a4-1148fabec83d> ;
-    skos:inScheme <> ;
-    skos:notation "7.3.6" ;
-    skos:prefLabel "nutzen Algorithmen mit Hilfe digitaler Werkzeuge, um den jeweils zugrundeliegenden mathematischen Inhalt zu untersuchen."@de .
-
-<stdProzess/53269fcc-89a3-4fce-89d9-84d5c9f9aafa> a skos:Concept ;
-    skos:broader <stdProzess/9f51513e-7b06-41b2-886b-cb0d92637c57> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.2" ;
-    skos:prefLabel "nehmen Mathematisierungen vor, die mehrere Schritte erfordern,"@de .
-
-<stdProzess/57d1ee8c-fbfe-4ddc-9066-635652b97926> a skos:Concept ;
-    skos:broader <stdProzess/73db58d9-df44-4201-8518-9dbade4e452d> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.3" ;
-    skos:prefLabel "prüfen die Passung der Resultate zur Aufgabenstellung,"@de .
-
-<stdProzess/5ab57b12-ad90-4c59-922b-50419053b8d9> a skos:Concept ;
-    skos:broader <stdProzess/f4bc0969-00d2-46f7-ad13-2da9191cdb8d> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.3" ;
-    skos:prefLabel "begründen angemessen auf Basis von Alltagswissen,"@de .
-
-<stdProzess/5e1c4055-3d02-4e4f-8c63-247d66c3ce89> a skos:Concept ;
-    skos:broader <stdProzess/1074f166-7ad0-4c47-9c3b-f5a67676e08a> ;
-    skos:inScheme <> ;
-    skos:notation "7.1.4" ;
-    skos:prefLabel "ziehen Informationen aus mathematikhaltigen Darstellungen in Alltagsmedien,"@de .
-
-<stdProzess/5e26461b-6b07-4698-852b-0f27dc4352ce> a skos:Concept ;
-    skos:broader <stdProzess/36edc5b1-abdf-4650-b5fc-1518c20e73ae> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.4" ;
-    skos:prefLabel "gehen fachbezogen auf Äußerungen von anderen zu mathematischen Inhalten ein (z. B. konstruktiver Umgang mit Fehlern, Weiterführen mathematischer Ideen),"@de .
-
-<stdProzess/608929da-1c9d-434d-970e-335a6d6e00d9> a skos:Concept ;
-    skos:broader <stdProzess/ee1dd142-b367-4be9-bfe1-7cd5d636a4d1> ;
-    skos:inScheme <> ;
-    skos:notation "7.2.1" ;
-    skos:prefLabel "nutzen analoge und digitale Mathematikwerkzeuge (z. B. Geometriesoftware, Tabellenkalkulation, Computeralgebrasystem, Stochastiktool ) zum Problemlösen, Entdecken, Modellieren, Daten verarbeiten, Kontrollieren und Darstellungswechseln etc.,"@de .
-
-<stdProzess/6cfef064-66f9-49ad-bc5b-5ed988f1058a> a skos:Concept ;
-    skos:broader <stdProzess/88136224-fcbb-4da9-ad6f-c899e44a4b36> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.1" ;
-    skos:prefLabel "geben Heurismen an (z. B. Skizze erstellen, systematisch probieren),"@de .
-
-<stdProzess/6e74acb3-6d52-4152-9cf9-fd7f77f1074f> a skos:Concept ;
-    skos:broader <stdProzess/d766745f-65fa-46e9-8f8a-72118950827f> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.1" ;
-    skos:prefLabel "formulieren  Problemstellungen,"@de .
-
-<stdProzess/6e9f69d0-2a97-49c7-b1bd-e8a457f48f02> a skos:Concept ;
-    skos:broader <stdProzess/36edc5b1-abdf-4650-b5fc-1518c20e73ae> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.1" ;
-    skos:prefLabel "stellen Überlegungen, Lösungswege bzw. Ergebnisse und Verfahren verständlich dar,"@de .
-
-<stdProzess/7c475e56-8758-4196-b138-3477274cf213> a skos:Concept ;
-    skos:broader <stdProzess/b3dbcec2-248b-47b5-8a3e-c62de4466c9b> ;
-    skos:inScheme <> ;
-    skos:notation "5.3.1" ;
-    skos:prefLabel "entwickeln eigene Darstellungen,"@de .
-
-<stdProzess/7fb17e3e-5b04-434b-9c7f-d1cde61906cf> a skos:Concept ;
-    skos:broader <stdProzess/ca71db28-14e4-4f46-8301-5efee475212c> ;
-    skos:inScheme <> ;
-    skos:notation "6.2.2" ;
-    skos:prefLabel "beschreiben die innere Struktur mathematischer Objekte (z. B. von Termen) und gehen flexibel und sicher mit ihnen um,"@de .
-
-<stdProzess/8121be38-3a19-4ca7-853e-ef314b93b59a> a skos:Concept ;
-    skos:broader <stdProzess/20f6235c-24ae-418f-96a4-1148fabec83d> ;
+<stdProzess/007cec62-f0e8-4f96-920f-e798b0497c76> a skos:Concept ;
+    skos:broader <stdProzess/56b6bde6-7faa-4a87-8c3f-059b613040e0> ;
     skos:inScheme <> ;
     skos:notation "7.3.1" ;
     skos:prefLabel "reflektieren Möglichkeiten und Grenzen der Nutzung mathematikspezifischer Medien, auch im Vergleich zwischen analogem und digitalem Medium,"@de .
 
-<stdProzess/85772758-fab6-4e1a-a8d1-36f67417edee> a skos:Concept ;
-    skos:broader <stdProzess/9f51513e-7b06-41b2-886b-cb0d92637c57> ;
+<stdProzess/05a99225-85d4-418d-9620-3d52da9cc8b5> a skos:Concept ;
+    skos:broader <stdProzess/07e8dc57-87cc-4785-bb9c-85a36b8a4b57> ;
     skos:inScheme <> ;
-    skos:notation "4.2.1" ;
-    skos:prefLabel "wählen ein geeignetes mathematisches Modell aus,"@de .
+    skos:notation "5.1.2" ;
+    skos:prefLabel "interpretieren vertraute Darstellungen,"@de .
 
-<stdProzess/858d8211-f308-45c6-b958-8b5b141000ff> a skos:Concept ;
-    skos:broader <stdProzess/ca71db28-14e4-4f46-8301-5efee475212c> ;
-    skos:inScheme <> ;
-    skos:notation "6.2.1" ;
-    skos:prefLabel "führen komplexere Lösungs- und Kontrollverfahren aus,"@de .
-
-<stdProzess/85bed1c5-4eb2-41a0-8a39-dd4c404fe0cc> a skos:Concept ;
-    skos:broader <stdProzess/b3dbcec2-248b-47b5-8a3e-c62de4466c9b> ;
-    skos:inScheme <> ;
-    skos:notation "5.3.3" ;
-    skos:prefLabel "interpretieren nicht vertraute Darstellungen und beurteilen ihre Aussagekraft."@de .
-
-<stdProzess/86b1355a-e31c-42e3-90d3-50f49fd939b7> a skos:Concept ;
-    skos:broader <stdProzess/4ca73e65-ca88-46c1-b9a3-3e03905748e5> ;
-    skos:inScheme <> ;
-    skos:notation "5.1.1" ;
-    skos:prefLabel "nutzen und erzeugen vertraute und geübte Darstellungen von mathematischen Objekten und Situationen,"@de .
-
-<stdProzess/87707df5-f4ba-4d3b-94cf-5213e1fc2fd1> a skos:Concept ;
-    skos:broader <stdProzess/d766745f-65fa-46e9-8f8a-72118950827f> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.2" ;
-    skos:prefLabel "wählen geeignete Heurismen zur Lösung entsprechender Probleme aus,"@de .
-
-<stdProzess/8ed67ae9-20d1-46dc-b2ae-a194a5990752> a skos:Concept ;
-    skos:broader <stdProzess/8599073b-23cb-4b37-9949-cb76a643b291> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.1" ;
-    skos:prefLabel "entwickeln und erläutern überschaubare mehrschrittige Argumentationen,"@de .
-
-<stdProzess/8f2c1fd3-1f91-41cd-a8d3-707fe3d461e1> a skos:Concept ;
-    skos:broader <stdProzess/42a5f558-0dfa-46c5-bdd2-df0ac5f884b5> ;
-    skos:inScheme <> ;
-    skos:notation "6.3.1" ;
-    skos:prefLabel "bewerten Lösungs- und Kontrollverfahren hinsichtlich ihrer Effizienz,"@de .
-
-<stdProzess/943a8f13-4e51-4727-a7d0-30201fa6aaa7> a skos:Concept ;
-    skos:broader <stdProzess/36edc5b1-abdf-4650-b5fc-1518c20e73ae> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.3" ;
-    skos:prefLabel "Verwenden die mathematische Fachsprache situationsangemessen und erklären ihre Bedeutung,"@de .
-
-<stdProzess/aa1ff287-17ba-429f-a1c6-f65a9d182b6a> a skos:Concept ;
-    skos:broader <stdProzess/d766745f-65fa-46e9-8f8a-72118950827f> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.3" ;
-    skos:prefLabel "überprüfen  die Plausibilität von Ergebnissen,"@de .
-
-<stdProzess/aeebd566-29a2-44a7-be1c-c980297d0055> a skos:Concept ;
-    skos:broader <stdProzess/94919ad1-f308-434b-b130-3251e2717e0e> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.2" ;
-    skos:prefLabel "bewerten verschiedene Argumentationen (z. B. in Texten und Darstellungen aus digitalen Medien),"@de .
-
-<stdProzess/b145b80e-fb13-4364-80f2-184389052e3f> a skos:Concept ;
-    skos:broader <stdProzess/20f6235c-24ae-418f-96a4-1148fabec83d> ;
-    skos:inScheme <> ;
-    skos:notation "7.3.3" ;
-    skos:prefLabel "beurteilen analoge und digitale Medien kriteriengeleitet je nach Zielsetzung,"@de .
-
-<stdProzess/b18efcfe-1888-4f2f-b72f-d132795bac55> a skos:Concept ;
-    skos:broader <stdProzess/f4bc0969-00d2-46f7-ad13-2da9191cdb8d> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.1" ;
-    skos:prefLabel "geben vertraute Argumentationen wieder (wie Rechnungen, Verfahren, Herleitungen, Sätze),"@de .
-
-<stdProzess/b924290c-d52f-4dae-9ef6-870b3c4f9d6a> a skos:Concept ;
-    skos:broader <stdProzess/36edc5b1-abdf-4650-b5fc-1518c20e73ae> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.2" ;
-    skos:prefLabel "erfassen, interpretieren und deuten komplexere mathematikhaltige Texte und Abbildungen sinnentnehmend und strukturieren Informationen,"@de .
-
-<stdProzess/b981255d-2b3a-45b9-9b31-f6c43d6188a2> a skos:Concept ;
-    skos:broader <stdProzess/b3dbcec2-248b-47b5-8a3e-c62de4466c9b> ;
-    skos:inScheme <> ;
-    skos:notation "5.3.2" ;
-    skos:prefLabel "analysieren und beurteilen verschiedene Formen der Darstellung entsprechend ihres Zwecks,"@de .
-
-<stdProzess/ba0066ea-a583-439b-8f7f-d82ce084bd74> a skos:Concept ;
-    skos:broader <stdProzess/681cfdd4-2bb1-4dc4-a19c-e73cdd96d877> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.2" ;
-    skos:prefLabel "reflektieren das Finden von Lösungsideen, vergleichen und beurteilen verschiedene Lösungswege."@de .
-
-<stdProzess/ba5ab1af-58e6-4949-bd08-bdda009c7edf> a skos:Concept ;
-    skos:broader <stdProzess/e8ec236c-d4de-4b68-a7a3-da51a8faec9a> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.2" ;
-    skos:prefLabel "entnehmen Informationen aus einfachen mathematikhaltigen Texten und Abbildungen,"@de .
-
-<stdProzess/ba905bdd-6508-4cee-8c54-4944586870c9> a skos:Concept ;
-    skos:broader <stdProzess/c1eadfdb-6cd2-48dc-a955-359f2e7fe3a0> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.3" ;
-    skos:prefLabel "vergleichen und bewerten Äußerungen von anderen zu mathematischen Inhalten sachlich und fachlich angemessen."@de .
-
-<stdProzess/bf40c1c2-618b-4e5a-82bd-8f90e346ef1d> a skos:Concept ;
-    skos:broader <stdProzess/9f51513e-7b06-41b2-886b-cb0d92637c57> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.4" ;
-    skos:prefLabel "prüfen Ergebnisse einer Modellierung auf Plausibilität in Bezug auf die Ausgangssituation,"@de .
-
-<stdProzess/c57063fb-17b8-441f-b193-2f1aabeb15f4> a skos:Concept ;
-    skos:broader <stdProzess/88136224-fcbb-4da9-ad6f-c899e44a4b36> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.2" ;
-    skos:prefLabel "lösen einfache Probleme mit bekannten Heurismen (z. B. systematisches Probieren),"@de .
-
-<stdProzess/c783867f-ec15-474c-aad9-9ece65521b81> a skos:Concept ;
-    skos:broader <stdProzess/681cfdd4-2bb1-4dc4-a19c-e73cdd96d877> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1" ;
-    skos:prefLabel "lösen anspruchsvolle, komplexe oder offen formulierte Probleme,"@de .
-
-<stdProzess/cbe3cb64-24e5-4afa-90d0-a77e82cb391f> a skos:Concept ;
-    skos:broader <stdProzess/1074f166-7ad0-4c47-9c3b-f5a67676e08a> ;
-    skos:inScheme <> ;
-    skos:notation "7.1.2" ;
-    skos:prefLabel "nutzen analoge und digitale Lernumgebungen zum Lernen von Mathematik,"@de .
-
-<stdProzess/cd82e013-dd33-44de-9757-93a7983f6453> a skos:Concept ;
-    skos:broader <stdProzess/87b9dac6-6a78-4360-96ff-05cecce64823> ;
-    skos:inScheme <> ;
-    skos:notation "4.3.3" ;
-    skos:prefLabel "entscheiden, ob der Modellierungskreislauf erneut durchlaufen werden sollte."@de .
-
-<stdProzess/d60f89c4-5399-430d-9e17-3ba441d036f0> a skos:Concept ;
-    skos:broader <stdProzess/f4bc0969-00d2-46f7-ad13-2da9191cdb8d> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.2" ;
-    skos:prefLabel "formulieren typische Fragen, die auf Argumentationen zielen („Wie verändert sich …?“, „Ist das immer so …?“),"@de .
-
-<stdProzess/da099ba3-757d-4eee-a6ec-5e4812c5a860> a skos:Concept ;
-    skos:broader <stdProzess/94919ad1-f308-434b-b130-3251e2717e0e> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.3" ;
-    skos:prefLabel "stellen selbstständig Fragen, die für die Mathematik charakteristisch sind, und äußern begründet Vermutungen."@de .
-
-<stdProzess/e301a025-e28a-40c7-be6e-61261f88b7e8> a skos:Concept ;
-    skos:broader <stdProzess/87b9dac6-6a78-4360-96ff-05cecce64823> ;
-    skos:inScheme <> ;
-    skos:notation "4.3.2" ;
-    skos:prefLabel "reflektieren und beurteilen verwendete mathematische Modelle kritisch, z. B. in Bezug auf die Realsituation,"@de .
-
-<stdProzess/e463c54f-9975-4df2-a04a-62ccd64bfa68> a skos:Concept ;
-    skos:broader <stdProzess/ee1dd142-b367-4be9-bfe1-7cd5d636a4d1> ;
-    skos:inScheme <> ;
-    skos:notation "7.2.4" ;
-    skos:prefLabel "vergleichen mathematikhaltige Informationen und Darstellungen in Alltagsmedien unter mathematischen Gesichtspunkten,"@de .
-
-<stdProzess/e92afcb3-edd1-49fe-b372-44852de731d1> a skos:Concept ;
-    skos:broader <stdProzess/ee1dd142-b367-4be9-bfe1-7cd5d636a4d1> ;
-    skos:inScheme <> ;
-    skos:notation "7.2.5" ;
-    skos:prefLabel "wählen analoge und digitale Medien kriteriengeleitet je nach Zielsetzung bewusst aus,"@de .
-
-<stdProzess/ebba44c9-97e9-441d-85ec-7530d9ce86b3> a skos:Concept ;
-    skos:broader <stdProzess/c1eadfdb-6cd2-48dc-a955-359f2e7fe3a0> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2" ;
-    skos:prefLabel "interpretieren und beurteilen komplexe mathematische Texte sinnentnehmend,"@de .
-
-<stdProzess/ede24e05-0d36-416e-8688-72206716832e> a skos:Concept ;
-    skos:broader <stdProzess/73db58d9-df44-4201-8518-9dbade4e452d> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.2" ;
-    skos:prefLabel "nutzen bekannte und direkt erkennbare Modelle (z. B. Proportionalität bzw. Dreisatz),"@de .
-
-<stdProzess/ef963939-baeb-41b9-a16c-11f2699a041d> a skos:Concept ;
-    skos:broader <stdProzess/20f6235c-24ae-418f-96a4-1148fabec83d> ;
-    skos:inScheme <> ;
-    skos:notation "7.3.4" ;
-    skos:prefLabel "beurteilen mathematikhaltige Informationen und Darstellungen in Alltagsmedien unter mathematischen Gesichtspunkten,"@de .
-
-<stdProzess/f0149dba-a5a8-4156-a85a-1e23cf558e5c> a skos:Concept ;
-    skos:broader <stdProzess/e8ec236c-d4de-4b68-a7a3-da51a8faec9a> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.3" ;
-    skos:prefLabel "reagieren  sach- und adressatengerecht auf Fragen und Kritik zu eigenen Lösungen,"@de .
-
-<stdProzess/f07944a6-0aeb-4e14-9f87-4a9f4817e0ad> a skos:Concept ;
-    skos:broader <stdProzess/1835e769-ace3-4509-805e-d868ff4e1635> ;
-    skos:inScheme <> ;
-    skos:notation "5.2.1" ;
-    skos:prefLabel "wählen eine Darstellung passend zur Problemstellung aus,"@de .
-
-<stdProzess/f40baa8a-ddc3-46ad-b0c9-85a4f3f4fea4> a skos:Concept ;
-    skos:broader <stdProzess/8599073b-23cb-4b37-9949-cb76a643b291> ;
+<stdProzess/0e52317b-184e-4f33-98cb-3cb20d2a43eb> a skos:Concept ;
+    skos:broader <stdProzess/d3f2588b-f35d-4197-8506-28dc07e6443b> ;
     skos:inScheme <> ;
     skos:notation "1.2.2" ;
     skos:prefLabel "erläutern Lösungswege und prüfen sie u. a. auf Konsistenz,"@de .
 
-<stdProzess/f60c8b25-62ec-48a7-bf79-dabb69c5e491> a skos:Concept ;
-    skos:broader <stdProzess/b84afae5-998d-41f6-b637-3aed6684004c> ;
+<stdProzess/1001fa2d-ad0f-4686-abb3-d72a2e595700> a skos:Concept ;
+    skos:broader <stdProzess/657957b4-8688-48b3-b8dc-c306e3d09ff7> ;
     skos:inScheme <> ;
-    skos:notation "6.1.1" ;
-    skos:prefLabel "verwenden Routineverfahren (z. B. Lösen einer linearen Gleichung),"@de .
+    skos:notation "7.2.3" ;
+    skos:prefLabel "nutzen bekannte Algorithmen mit digitalen Mathematikwerkzeugen,"@de .
 
-<stdProzess/f868e0a1-1e86-4101-adbd-0b9a14223c8e> a skos:Concept ;
-    skos:broader <stdProzess/ee1dd142-b367-4be9-bfe1-7cd5d636a4d1> ;
+<stdProzess/10f86dd4-3197-4ba8-9ca7-413c262df390> a skos:Concept ;
+    skos:broader <stdProzess/15f55aeb-d1f9-4f41-aba7-f2b9734acbb4> ;
     skos:inScheme <> ;
-    skos:notation "7.2.2" ;
-    skos:prefLabel "nutzen weitere mathematikspezifische Medien (z. B. Apps zur Lernstandsbestimmung, Erklärvideos zum Verstehen, Programme zum Üben) zum selbstgesteuerten Lernen und Anwenden von Mathematik,"@de .
+    skos:notation "7.1.3" ;
+    skos:prefLabel "nutzen analoge und digitale Mathematikwerkzeuge (z. B. wissenschaftlichen Taschenrechner), die aus dem Unterricht vertraut sind,"@de .
 
-<stdProzess/fabd3413-c50d-488f-b5b5-1f6811da8197> a skos:Concept ;
-    skos:broader <stdProzess/73db58d9-df44-4201-8518-9dbade4e452d> ;
+<stdProzess/122c956d-8fd6-4b5a-b570-10a968712d9d> a skos:Concept ;
+    skos:broader <stdProzess/15f55aeb-d1f9-4f41-aba7-f2b9734acbb4> ;
     skos:inScheme <> ;
-    skos:notation "4.1.1" ;
-    skos:prefLabel "ordnen einfachen Realsituationen aus dem Alltag mathematische Objekte zu,"@de .
+    skos:notation "7.1.2" ;
+    skos:prefLabel "nutzen analoge und digitale Lernumgebungen zum Lernen von Mathematik,"@de .
 
-<stdProzess/fc2e8840-2487-49d4-a0ee-2eec0295dc3c> a skos:Concept ;
-    skos:broader <stdProzess/b84afae5-998d-41f6-b637-3aed6684004c> ;
+<stdProzess/185b57ef-a849-4637-a110-edd5216a9a27> a skos:Concept ;
+    skos:broader <stdProzess/1bd03ebe-e8e3-4e3a-81a9-4e8b72d510a6> ;
+    skos:inScheme <> ;
+    skos:notation "5.2.1" ;
+    skos:prefLabel "wählen eine Darstellung passend zur Problemstellung aus,"@de .
+
+<stdProzess/19fa4f61-7344-49ee-ab00-75aa4b536577> a skos:Concept ;
+    skos:broader <stdProzess/26d1cc6a-5504-45dd-9f40-4a6a7ceed57a> ;
+    skos:inScheme <> ;
+    skos:notation "5.3.3" ;
+    skos:prefLabel "interpretieren nicht vertraute Darstellungen und beurteilen ihre Aussagekraft."@de .
+
+<stdProzess/245e6534-a627-40e9-bb99-a6f39bd51330> a skos:Concept ;
+    skos:broader <stdProzess/c6637e27-f6a6-43d8-bd2e-099c98ccc06b> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.2" ;
+    skos:prefLabel "nehmen Mathematisierungen vor, die mehrere Schritte erfordern,"@de .
+
+<stdProzess/31305b8a-7952-431c-930a-550ccd0e3b4f> a skos:Concept ;
+    skos:broader <stdProzess/09d8f31b-62d2-4b6b-9151-794bc30b43b4> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.1" ;
+    skos:prefLabel "entwickeln und erläutern komplexe Argumentationen,"@de .
+
+<stdProzess/31807820-1e34-4744-964b-b68517bdc546> a skos:Concept ;
+    skos:broader <stdProzess/700bb4a8-e92f-434e-9b6e-6a5e37006122> ;
+    skos:inScheme <> ;
+    skos:notation "6.2.2" ;
+    skos:prefLabel "beschreiben die innere Struktur mathematischer Objekte (z. B. von Termen) und gehen flexibel und sicher mit ihnen um,"@de .
+
+<stdProzess/3305a36b-aaba-4564-bb9f-40c949a761a5> a skos:Concept ;
+    skos:broader <stdProzess/657957b4-8688-48b3-b8dc-c306e3d09ff7> ;
+    skos:inScheme <> ;
+    skos:notation "7.2.1" ;
+    skos:prefLabel "nutzen analoge und digitale Mathematikwerkzeuge (z. B. Geometriesoftware, Tabellenkalkulation, Computeralgebrasystem, Stochastiktool ) zum Problemlösen, Entdecken, Modellieren, Daten verarbeiten, Kontrollieren und Darstellungswechseln etc.,"@de .
+
+<stdProzess/37873f5a-1f25-44f3-ba0f-47f70029c93f> a skos:Concept ;
+    skos:broader <stdProzess/c6637e27-f6a6-43d8-bd2e-099c98ccc06b> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.1" ;
+    skos:prefLabel "wählen ein geeignetes mathematisches Modell aus,"@de .
+
+<stdProzess/388e1b04-e7ce-44fa-aa0a-97b5b09d2a3f> a skos:Concept ;
+    skos:broader <stdProzess/c6b13ddf-b409-4b74-bee4-6e30c56ad785> ;
     skos:inScheme <> ;
     skos:notation "6.1.2" ;
     skos:prefLabel "gehen mit vertrauten mathematischen Objekten (z. B. Strecken, Termen, Gleichungen) um,"@de .
 
-<stdProzess/42a5f558-0dfa-46c5-bdd2-df0ac5f884b5> a skos:Concept ;
-    skos:broader <stdProzess/2e999390-c9a3-4437-9040-8ba0bd138175> ;
+<stdProzess/3ab5f8c8-0979-461a-bca4-c79879464a34> a skos:Concept ;
+    skos:broader <stdProzess/1cd9a2e5-1f98-4fc4-9108-8b108c5276a5> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/10d96430-69a7-47fa-922a-b2c9a5ace670>,
-        <stdProzess/8f2c1fd3-1f91-41cd-a8d3-707fe3d461e1> ;
-    skos:notation "6.3" ;
-    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
+    skos:notation "2.2.1" ;
+    skos:prefLabel "stellen Überlegungen, Lösungswege bzw. Ergebnisse und Verfahren verständlich dar,"@de .
 
-<stdProzess/4ca73e65-ca88-46c1-b9a3-3e03905748e5> a skos:Concept ;
-    skos:broader <stdProzess/b592a720-c28e-4272-a56d-d53a4432a6e7> ;
+<stdProzess/3b617107-634d-4d56-8bbc-ed71206a337b> a skos:Concept ;
+    skos:broader <stdProzess/e8bbdd2e-8cc2-4e06-a50b-46c97c9c8aa1> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/49adf629-ef31-401d-8581-df71724a3d07>,
-        <stdProzess/86b1355a-e31c-42e3-90d3-50f49fd939b7> ;
+    skos:notation "4.3.1" ;
+    skos:prefLabel "modellieren komplexe oder unvertraute Situationen und entwickeln ggf. eigene Modelle,"@de .
+
+<stdProzess/3e7814f2-4f8e-4a13-8c57-c20b33a5906a> a skos:Concept ;
+    skos:broader <stdProzess/d26af62e-42b5-4780-9da1-ad9d6eee67bf> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2" ;
+    skos:prefLabel "interpretieren und beurteilen komplexe mathematische Texte sinnentnehmend,"@de .
+
+<stdProzess/48818cc1-ead6-42e6-accc-5ecee6cb7153> a skos:Concept ;
+    skos:broader <stdProzess/657957b4-8688-48b3-b8dc-c306e3d09ff7> ;
+    skos:inScheme <> ;
+    skos:notation "7.2.4" ;
+    skos:prefLabel "vergleichen mathematikhaltige Informationen und Darstellungen in Alltagsmedien unter mathematischen Gesichtspunkten,"@de .
+
+<stdProzess/5403bdbd-f9ae-435b-8a7b-2170d7f7ca35> a skos:Concept ;
+    skos:broader <stdProzess/1cd9a2e5-1f98-4fc4-9108-8b108c5276a5> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.2" ;
+    skos:prefLabel "erfassen, interpretieren und deuten komplexere mathematikhaltige Texte und Abbildungen sinnentnehmend und strukturieren Informationen,"@de .
+
+<stdProzess/5576993b-02e5-4179-90b5-0ed484eb229b> a skos:Concept ;
+    skos:broader <stdProzess/657957b4-8688-48b3-b8dc-c306e3d09ff7> ;
+    skos:inScheme <> ;
+    skos:notation "7.2.2" ;
+    skos:prefLabel "nutzen weitere mathematikspezifische Medien (z. B. Apps zur Lernstandsbestimmung, Erklärvideos zum Verstehen, Programme zum Üben) zum selbstgesteuerten Lernen und Anwenden von Mathematik,"@de .
+
+<stdProzess/55c8d2b2-2bac-4eee-ab9a-1a990c9bd4a2> a skos:Concept ;
+    skos:broader <stdProzess/c6637e27-f6a6-43d8-bd2e-099c98ccc06b> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.5" ;
+    skos:prefLabel "ordnen einem mathematischen Modell passende Situationen zu,"@de .
+
+<stdProzess/5ced04a9-e14a-4f56-9cb5-da55f3c8e5c5> a skos:Concept ;
+    skos:broader <stdProzess/719b04a5-65e9-425b-9b41-5373f895ac8f> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.1" ;
+    skos:prefLabel "formulieren einfache mathematische Sachverhalte mit eigenen Worten und mithilfe mathematischer Begriffe mündlich und schriftlich,"@de .
+
+<stdProzess/61149c32-e294-4d97-a65e-3ee70bc2d17e> a skos:Concept ;
+    skos:broader <stdProzess/09d8f31b-62d2-4b6b-9151-794bc30b43b4> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.3" ;
+    skos:prefLabel "stellen selbstständig Fragen, die für die Mathematik charakteristisch sind, und äußern begründet Vermutungen."@de .
+
+<stdProzess/65deba51-5a1c-4729-8092-aacafdb53d8c> a skos:Concept ;
+    skos:broader <stdProzess/da471a8f-9b9d-4111-82c1-d5664a27ab88> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.2" ;
+    skos:prefLabel "wählen geeignete Heurismen zur Lösung entsprechender Probleme aus,"@de .
+
+<stdProzess/670d5113-260d-481f-a2a8-aea929b16ed4> a skos:Concept ;
+    skos:broader <stdProzess/d3f2588b-f35d-4197-8506-28dc07e6443b> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.4" ;
+    skos:prefLabel "erläutern mathematische Zusammenhänge, Ordnungen und logische Strukturen,"@de .
+
+<stdProzess/6c10c969-cd86-4e85-a225-3193bac12f08> a skos:Concept ;
+    skos:broader <stdProzess/657957b4-8688-48b3-b8dc-c306e3d09ff7> ;
+    skos:inScheme <> ;
+    skos:notation "7.2.5" ;
+    skos:prefLabel "wählen analoge und digitale Medien kriteriengeleitet je nach Zielsetzung bewusst aus,"@de .
+
+<stdProzess/6e0b6beb-4241-4999-8654-1a7282c4e144> a skos:Concept ;
+    skos:broader <stdProzess/d3f2588b-f35d-4197-8506-28dc07e6443b> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.3" ;
+    skos:prefLabel "bewerten Ergebnisse und Aussagen auch bzgl. ihres Anwendungskontextes,"@de .
+
+<stdProzess/72d12021-61b7-4cec-8396-8ed707b755d1> a skos:Concept ;
+    skos:broader <stdProzess/ee244f3b-0537-4625-a463-44e33b56ecfa> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.3" ;
+    skos:prefLabel "prüfen die Passung der Resultate zur Aufgabenstellung,"@de .
+
+<stdProzess/72d2bed1-6c3c-459f-926c-1aea435961d2> a skos:Concept ;
+    skos:broader <stdProzess/d26af62e-42b5-4780-9da1-ad9d6eee67bf> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.3" ;
+    skos:prefLabel "vergleichen und bewerten Äußerungen von anderen zu mathematischen Inhalten sachlich und fachlich angemessen."@de .
+
+<stdProzess/764702fb-8727-42ec-8654-352a65b24152> a skos:Concept ;
+    skos:broader <stdProzess/2f94ea53-b42c-42b4-8952-465a85558262> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.2" ;
+    skos:prefLabel "formulieren typische Fragen, die auf Argumentationen zielen („Wie verändert sich …?“, „Ist das immer so …?“),"@de .
+
+<stdProzess/765a21c7-b08a-4aa2-888a-47cafb157c59> a skos:Concept ;
+    skos:broader <stdProzess/2f94ea53-b42c-42b4-8952-465a85558262> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.3" ;
+    skos:prefLabel "begründen angemessen auf Basis von Alltagswissen,"@de .
+
+<stdProzess/765a7dcf-29dc-480e-a50f-311abddc180c> a skos:Concept ;
+    skos:broader <stdProzess/56b6bde6-7faa-4a87-8c3f-059b613040e0> ;
+    skos:inScheme <> ;
+    skos:notation "7.3.2" ;
+    skos:prefLabel "konzipieren und erstellen selbst analoge und digitale Medien um mathematische Sachverhalte darzustellen oder zu bearbeiten und stellen ihre Ergebnisse vor (z. B. Präsentation, Videos),"@de .
+
+<stdProzess/7b38a5e8-8cf6-46ae-9372-82dec88b3d8e> a skos:Concept ;
+    skos:broader <stdProzess/c6637e27-f6a6-43d8-bd2e-099c98ccc06b> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.3" ;
+    skos:prefLabel "interpretieren Ergebnisse einer Modellierung,"@de .
+
+<stdProzess/8197d9a0-738d-496b-bf54-9edfc2cf73bf> a skos:Concept ;
+    skos:broader <stdProzess/da471a8f-9b9d-4111-82c1-d5664a27ab88> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.3" ;
+    skos:prefLabel "überprüfen  die Plausibilität von Ergebnissen,"@de .
+
+<stdProzess/8467ee91-ea65-4d87-b4ca-d7da770aa845> a skos:Concept ;
+    skos:broader <stdProzess/15f55aeb-d1f9-4f41-aba7-f2b9734acbb4> ;
+    skos:inScheme <> ;
+    skos:notation "7.1.1" ;
+    skos:prefLabel "verwenden allgemeine Medien zur Kommunikation (z. B. Recherche in Fachliteratur oder Internet, Nutzung von Lernplattformen) und zur Präsentation mathematischer Inhalte in Situationen, in denen der Einsatz geübt wurde,"@de .
+
+<stdProzess/863f10c4-c8e7-4a94-a330-c5c968102b36> a skos:Concept ;
+    skos:broader <stdProzess/d26af62e-42b5-4780-9da1-ad9d6eee67bf> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.1" ;
+    skos:prefLabel "präsentieren sachgerecht komplexe mathematische Sachverhalte mündlich und schriftlich,"@de .
+
+<stdProzess/87c9daa3-8e26-434b-9a7b-07a7d9a071f7> a skos:Concept ;
+    skos:broader <stdProzess/ee244f3b-0537-4625-a463-44e33b56ecfa> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.1" ;
+    skos:prefLabel "ordnen einfachen Realsituationen aus dem Alltag mathematische Objekte zu,"@de .
+
+<stdProzess/88454018-a360-4a12-857b-839571bfd0b8> a skos:Concept ;
+    skos:broader <stdProzess/1bd03ebe-e8e3-4e3a-81a9-4e8b72d510a6> ;
+    skos:inScheme <> ;
+    skos:notation "5.2.3" ;
+    skos:prefLabel "übersetzen symbolische und formale Sprache in natürliche Sprache und umgekehrt,"@de .
+
+<stdProzess/8a5df40f-201c-42f6-8107-06d9b5b0877c> a skos:Concept ;
+    skos:broader <stdProzess/1cd9a2e5-1f98-4fc4-9108-8b108c5276a5> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.3" ;
+    skos:prefLabel "Verwenden die mathematische Fachsprache situationsangemessen und erklären ihre Bedeutung,"@de .
+
+<stdProzess/8f424ee2-6ac0-4938-9972-1ccd01eddc39> a skos:Concept ;
+    skos:broader <stdProzess/c6b13ddf-b409-4b74-bee4-6e30c56ad785> ;
+    skos:inScheme <> ;
+    skos:notation "6.1.1" ;
+    skos:prefLabel "verwenden Routineverfahren (z. B. Lösen einer linearen Gleichung),"@de .
+
+<stdProzess/91296654-df67-41df-a948-60b7f5cfd50b> a skos:Concept ;
+    skos:broader <stdProzess/56b6bde6-7faa-4a87-8c3f-059b613040e0> ;
+    skos:inScheme <> ;
+    skos:notation "7.3.3" ;
+    skos:prefLabel "beurteilen analoge und digitale Medien kriteriengeleitet je nach Zielsetzung,"@de .
+
+<stdProzess/926f64f9-2c51-47e7-afc2-e3e68394ec99> a skos:Concept ;
+    skos:broader <stdProzess/15f55aeb-d1f9-4f41-aba7-f2b9734acbb4> ;
+    skos:inScheme <> ;
+    skos:notation "7.1.4" ;
+    skos:prefLabel "ziehen Informationen aus mathematikhaltigen Darstellungen in Alltagsmedien,"@de .
+
+<stdProzess/9c585437-7cdd-447d-bdb5-3094382afb7d> a skos:Concept ;
+    skos:broader <stdProzess/e8bbdd2e-8cc2-4e06-a50b-46c97c9c8aa1> ;
+    skos:inScheme <> ;
+    skos:notation "4.3.3" ;
+    skos:prefLabel "entscheiden, ob der Modellierungskreislauf erneut durchlaufen werden sollte."@de .
+
+<stdProzess/9e89757c-131f-4412-ae4c-46792606e34b> a skos:Concept ;
+    skos:broader <stdProzess/da471a8f-9b9d-4111-82c1-d5664a27ab88> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.1" ;
+    skos:prefLabel "formulieren  Problemstellungen,"@de .
+
+<stdProzess/a2215500-cb18-47fd-93b4-4017b8afc434> a skos:Concept ;
+    skos:broader <stdProzess/700bb4a8-e92f-434e-9b6e-6a5e37006122> ;
+    skos:inScheme <> ;
+    skos:notation "6.2.1" ;
+    skos:prefLabel "führen komplexere Lösungs- und Kontrollverfahren aus,"@de .
+
+<stdProzess/a80b55cc-8bf7-44a9-8e5b-a17f339afa3b> a skos:Concept ;
+    skos:broader <stdProzess/2f94ea53-b42c-42b4-8952-465a85558262> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.1" ;
+    skos:prefLabel "geben vertraute Argumentationen wieder (wie Rechnungen, Verfahren, Herleitungen, Sätze),"@de .
+
+<stdProzess/ad8a7e9c-c3af-47d1-86f2-0a95d9bfb748> a skos:Concept ;
+    skos:broader <stdProzess/5b8213e6-60cd-4705-9b4d-7ee0438c2f1f> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.2" ;
+    skos:prefLabel "reflektieren das Finden von Lösungsideen, vergleichen und beurteilen verschiedene Lösungswege."@de .
+
+<stdProzess/b3815fdf-65ae-43b1-b4de-c7eb760adfbd> a skos:Concept ;
+    skos:broader <stdProzess/62dfa38b-5520-4214-be84-056cb1c12398> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.2" ;
+    skos:prefLabel "lösen einfache Probleme mit bekannten Heurismen (z. B. systematisches Probieren),"@de .
+
+<stdProzess/b864c7f3-0fba-469d-8eab-1ab030e99b8b> a skos:Concept ;
+    skos:broader <stdProzess/d3f2588b-f35d-4197-8506-28dc07e6443b> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.1" ;
+    skos:prefLabel "entwickeln und erläutern überschaubare mehrschrittige Argumentationen,"@de .
+
+<stdProzess/b894a10c-6e96-4cf4-badc-f26b206a9438> a skos:Concept ;
+    skos:broader <stdProzess/56b6bde6-7faa-4a87-8c3f-059b613040e0> ;
+    skos:inScheme <> ;
+    skos:notation "7.3.5" ;
+    skos:prefLabel "setzen bekannte mathematische Verfahren mithilfe digitaler Mathematikwerkzeuge (z. B. Tabellenkalkulation) als Algorithmus um,"@de .
+
+<stdProzess/ba4d34b5-7de1-4c9d-bae5-76049ade04aa> a skos:Concept ;
+    skos:broader <stdProzess/26d1cc6a-5504-45dd-9f40-4a6a7ceed57a> ;
+    skos:inScheme <> ;
+    skos:notation "5.3.2" ;
+    skos:prefLabel "analysieren und beurteilen verschiedene Formen der Darstellung entsprechend ihres Zwecks,"@de .
+
+<stdProzess/bc930280-a35c-4c75-a4ea-53bc549f8ee5> a skos:Concept ;
+    skos:broader <stdProzess/07e8dc57-87cc-4785-bb9c-85a36b8a4b57> ;
+    skos:inScheme <> ;
+    skos:notation "5.1.1" ;
+    skos:prefLabel "nutzen und erzeugen vertraute und geübte Darstellungen von mathematischen Objekten und Situationen,"@de .
+
+<stdProzess/ca7dd645-6675-4310-ba85-bdeda242fd10> a skos:Concept ;
+    skos:broader <stdProzess/56b6bde6-7faa-4a87-8c3f-059b613040e0> ;
+    skos:inScheme <> ;
+    skos:notation "7.3.4" ;
+    skos:prefLabel "beurteilen mathematikhaltige Informationen und Darstellungen in Alltagsmedien unter mathematischen Gesichtspunkten,"@de .
+
+<stdProzess/cbe3f04b-3c85-4b4e-b052-c0161c27e7bd> a skos:Concept ;
+    skos:broader <stdProzess/db3cb8aa-b51c-45a8-acb7-e6fab5ebffd6> ;
+    skos:inScheme <> ;
+    skos:notation "6.3.2" ;
+    skos:prefLabel "beschreiben die innere Struktur von Lösungsverfahren, erfassen deren Allgemeingültigkeit und übertragen die Verfahren auf neue Situationen."@de .
+
+<stdProzess/cd085111-a04f-4a60-9c1d-580301fa192f> a skos:Concept ;
+    skos:broader <stdProzess/719b04a5-65e9-425b-9b41-5373f895ac8f> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.2" ;
+    skos:prefLabel "entnehmen Informationen aus einfachen mathematikhaltigen Texten und Abbildungen,"@de .
+
+<stdProzess/cee39b19-8aac-4c46-8d02-2311d825bd90> a skos:Concept ;
+    skos:broader <stdProzess/db3cb8aa-b51c-45a8-acb7-e6fab5ebffd6> ;
+    skos:inScheme <> ;
+    skos:notation "6.3.1" ;
+    skos:prefLabel "bewerten Lösungs- und Kontrollverfahren hinsichtlich ihrer Effizienz,"@de .
+
+<stdProzess/d15da156-f9aa-42b6-b9ab-e1d002e3ab62> a skos:Concept ;
+    skos:broader <stdProzess/09d8f31b-62d2-4b6b-9151-794bc30b43b4> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.2" ;
+    skos:prefLabel "bewerten verschiedene Argumentationen (z. B. in Texten und Darstellungen aus digitalen Medien),"@de .
+
+<stdProzess/d16b16db-86bd-4508-8f07-ff8d7bcb1980> a skos:Concept ;
+    skos:broader <stdProzess/e8bbdd2e-8cc2-4e06-a50b-46c97c9c8aa1> ;
+    skos:inScheme <> ;
+    skos:notation "4.3.2" ;
+    skos:prefLabel "reflektieren und beurteilen verwendete mathematische Modelle kritisch, z. B. in Bezug auf die Realsituation,"@de .
+
+<stdProzess/d4bb8b6b-3160-42e5-9785-84b202c7e67c> a skos:Concept ;
+    skos:broader <stdProzess/719b04a5-65e9-425b-9b41-5373f895ac8f> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.3" ;
+    skos:prefLabel "reagieren  sach- und adressatengerecht auf Fragen und Kritik zu eigenen Lösungen,"@de .
+
+<stdProzess/deea2bb9-eea5-40cf-819d-17c04282e1c0> a skos:Concept ;
+    skos:broader <stdProzess/62dfa38b-5520-4214-be84-056cb1c12398> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.1" ;
+    skos:prefLabel "geben Heurismen an (z. B. Skizze erstellen, systematisch probieren),"@de .
+
+<stdProzess/ea81fd16-4af9-46b1-ab77-ff7c4bf12606> a skos:Concept ;
+    skos:broader <stdProzess/c6637e27-f6a6-43d8-bd2e-099c98ccc06b> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.4" ;
+    skos:prefLabel "prüfen Ergebnisse einer Modellierung auf Plausibilität in Bezug auf die Ausgangssituation,"@de .
+
+<stdProzess/f200d15f-df77-440e-a8bc-1f588b79d273> a skos:Concept ;
+    skos:broader <stdProzess/ee244f3b-0537-4625-a463-44e33b56ecfa> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.2" ;
+    skos:prefLabel "nutzen bekannte und direkt erkennbare Modelle (z. B. Proportionalität bzw. Dreisatz),"@de .
+
+<stdProzess/f2c908ca-9b7a-4af2-8c3e-a203ed58383a> a skos:Concept ;
+    skos:broader <stdProzess/5b8213e6-60cd-4705-9b4d-7ee0438c2f1f> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1" ;
+    skos:prefLabel "lösen anspruchsvolle, komplexe oder offen formulierte Probleme,"@de .
+
+<stdProzess/f3afa282-6e55-4391-af4a-25bd6368073f> a skos:Concept ;
+    skos:broader <stdProzess/1bd03ebe-e8e3-4e3a-81a9-4e8b72d510a6> ;
+    skos:inScheme <> ;
+    skos:notation "5.2.2" ;
+    skos:prefLabel "wechseln sachgerecht zwischen mathematischen Darstellungen und erklären, wie sie vernetzt sind,"@de .
+
+<stdProzess/f4bb8428-df2f-4e89-aac2-96c7e2a84378> a skos:Concept ;
+    skos:broader <stdProzess/1cd9a2e5-1f98-4fc4-9108-8b108c5276a5> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.4" ;
+    skos:prefLabel "gehen fachbezogen auf Äußerungen von anderen zu mathematischen Inhalten ein (z. B. konstruktiver Umgang mit Fehlern, Weiterführen mathematischer Ideen),"@de .
+
+<stdProzess/fd27afd6-8a0b-42e3-badd-1a57e3f54183> a skos:Concept ;
+    skos:broader <stdProzess/56b6bde6-7faa-4a87-8c3f-059b613040e0> ;
+    skos:inScheme <> ;
+    skos:notation "7.3.6" ;
+    skos:prefLabel "nutzen Algorithmen mit Hilfe digitaler Werkzeuge, um den jeweils zugrundeliegenden mathematischen Inhalt zu untersuchen."@de .
+
+<stdProzess/fe45a3c3-392a-4500-b15c-2fd8a6a10cac> a skos:Concept ;
+    skos:broader <stdProzess/26d1cc6a-5504-45dd-9f40-4a6a7ceed57a> ;
+    skos:inScheme <> ;
+    skos:notation "5.3.1" ;
+    skos:prefLabel "entwickeln eigene Darstellungen,"@de .
+
+<stdProzess/07e8dc57-87cc-4785-bb9c-85a36b8a4b57> a skos:Concept ;
+    skos:broader <stdProzess/d38950f2-171e-417e-9cae-86f3afdea2f8> ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/05a99225-85d4-418d-9620-3d52da9cc8b5>,
+        <stdProzess/bc930280-a35c-4c75-a4ea-53bc549f8ee5> ;
     skos:notation "5.1" ;
     skos:prefLabel "Reproduzieren"@de .
 
-<stdProzess/681cfdd4-2bb1-4dc4-a19c-e73cdd96d877> a skos:Concept ;
-    skos:broader <stdProzess/e0558fc2-142d-403a-8975-62aa9328028d> ;
+<stdProzess/5b8213e6-60cd-4705-9b4d-7ee0438c2f1f> a skos:Concept ;
+    skos:broader <stdProzess/6054b0fe-a0fb-4c84-8e55-1da5d851806f> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/ba0066ea-a583-439b-8f7f-d82ce084bd74>,
-        <stdProzess/c783867f-ec15-474c-aad9-9ece65521b81> ;
+    skos:narrower <stdProzess/ad8a7e9c-c3af-47d1-86f2-0a95d9bfb748>,
+        <stdProzess/f2c908ca-9b7a-4af2-8c3e-a203ed58383a> ;
     skos:notation "3.3" ;
     skos:prefLabel "Verallgemeinern und Reflektieren"@de .
 
-<stdProzess/88136224-fcbb-4da9-ad6f-c899e44a4b36> a skos:Concept ;
-    skos:broader <stdProzess/e0558fc2-142d-403a-8975-62aa9328028d> ;
+<stdProzess/62dfa38b-5520-4214-be84-056cb1c12398> a skos:Concept ;
+    skos:broader <stdProzess/6054b0fe-a0fb-4c84-8e55-1da5d851806f> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/6cfef064-66f9-49ad-bc5b-5ed988f1058a>,
-        <stdProzess/c57063fb-17b8-441f-b193-2f1aabeb15f4> ;
+    skos:narrower <stdProzess/b3815fdf-65ae-43b1-b4de-c7eb760adfbd>,
+        <stdProzess/deea2bb9-eea5-40cf-819d-17c04282e1c0> ;
     skos:notation "3.1" ;
     skos:prefLabel "Reproduzieren"@de .
 
-<stdProzess/b84afae5-998d-41f6-b637-3aed6684004c> a skos:Concept ;
-    skos:broader <stdProzess/2e999390-c9a3-4437-9040-8ba0bd138175> ;
+<stdProzess/700bb4a8-e92f-434e-9b6e-6a5e37006122> a skos:Concept ;
+    skos:broader <stdProzess/ffae3b1a-4278-4070-9305-5097e9cb0a2b> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/f60c8b25-62ec-48a7-bf79-dabb69c5e491>,
-        <stdProzess/fc2e8840-2487-49d4-a0ee-2eec0295dc3c> ;
+    skos:narrower <stdProzess/31807820-1e34-4744-964b-b68517bdc546>,
+        <stdProzess/a2215500-cb18-47fd-93b4-4017b8afc434> ;
+    skos:notation "6.2" ;
+    skos:prefLabel "Zusammenhänge  herstellen"@de .
+
+<stdProzess/c6b13ddf-b409-4b74-bee4-6e30c56ad785> a skos:Concept ;
+    skos:broader <stdProzess/ffae3b1a-4278-4070-9305-5097e9cb0a2b> ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/388e1b04-e7ce-44fa-aa0a-97b5b09d2a3f>,
+        <stdProzess/8f424ee2-6ac0-4938-9972-1ccd01eddc39> ;
     skos:notation "6.1" ;
     skos:prefLabel "Reproduzieren"@de .
 
-<stdProzess/ca71db28-14e4-4f46-8301-5efee475212c> a skos:Concept ;
-    skos:broader <stdProzess/2e999390-c9a3-4437-9040-8ba0bd138175> ;
+<stdProzess/db3cb8aa-b51c-45a8-acb7-e6fab5ebffd6> a skos:Concept ;
+    skos:broader <stdProzess/ffae3b1a-4278-4070-9305-5097e9cb0a2b> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/7fb17e3e-5b04-434b-9c7f-d1cde61906cf>,
-        <stdProzess/858d8211-f308-45c6-b958-8b5b141000ff> ;
-    skos:notation "6.2" ;
-    skos:prefLabel "Zusammenhänge  herstellen"@de .
-
-<stdProzess/08344541-753e-4b6c-8410-9770f242242d> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Mathematische Bildung in der digitalen Welt umfasst: Fachliche Kompetenzen digital zu fördern und digitale Kompetenzen fachlich zu fördern. Darüber hinaus sollte ein Beitrag geleistet werden zur digitalen personalen Bildung, um Mathematik für die kritische Rezeption von Alltagsmedien zu nutzen. Dazu gehört der Umgang analoger Medien (Schulbuch, Lineal, Körpermodell, Formelsammlung, Spielwürfel, ...) im Verbund mit digitalen Medien. Digitale Medien, die für das Lernen und Lehren von Mathematik relevant sind, umfassen mathematikspezifische sowie allgemeine Medien. Mathematikspezifisch sind insbesondere digitale Mathematikwerkzeuge als themenübergreifende Medien, aber auch themenspezifische mathematikhaltige Medien (z. B. Apps, interaktive Lernangebote). Allgemeine Medien (z. B. Videos, Textverarbeitung, Präsentationsmedien) spielen eine Rolle, da Sie erfordern, mathematikhaltige Informationen zu bündeln, zu präsentieren und nach mathematischen Kriterien zu beurteilen. Das Spektrum der Kompetenzen reicht von der Nutzung analoger Medien, der kritischen Prüfung von Informationen der digitalen Welt unter mathematischen Gesichtspunkten, der Verwendung digitaler Mathematikwerkzeuge (z. B. Tabellenkalkulation oder Geometriesoftware) und Lernumgebungen über die Erstellung und Gestaltung eigener allgemeiner Medien wie Videos und Präsentationen bis hin zur bewussten Verwendung, Entwicklung und Reflexion von Algorithmen mit Hilfe digitaler Medien."@de ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/1074f166-7ad0-4c47-9c3b-f5a67676e08a>,
-        <stdProzess/20f6235c-24ae-418f-96a4-1148fabec83d>,
-        <stdProzess/ee1dd142-b367-4be9-bfe1-7cd5d636a4d1> ;
-    skos:notation "7" ;
-    skos:prefLabel "Mit Medien mathematisch umgehen"@de .
-
-<stdProzess/1835e769-ace3-4509-805e-d868ff4e1635> a skos:Concept ;
-    skos:broader <stdProzess/b592a720-c28e-4272-a56d-d53a4432a6e7> ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/03518bdb-6185-449c-9f3e-9ccee8266099>,
-        <stdProzess/3d5920fd-4897-456a-ae8c-ed68625dacdb>,
-        <stdProzess/f07944a6-0aeb-4e14-9f87-4a9f4817e0ad> ;
-    skos:notation "5.2" ;
-    skos:prefLabel "Zusammenhänge  herstellen"@de .
-
-<stdProzess/2e999390-c9a3-4437-9040-8ba0bd138175> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Diese Kompetenz beinhaltet das verständige Umgehen mit mathematischen Objekten wie Zahlen, Größen, Symbolen, Variablen, Termen, Formeln, Gleichungen und Funktionen sowie in der Geometrie Strecken, Winkeln und Kreisen mit und ohne Hilfsmittel. Das Spektrum reicht hier von einfachen, überschaubaren Routineverfahren bis hin zu komplexen Verfahren einschließlich deren reflektierender Bewertung. Diese Kompetenz beinhaltet auch Faktenwissen und Regelwissen für ein zielgerichtetes und effizientes Bearbeiten von mathematischen Aufgabenstellungen."@de ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/42a5f558-0dfa-46c5-bdd2-df0ac5f884b5>,
-        <stdProzess/b84afae5-998d-41f6-b637-3aed6684004c>,
-        <stdProzess/ca71db28-14e4-4f46-8301-5efee475212c> ;
-    skos:notation "6" ;
-    skos:prefLabel "Mit mathematischen Objekten umgehen"@de .
-
-<stdProzess/632509ab-09a3-427d-b240-546ebab94e03> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Beim mathematischen Modellieren geht es um das Lösen eines realen Problems mit Hilfe von Mathematik. Von besonderer Bedeutung dabei ist das Übersetzen zwischen Realsituationen und mathematischen Begriffen, Resultaten oder Methoden. Typische Teilschritte des Modellierens sind das Strukturieren und Vereinfachen gegebener Realsituationen, das Übersetzen realer Gegebenheiten in mathematische Modelle, das Arbeiten im mathematischen Modell, das Interpretieren mathematischer Ergebnisse in Bezug auf Realsituationen und das Überprüfen von Ergebnissen sowie des Modells im Hinblick auf Stimmigkeit und Angemessenheit bezogen auf die Realsituation. Das Spektrum reicht von Standardmodellen (z. B. proportionale Zuordnung) bis hin zu komplexeren Modellierungen (z. B. geometrische Konstruktionen, Sinusfunktion, Exponentialfunktion, Zufallsexperimente)."@de ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/73db58d9-df44-4201-8518-9dbade4e452d>,
-        <stdProzess/87b9dac6-6a78-4360-96ff-05cecce64823>,
-        <stdProzess/9f51513e-7b06-41b2-886b-cb0d92637c57> ;
-    skos:notation "4" ;
-    skos:prefLabel "Mathematisch modellieren"@de .
-
-<stdProzess/73db58d9-df44-4201-8518-9dbade4e452d> a skos:Concept ;
-    skos:broader <stdProzess/632509ab-09a3-427d-b240-546ebab94e03> ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/57d1ee8c-fbfe-4ddc-9066-635652b97926>,
-        <stdProzess/ede24e05-0d36-416e-8688-72206716832e>,
-        <stdProzess/fabd3413-c50d-488f-b5b5-1f6811da8197> ;
-    skos:notation "4.1" ;
-    skos:prefLabel "Reproduzieren"@de .
-
-<stdProzess/87b9dac6-6a78-4360-96ff-05cecce64823> a skos:Concept ;
-    skos:broader <stdProzess/632509ab-09a3-427d-b240-546ebab94e03> ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/2d801027-9649-4d7e-9b55-af70b14d921c>,
-        <stdProzess/cd82e013-dd33-44de-9757-93a7983f6453>,
-        <stdProzess/e301a025-e28a-40c7-be6e-61261f88b7e8> ;
-    skos:notation "4.3" ;
+    skos:narrower <stdProzess/cbe3f04b-3c85-4b4e-b052-c0161c27e7bd>,
+        <stdProzess/cee39b19-8aac-4c46-8d02-2311d825bd90> ;
+    skos:notation "6.3" ;
     skos:prefLabel "Verallgemeinern und Reflektieren"@de .
 
-<stdProzess/8f4f6f31-cd3c-43b8-b2bc-ff5269175794> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Zu dieser Kompetenz gehören sowohl das Entnehmen von Informationen aus Texten, mündlichen Äußerungen oder sonstigen Quellen als auch das Darlegen von Überlegungen, Lösungswegen bzw. Ergebnissen in mündlicher und schriftlicher Form auch unter Verwendung einer adressatengerechten Fachsprache. Das Spektrum reicht von der direkten Informationsentnahme aus Texten des Alltagsgebrauchs bzw. vom Aufschreiben einfacher Lösungswege bis hin zum sinnentnehmenden Erfassen fachsprachlicher Texte bzw. vom Dokumentieren einfacher Lösungswege zum strukturierten Darlegen oder Präsentieren eigener Überlegungen, auch mit Hilfe geeigneter Medien."@de ;
+<stdProzess/09d8f31b-62d2-4b6b-9151-794bc30b43b4> a skos:Concept ;
+    skos:broader <stdProzess/c927b62e-e2c1-4ac0-8bc4-65e8464270a5> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/36edc5b1-abdf-4650-b5fc-1518c20e73ae>,
-        <stdProzess/c1eadfdb-6cd2-48dc-a955-359f2e7fe3a0>,
-        <stdProzess/e8ec236c-d4de-4b68-a7a3-da51a8faec9a> ;
-    skos:notation "2" ;
-    skos:prefLabel "Mathematisch kommunizieren"@de .
-
-<stdProzess/94919ad1-f308-434b-b130-3251e2717e0e> a skos:Concept ;
-    skos:broader <stdProzess/96b1630a-34aa-49a4-b69a-23f9d389f815> ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/09258b04-3aac-4eeb-88b8-06c6d9ad2bfb>,
-        <stdProzess/aeebd566-29a2-44a7-be1c-c980297d0055>,
-        <stdProzess/da099ba3-757d-4eee-a6ec-5e4812c5a860> ;
+    skos:narrower <stdProzess/31305b8a-7952-431c-930a-550ccd0e3b4f>,
+        <stdProzess/61149c32-e294-4d97-a65e-3ee70bc2d17e>,
+        <stdProzess/d15da156-f9aa-42b6-b9ab-e1d002e3ab62> ;
     skos:notation "1.3" ;
     skos:prefLabel "Verallgemeinern und Reflektieren"@de .
 
-<stdProzess/96b1630a-34aa-49a4-b69a-23f9d389f815> a skos:Concept ;
+<stdProzess/0cde5945-9d95-4e0c-b45b-0db194ee8a27> a skos:Concept ;
     skos:broader <stdProzess/> ;
-    skos:definition "Zu dieser Kompetenz gehören sowohl das Entwickeln eigenständiger, situationsangemessener mathematischer Argumentationen (wie Begründungen, Beweise), als auch das Erläutern, Prüfen und Begründen von Lösungswegen und das begründete Äußern von Vermutungen. Das Spektrum reicht dabei von einfachen Plausibilitätsargumenten über inhaltlich-anschauliche Begründungen bis hin zu Argumentationsketten."@de ;
+    skos:definition "Zu dieser Kompetenz gehören sowohl das Entnehmen von Informationen aus Texten, mündlichen Äußerungen oder sonstigen Quellen als auch das Darlegen von Überlegungen, Lösungswegen bzw. Ergebnissen in mündlicher und schriftlicher Form auch unter Verwendung einer adressatengerechten Fachsprache. Das Spektrum reicht von der direkten Informationsentnahme aus Texten des Alltagsgebrauchs bzw. vom Aufschreiben einfacher Lösungswege bis hin zum sinnentnehmenden Erfassen fachsprachlicher Texte bzw. vom Dokumentieren einfacher Lösungswege zum strukturierten Darlegen oder Präsentieren eigener Überlegungen, auch mit Hilfe geeigneter Medien."@de ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/8599073b-23cb-4b37-9949-cb76a643b291>,
-        <stdProzess/94919ad1-f308-434b-b130-3251e2717e0e>,
-        <stdProzess/f4bc0969-00d2-46f7-ad13-2da9191cdb8d> ;
-    skos:notation "1" ;
-    skos:prefLabel "Mathematisch argumentieren"@de .
+    skos:narrower <stdProzess/1cd9a2e5-1f98-4fc4-9108-8b108c5276a5>,
+        <stdProzess/719b04a5-65e9-425b-9b41-5373f895ac8f>,
+        <stdProzess/d26af62e-42b5-4780-9da1-ad9d6eee67bf> ;
+    skos:notation "2" ;
+    skos:prefLabel "Mathematisch kommunizieren"@de .
 
-<stdProzess/b3dbcec2-248b-47b5-8a3e-c62de4466c9b> a skos:Concept ;
-    skos:broader <stdProzess/b592a720-c28e-4272-a56d-d53a4432a6e7> ;
+<stdProzess/1bd03ebe-e8e3-4e3a-81a9-4e8b72d510a6> a skos:Concept ;
+    skos:broader <stdProzess/d38950f2-171e-417e-9cae-86f3afdea2f8> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/7c475e56-8758-4196-b138-3477274cf213>,
-        <stdProzess/85bed1c5-4eb2-41a0-8a39-dd4c404fe0cc>,
-        <stdProzess/b981255d-2b3a-45b9-9b31-f6c43d6188a2> ;
+    skos:narrower <stdProzess/185b57ef-a849-4637-a110-edd5216a9a27>,
+        <stdProzess/88454018-a360-4a12-857b-839571bfd0b8>,
+        <stdProzess/f3afa282-6e55-4391-af4a-25bd6368073f> ;
+    skos:notation "5.2" ;
+    skos:prefLabel "Zusammenhänge  herstellen"@de .
+
+<stdProzess/26d1cc6a-5504-45dd-9f40-4a6a7ceed57a> a skos:Concept ;
+    skos:broader <stdProzess/d38950f2-171e-417e-9cae-86f3afdea2f8> ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/19fa4f61-7344-49ee-ab00-75aa4b536577>,
+        <stdProzess/ba4d34b5-7de1-4c9d-bae5-76049ade04aa>,
+        <stdProzess/fe45a3c3-392a-4500-b15c-2fd8a6a10cac> ;
     skos:notation "5.3" ;
     skos:prefLabel "Verallgemeinern und Reflektieren"@de .
 
-<stdProzess/b592a720-c28e-4272-a56d-d53a4432a6e7> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Diese Kompetenz umfasst das Erzeugen und Vernetzen von sowie das Umgehen mit mathematischen Darstellungen - der grafisch-visuellen, algebraisch-formalen, numerisch-tabellarischen, verbal-sprachlichen Darstellung. Das Spektrum reicht von Anwenden, Interpretieren und Unterscheiden von Standarddarstellungen über den Wechsel geeigneter mathematischer Darstellungen bis hin zum Erstellen eigener Darstellungen, die dem Strukturieren und Dokumentieren individueller Überlegungen dienen."@de ;
+<stdProzess/2f94ea53-b42c-42b4-8952-465a85558262> a skos:Concept ;
+    skos:broader <stdProzess/c927b62e-e2c1-4ac0-8bc4-65e8464270a5> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/1835e769-ace3-4509-805e-d868ff4e1635>,
-        <stdProzess/4ca73e65-ca88-46c1-b9a3-3e03905748e5>,
-        <stdProzess/b3dbcec2-248b-47b5-8a3e-c62de4466c9b> ;
-    skos:notation "5" ;
-    skos:prefLabel "Mathematisch darstellen"@de .
-
-<stdProzess/c1eadfdb-6cd2-48dc-a955-359f2e7fe3a0> a skos:Concept ;
-    skos:broader <stdProzess/8f4f6f31-cd3c-43b8-b2bc-ff5269175794> ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/39d935f5-5a23-4e6c-8710-5577287431a6>,
-        <stdProzess/ba905bdd-6508-4cee-8c54-4944586870c9>,
-        <stdProzess/ebba44c9-97e9-441d-85ec-7530d9ce86b3> ;
-    skos:notation "2.3" ;
-    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
-
-<stdProzess/d766745f-65fa-46e9-8f8a-72118950827f> a skos:Concept ;
-    skos:broader <stdProzess/e0558fc2-142d-403a-8975-62aa9328028d> ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/6e74acb3-6d52-4152-9cf9-fd7f77f1074f>,
-        <stdProzess/87707df5-f4ba-4d3b-94cf-5213e1fc2fd1>,
-        <stdProzess/aa1ff287-17ba-429f-a1c6-f65a9d182b6a> ;
-    skos:notation "3.2" ;
-    skos:prefLabel "Zusammenhänge  herstellen"@de .
-
-<stdProzess/e0558fc2-142d-403a-8975-62aa9328028d> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Diese Kompetenz beinhaltet, ausgehend vom Erkennen und Formulieren mathematischer Probleme, das Auswählen geeigneter Heurismen sowie das Entwickeln und Ausführen geeigneter Lösungswege. Das Spektrum reicht vom Bearbeiten vorgegebener und selbst formulierter Probleme auf der einen Seite bis hin zum Überprüfen der Plausibilität von Ergebnissen, dem Finden von Lösungsideen und dem Reflektieren von Lösungswegen auf der anderen Seite. Geeignete Heurismen (u. a. Skizzen erstellen, systematisch probieren, rückwärts arbeiten, zerlegen und ergänzen) zum Problemlösen werden ausgewählt und angewendet."@de ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/681cfdd4-2bb1-4dc4-a19c-e73cdd96d877>,
-        <stdProzess/88136224-fcbb-4da9-ad6f-c899e44a4b36>,
-        <stdProzess/d766745f-65fa-46e9-8f8a-72118950827f> ;
-    skos:notation "3" ;
-    skos:prefLabel "Probleme mathematisch lösen"@de .
-
-<stdProzess/e8ec236c-d4de-4b68-a7a3-da51a8faec9a> a skos:Concept ;
-    skos:broader <stdProzess/8f4f6f31-cd3c-43b8-b2bc-ff5269175794> ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/12c64a86-f5dc-4e85-b40f-2c839ce42e80>,
-        <stdProzess/ba5ab1af-58e6-4949-bd08-bdda009c7edf>,
-        <stdProzess/f0149dba-a5a8-4156-a85a-1e23cf558e5c> ;
-    skos:notation "2.1" ;
-    skos:prefLabel "Reproduzieren"@de .
-
-<stdProzess/f4bc0969-00d2-46f7-ad13-2da9191cdb8d> a skos:Concept ;
-    skos:broader <stdProzess/96b1630a-34aa-49a4-b69a-23f9d389f815> ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/5ab57b12-ad90-4c59-922b-50419053b8d9>,
-        <stdProzess/b18efcfe-1888-4f2f-b72f-d132795bac55>,
-        <stdProzess/d60f89c4-5399-430d-9e17-3ba441d036f0> ;
+    skos:narrower <stdProzess/764702fb-8727-42ec-8654-352a65b24152>,
+        <stdProzess/765a21c7-b08a-4aa2-888a-47cafb157c59>,
+        <stdProzess/a80b55cc-8bf7-44a9-8e5b-a17f339afa3b> ;
     skos:notation "1.1" ;
     skos:prefLabel "Reproduzieren"@de .
 
-<stdProzess/1074f166-7ad0-4c47-9c3b-f5a67676e08a> a skos:Concept ;
-    skos:broader <stdProzess/08344541-753e-4b6c-8410-9770f242242d> ;
+<stdProzess/6054b0fe-a0fb-4c84-8e55-1da5d851806f> a skos:Concept ;
+    skos:broader <stdProzess/> ;
+    skos:definition "Diese Kompetenz beinhaltet, ausgehend vom Erkennen und Formulieren mathematischer Probleme, das Auswählen geeigneter Heurismen sowie das Entwickeln und Ausführen geeigneter Lösungswege. Das Spektrum reicht vom Bearbeiten vorgegebener und selbst formulierter Probleme auf der einen Seite bis hin zum Überprüfen der Plausibilität von Ergebnissen, dem Finden von Lösungsideen und dem Reflektieren von Lösungswegen auf der anderen Seite. Geeignete Heurismen (u. a. Skizzen erstellen, systematisch probieren, rückwärts arbeiten, zerlegen und ergänzen) zum Problemlösen werden ausgewählt und angewendet."@de ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/3c81745b-675f-4d02-82d3-518b968ff4be>,
-        <stdProzess/3d3e8be2-612c-442d-a559-8b73dcbf207d>,
-        <stdProzess/5e1c4055-3d02-4e4f-8c63-247d66c3ce89>,
-        <stdProzess/cbe3cb64-24e5-4afa-90d0-a77e82cb391f> ;
+    skos:narrower <stdProzess/5b8213e6-60cd-4705-9b4d-7ee0438c2f1f>,
+        <stdProzess/62dfa38b-5520-4214-be84-056cb1c12398>,
+        <stdProzess/da471a8f-9b9d-4111-82c1-d5664a27ab88> ;
+    skos:notation "3" ;
+    skos:prefLabel "Probleme mathematisch lösen"@de .
+
+<stdProzess/719b04a5-65e9-425b-9b41-5373f895ac8f> a skos:Concept ;
+    skos:broader <stdProzess/0cde5945-9d95-4e0c-b45b-0db194ee8a27> ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/5ced04a9-e14a-4f56-9cb5-da55f3c8e5c5>,
+        <stdProzess/cd085111-a04f-4a60-9c1d-580301fa192f>,
+        <stdProzess/d4bb8b6b-3160-42e5-9785-84b202c7e67c> ;
+    skos:notation "2.1" ;
+    skos:prefLabel "Reproduzieren"@de .
+
+<stdProzess/989f6a71-ba28-4e9c-b77a-dff6bf05a8aa> a skos:Concept ;
+    skos:broader <stdProzess/> ;
+    skos:definition "Mathematische Bildung in der digitalen Welt umfasst: Fachliche Kompetenzen digital zu fördern und digitale Kompetenzen fachlich zu fördern. Darüber hinaus sollte ein Beitrag geleistet werden zur digitalen personalen Bildung, um Mathematik für die kritische Rezeption von Alltagsmedien zu nutzen. Dazu gehört der Umgang analoger Medien (Schulbuch, Lineal, Körpermodell, Formelsammlung, Spielwürfel, ...) im Verbund mit digitalen Medien. Digitale Medien, die für das Lernen und Lehren von Mathematik relevant sind, umfassen mathematikspezifische sowie allgemeine Medien. Mathematikspezifisch sind insbesondere digitale Mathematikwerkzeuge als themenübergreifende Medien, aber auch themenspezifische mathematikhaltige Medien (z. B. Apps, interaktive Lernangebote). Allgemeine Medien (z. B. Videos, Textverarbeitung, Präsentationsmedien) spielen eine Rolle, da Sie erfordern, mathematikhaltige Informationen zu bündeln, zu präsentieren und nach mathematischen Kriterien zu beurteilen. Das Spektrum der Kompetenzen reicht von der Nutzung analoger Medien, der kritischen Prüfung von Informationen der digitalen Welt unter mathematischen Gesichtspunkten, der Verwendung digitaler Mathematikwerkzeuge (z. B. Tabellenkalkulation oder Geometriesoftware) und Lernumgebungen über die Erstellung und Gestaltung eigener allgemeiner Medien wie Videos und Präsentationen bis hin zur bewussten Verwendung, Entwicklung und Reflexion von Algorithmen mit Hilfe digitaler Medien."@de ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/15f55aeb-d1f9-4f41-aba7-f2b9734acbb4>,
+        <stdProzess/56b6bde6-7faa-4a87-8c3f-059b613040e0>,
+        <stdProzess/657957b4-8688-48b3-b8dc-c306e3d09ff7> ;
+    skos:notation "7" ;
+    skos:prefLabel "Mit Medien mathematisch umgehen"@de .
+
+<stdProzess/c927b62e-e2c1-4ac0-8bc4-65e8464270a5> a skos:Concept ;
+    skos:broader <stdProzess/> ;
+    skos:definition "Zu dieser Kompetenz gehören sowohl das Entwickeln eigenständiger, situationsangemessener mathematischer Argumentationen (wie Begründungen, Beweise), als auch das Erläutern, Prüfen und Begründen von Lösungswegen und das begründete Äußern von Vermutungen. Das Spektrum reicht dabei von einfachen Plausibilitätsargumenten über inhaltlich-anschauliche Begründungen bis hin zu Argumentationsketten."@de ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/09d8f31b-62d2-4b6b-9151-794bc30b43b4>,
+        <stdProzess/2f94ea53-b42c-42b4-8952-465a85558262>,
+        <stdProzess/d3f2588b-f35d-4197-8506-28dc07e6443b> ;
+    skos:notation "1" ;
+    skos:prefLabel "Mathematisch argumentieren"@de .
+
+<stdProzess/d26af62e-42b5-4780-9da1-ad9d6eee67bf> a skos:Concept ;
+    skos:broader <stdProzess/0cde5945-9d95-4e0c-b45b-0db194ee8a27> ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/3e7814f2-4f8e-4a13-8c57-c20b33a5906a>,
+        <stdProzess/72d2bed1-6c3c-459f-926c-1aea435961d2>,
+        <stdProzess/863f10c4-c8e7-4a94-a330-c5c968102b36> ;
+    skos:notation "2.3" ;
+    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
+
+<stdProzess/d38950f2-171e-417e-9cae-86f3afdea2f8> a skos:Concept ;
+    skos:broader <stdProzess/> ;
+    skos:definition "Diese Kompetenz umfasst das Erzeugen und Vernetzen von sowie das Umgehen mit mathematischen Darstellungen - der grafisch-visuellen, algebraisch-formalen, numerisch-tabellarischen, verbal-sprachlichen Darstellung. Das Spektrum reicht von Anwenden, Interpretieren und Unterscheiden von Standarddarstellungen über den Wechsel geeigneter mathematischer Darstellungen bis hin zum Erstellen eigener Darstellungen, die dem Strukturieren und Dokumentieren individueller Überlegungen dienen."@de ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/07e8dc57-87cc-4785-bb9c-85a36b8a4b57>,
+        <stdProzess/1bd03ebe-e8e3-4e3a-81a9-4e8b72d510a6>,
+        <stdProzess/26d1cc6a-5504-45dd-9f40-4a6a7ceed57a> ;
+    skos:notation "5" ;
+    skos:prefLabel "Mathematisch darstellen"@de .
+
+<stdProzess/da471a8f-9b9d-4111-82c1-d5664a27ab88> a skos:Concept ;
+    skos:broader <stdProzess/6054b0fe-a0fb-4c84-8e55-1da5d851806f> ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/65deba51-5a1c-4729-8092-aacafdb53d8c>,
+        <stdProzess/8197d9a0-738d-496b-bf54-9edfc2cf73bf>,
+        <stdProzess/9e89757c-131f-4412-ae4c-46792606e34b> ;
+    skos:notation "3.2" ;
+    skos:prefLabel "Zusammenhänge  herstellen"@de .
+
+<stdProzess/e8bbdd2e-8cc2-4e06-a50b-46c97c9c8aa1> a skos:Concept ;
+    skos:broader <stdProzess/ee0bc4de-a159-4480-92df-6862e9e205f7> ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/3b617107-634d-4d56-8bbc-ed71206a337b>,
+        <stdProzess/9c585437-7cdd-447d-bdb5-3094382afb7d>,
+        <stdProzess/d16b16db-86bd-4508-8f07-ff8d7bcb1980> ;
+    skos:notation "4.3" ;
+    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
+
+<stdProzess/ee0bc4de-a159-4480-92df-6862e9e205f7> a skos:Concept ;
+    skos:broader <stdProzess/> ;
+    skos:definition "Beim mathematischen Modellieren geht es um das Lösen eines realen Problems mit Hilfe von Mathematik. Von besonderer Bedeutung dabei ist das Übersetzen zwischen Realsituationen und mathematischen Begriffen, Resultaten oder Methoden. Typische Teilschritte des Modellierens sind das Strukturieren und Vereinfachen gegebener Realsituationen, das Übersetzen realer Gegebenheiten in mathematische Modelle, das Arbeiten im mathematischen Modell, das Interpretieren mathematischer Ergebnisse in Bezug auf Realsituationen und das Überprüfen von Ergebnissen sowie des Modells im Hinblick auf Stimmigkeit und Angemessenheit bezogen auf die Realsituation. Das Spektrum reicht von Standardmodellen (z. B. proportionale Zuordnung) bis hin zu komplexeren Modellierungen (z. B. geometrische Konstruktionen, Sinusfunktion, Exponentialfunktion, Zufallsexperimente)."@de ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/c6637e27-f6a6-43d8-bd2e-099c98ccc06b>,
+        <stdProzess/e8bbdd2e-8cc2-4e06-a50b-46c97c9c8aa1>,
+        <stdProzess/ee244f3b-0537-4625-a463-44e33b56ecfa> ;
+    skos:notation "4" ;
+    skos:prefLabel "Mathematisch modellieren"@de .
+
+<stdProzess/ee244f3b-0537-4625-a463-44e33b56ecfa> a skos:Concept ;
+    skos:broader <stdProzess/ee0bc4de-a159-4480-92df-6862e9e205f7> ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/72d12021-61b7-4cec-8396-8ed707b755d1>,
+        <stdProzess/87c9daa3-8e26-434b-9a7b-07a7d9a071f7>,
+        <stdProzess/f200d15f-df77-440e-a8bc-1f588b79d273> ;
+    skos:notation "4.1" ;
+    skos:prefLabel "Reproduzieren"@de .
+
+<stdProzess/ffae3b1a-4278-4070-9305-5097e9cb0a2b> a skos:Concept ;
+    skos:broader <stdProzess/> ;
+    skos:definition "Diese Kompetenz beinhaltet das verständige Umgehen mit mathematischen Objekten wie Zahlen, Größen, Symbolen, Variablen, Termen, Formeln, Gleichungen und Funktionen sowie in der Geometrie Strecken, Winkeln und Kreisen mit und ohne Hilfsmittel. Das Spektrum reicht hier von einfachen, überschaubaren Routineverfahren bis hin zu komplexen Verfahren einschließlich deren reflektierender Bewertung. Diese Kompetenz beinhaltet auch Faktenwissen und Regelwissen für ein zielgerichtetes und effizientes Bearbeiten von mathematischen Aufgabenstellungen."@de ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/700bb4a8-e92f-434e-9b6e-6a5e37006122>,
+        <stdProzess/c6b13ddf-b409-4b74-bee4-6e30c56ad785>,
+        <stdProzess/db3cb8aa-b51c-45a8-acb7-e6fab5ebffd6> ;
+    skos:notation "6" ;
+    skos:prefLabel "Mit mathematischen Objekten umgehen"@de .
+
+<stdProzess/15f55aeb-d1f9-4f41-aba7-f2b9734acbb4> a skos:Concept ;
+    skos:broader <stdProzess/989f6a71-ba28-4e9c-b77a-dff6bf05a8aa> ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/10f86dd4-3197-4ba8-9ca7-413c262df390>,
+        <stdProzess/122c956d-8fd6-4b5a-b570-10a968712d9d>,
+        <stdProzess/8467ee91-ea65-4d87-b4ca-d7da770aa845>,
+        <stdProzess/926f64f9-2c51-47e7-afc2-e3e68394ec99> ;
     skos:notation "7.1" ;
     skos:prefLabel "Reproduzieren"@de .
 
-<stdProzess/36edc5b1-abdf-4650-b5fc-1518c20e73ae> a skos:Concept ;
-    skos:broader <stdProzess/8f4f6f31-cd3c-43b8-b2bc-ff5269175794> ;
+<stdProzess/1cd9a2e5-1f98-4fc4-9108-8b108c5276a5> a skos:Concept ;
+    skos:broader <stdProzess/0cde5945-9d95-4e0c-b45b-0db194ee8a27> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/5e26461b-6b07-4698-852b-0f27dc4352ce>,
-        <stdProzess/6e9f69d0-2a97-49c7-b1bd-e8a457f48f02>,
-        <stdProzess/943a8f13-4e51-4727-a7d0-30201fa6aaa7>,
-        <stdProzess/b924290c-d52f-4dae-9ef6-870b3c4f9d6a> ;
+    skos:narrower <stdProzess/3ab5f8c8-0979-461a-bca4-c79879464a34>,
+        <stdProzess/5403bdbd-f9ae-435b-8a7b-2170d7f7ca35>,
+        <stdProzess/8a5df40f-201c-42f6-8107-06d9b5b0877c>,
+        <stdProzess/f4bb8428-df2f-4e89-aac2-96c7e2a84378> ;
     skos:notation "2.2" ;
     skos:prefLabel "Zusammenhänge  herstellen"@de .
 
-<stdProzess/8599073b-23cb-4b37-9949-cb76a643b291> a skos:Concept ;
-    skos:broader <stdProzess/96b1630a-34aa-49a4-b69a-23f9d389f815> ;
+<stdProzess/d3f2588b-f35d-4197-8506-28dc07e6443b> a skos:Concept ;
+    skos:broader <stdProzess/c927b62e-e2c1-4ac0-8bc4-65e8464270a5> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/0fcb9d7d-f26c-48ac-882e-a55e127292d4>,
-        <stdProzess/2a87e3e4-9a0e-483e-8849-c015f2aeea70>,
-        <stdProzess/8ed67ae9-20d1-46dc-b2ae-a194a5990752>,
-        <stdProzess/f40baa8a-ddc3-46ad-b0c9-85a4f3f4fea4> ;
+    skos:narrower <stdProzess/0e52317b-184e-4f33-98cb-3cb20d2a43eb>,
+        <stdProzess/670d5113-260d-481f-a2a8-aea929b16ed4>,
+        <stdProzess/6e0b6beb-4241-4999-8654-1a7282c4e144>,
+        <stdProzess/b864c7f3-0fba-469d-8eab-1ab030e99b8b> ;
     skos:notation "1.2" ;
     skos:prefLabel "Zusammenhänge  herstellen"@de .
 
-<stdProzess/9f51513e-7b06-41b2-886b-cb0d92637c57> a skos:Concept ;
-    skos:broader <stdProzess/632509ab-09a3-427d-b240-546ebab94e03> ;
+<stdProzess/657957b4-8688-48b3-b8dc-c306e3d09ff7> a skos:Concept ;
+    skos:broader <stdProzess/989f6a71-ba28-4e9c-b77a-dff6bf05a8aa> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/0a26d032-c15e-419a-8648-809f92ef2293>,
-        <stdProzess/0c852abe-95ac-4e2a-b4e5-e0792d742711>,
-        <stdProzess/53269fcc-89a3-4fce-89d9-84d5c9f9aafa>,
-        <stdProzess/85772758-fab6-4e1a-a8d1-36f67417edee>,
-        <stdProzess/bf40c1c2-618b-4e5a-82bd-8f90e346ef1d> ;
-    skos:notation "4.2" ;
-    skos:prefLabel "Zusammenhänge  herstellen"@de .
-
-<stdProzess/ee1dd142-b367-4be9-bfe1-7cd5d636a4d1> a skos:Concept ;
-    skos:broader <stdProzess/08344541-753e-4b6c-8410-9770f242242d> ;
-    skos:inScheme <> ;
-    skos:narrower <stdProzess/153e0f64-e73d-4729-b497-76f71a2ab1d9>,
-        <stdProzess/608929da-1c9d-434d-970e-335a6d6e00d9>,
-        <stdProzess/e463c54f-9975-4df2-a04a-62ccd64bfa68>,
-        <stdProzess/e92afcb3-edd1-49fe-b372-44852de731d1>,
-        <stdProzess/f868e0a1-1e86-4101-adbd-0b9a14223c8e> ;
+    skos:narrower <stdProzess/1001fa2d-ad0f-4686-abb3-d72a2e595700>,
+        <stdProzess/3305a36b-aaba-4564-bb9f-40c949a761a5>,
+        <stdProzess/48818cc1-ead6-42e6-accc-5ecee6cb7153>,
+        <stdProzess/5576993b-02e5-4179-90b5-0ed484eb229b>,
+        <stdProzess/6c10c969-cd86-4e85-a225-3193bac12f08> ;
     skos:notation "6.2" ;
     skos:prefLabel "Zusammenhänge  herstellen"@de .
 
-<stdProzess/20f6235c-24ae-418f-96a4-1148fabec83d> a skos:Concept ;
-    skos:broader <stdProzess/08344541-753e-4b6c-8410-9770f242242d> ;
+<stdProzess/c6637e27-f6a6-43d8-bd2e-099c98ccc06b> a skos:Concept ;
+    skos:broader <stdProzess/ee0bc4de-a159-4480-92df-6862e9e205f7> ;
     skos:inScheme <> ;
-    skos:narrower <stdProzess/26476f61-992d-4dc8-896d-bc93f991eebf>,
-        <stdProzess/2e0b8ea0-24be-4e73-9ad3-6879b86fc49e>,
-        <stdProzess/5324875b-bcc3-444c-ac92-2c9318ae97c0>,
-        <stdProzess/8121be38-3a19-4ca7-853e-ef314b93b59a>,
-        <stdProzess/b145b80e-fb13-4364-80f2-184389052e3f>,
-        <stdProzess/ef963939-baeb-41b9-a16c-11f2699a041d> ;
+    skos:narrower <stdProzess/245e6534-a627-40e9-bb99-a6f39bd51330>,
+        <stdProzess/37873f5a-1f25-44f3-ba0f-47f70029c93f>,
+        <stdProzess/55c8d2b2-2bac-4eee-ab9a-1a990c9bd4a2>,
+        <stdProzess/7b38a5e8-8cf6-46ae-9372-82dec88b3d8e>,
+        <stdProzess/ea81fd16-4af9-46b1-ab77-ff7c4bf12606> ;
+    skos:notation "4.2" ;
+    skos:prefLabel "Zusammenhänge  herstellen"@de .
+
+<stdProzess/56b6bde6-7faa-4a87-8c3f-059b613040e0> a skos:Concept ;
+    skos:broader <stdProzess/989f6a71-ba28-4e9c-b77a-dff6bf05a8aa> ;
+    skos:inScheme <> ;
+    skos:narrower <stdProzess/007cec62-f0e8-4f96-920f-e798b0497c76>,
+        <stdProzess/765a7dcf-29dc-480e-a50f-311abddc180c>,
+        <stdProzess/91296654-df67-41df-a948-60b7f5cfd50b>,
+        <stdProzess/b894a10c-6e96-4cf4-badc-f26b206a9438>,
+        <stdProzess/ca7dd645-6675-4310-ba85-bdeda242fd10>,
+        <stdProzess/fd27afd6-8a0b-42e3-badd-1a57e3f54183> ;
     skos:notation "7.3" ;
     skos:prefLabel "Verallgemeinern und Reflektieren"@de .
 
 <stdProzess/> a skos:Concept ;
-    skos:narrower <stdProzess/08344541-753e-4b6c-8410-9770f242242d>,
-        <stdProzess/2e999390-c9a3-4437-9040-8ba0bd138175>,
-        <stdProzess/632509ab-09a3-427d-b240-546ebab94e03>,
-        <stdProzess/8f4f6f31-cd3c-43b8-b2bc-ff5269175794>,
-        <stdProzess/96b1630a-34aa-49a4-b69a-23f9d389f815>,
-        <stdProzess/b592a720-c28e-4272-a56d-d53a4432a6e7>,
-        <stdProzess/e0558fc2-142d-403a-8975-62aa9328028d> ;
+    skos:narrower <stdProzess/0cde5945-9d95-4e0c-b45b-0db194ee8a27>,
+        <stdProzess/6054b0fe-a0fb-4c84-8e55-1da5d851806f>,
+        <stdProzess/989f6a71-ba28-4e9c-b77a-dff6bf05a8aa>,
+        <stdProzess/c927b62e-e2c1-4ac0-8bc4-65e8464270a5>,
+        <stdProzess/d38950f2-171e-417e-9cae-86f3afdea2f8>,
+        <stdProzess/ee0bc4de-a159-4480-92df-6862e9e205f7>,
+        <stdProzess/ffae3b1a-4278-4070-9305-5097e9cb0a2b> ;
     skos:prefLabel "Prozessbezogene Kompetenzen"@de ;
     skos:topConceptOf <> .
 
