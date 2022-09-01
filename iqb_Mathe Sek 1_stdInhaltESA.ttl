@@ -1,413 +1,413 @@
-@base <https://w3id.org/iqb/bista22mas1/003/> .
+@base <https://w3id.org/iqb/bista22mas1/stdInhaltESA/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<stdInhaltESA/079dbaff-1ae1-4505-aa86-f82f3c2bddd9> a skos:Concept ;
-    skos:broader <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> ;
-    skos:inScheme <> ;
-    skos:notation "3.4" ;
-    skos:prefLabel "nutzen Maßstäbe beim Lesen und Anfertigen von Zeichnungen situationsgerecht,"@de .
-
-<stdInhaltESA/0b124cad-6ac3-4a3f-9549-dd9ddb7708b9> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.1" ;
-    skos:prefLabel "nutzen sinntragende Vorstellungen von rationalen Zahlen, insbesondere von natürlichen, ganzen und gebrochenen Zahlen entsprechend der Verwendungsnotwendigkeit,"@de .
-
-<stdInhaltESA/0ee9a846-fc88-4314-92ae-5736a50e5032> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.6" ;
-    skos:prefLabel "rechnen mit natürlichen, ganzen und rationalen Zahlen, die im täglichen Leben vorkommen, sowohl zur Kontrolle als auch im Kopf und erklären die Bedeutung der Rechenoperationen,"@de .
-
-<stdInhaltESA/10922556-f8d4-4104-b49c-be8b41c33e3c> a skos:Concept ;
-    skos:broader <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> ;
-    skos:inScheme <> ;
-    skos:notation "3.14" ;
-    skos:prefLabel "geben zu vorgegebenen linearen Funktionen Sachsituationen an, die mit Hilfe dieser Funktion beschrieben werden können."@de .
-
-<stdInhaltESA/1ebceaab-484f-4aa4-be9b-dc956b382e28> a skos:Concept ;
-    skos:broader <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> ;
-    skos:inScheme <> ;
-    skos:notation "3.3" ;
-    skos:prefLabel "nutzen die Prozentrechnung bei Wachstumsprozessen (beispielsweise bei der Zinsrechnung), auch unter Verwendung digitaler Werkzeuge,"@de .
-
-<stdInhaltESA/25275aeb-22ef-44cb-b35b-ee9878e0bcd4> a skos:Concept ;
-    skos:broader <stdInhaltESA/f5f5030c-84d4-4565-91fe-23f7ca4d3721> ;
-    skos:inScheme <> ;
-    skos:notation "4.5" ;
-    skos:prefLabel "analysieren und klassifizieren geometrische Objekte der Ebene (insbesondere Winkel, Dreiecke, Vierecke) und des Raumes (insbesondere Quader, Prismen, Pyramiden, Zylinder, Kegel, Kugel),"@de .
-
-<stdInhaltESA/296110d8-2610-43be-9922-12320e830718> a skos:Concept ;
-    skos:broader <stdInhaltESA/f5f5030c-84d4-4565-91fe-23f7ca4d3721> ;
-    skos:inScheme <> ;
-    skos:notation "4.7" ;
-    skos:prefLabel "wenden Sätze der ebenen Geometrie (insbesondere den Satz des Pythagoras und Ähnlichkeitsbeziehungen) bei Konstruktionen und Berechnungen an, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
-
-<stdInhaltESA/3512e48a-ab2d-4bcc-b9c9-f6afa3b8ab67> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.7" ;
-    skos:prefLabel "begründen die Notwendigkeit von Zahlbereichserweiterungen von N nach Z und Q an Beispielen,"@de .
-
-<stdInhaltESA/3e4077d2-2111-4b45-83ad-621ea2ac3348> a skos:Concept ;
-    skos:broader <stdInhaltESA/98bbd660-f390-4f71-a9df-0d0c34a321b8> ;
-    skos:inScheme <> ;
-    skos:notation "5.8" ;
-    skos:prefLabel "beschreiben Zufallserscheinungen aus dem Alltag und ihre Darstellung in Medien,"@de .
-
-<stdInhaltESA/3fdb136c-f3d2-4fa6-ae0c-17819eb29a37> a skos:Concept ;
-    skos:broader <stdInhaltESA/895619d7-394f-4e01-8184-6466ad301510> ;
-    skos:inScheme <> ;
-    skos:notation "2.4" ;
-    skos:prefLabel "ermitteln Flächeninhalt und Umfang von Rechteck, Dreieck und Kreis sowie daraus zusammengesetzten Figuren, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
-
-<stdInhaltESA/4be095b3-db38-4659-853d-aedda710a6f1> a skos:Concept ;
-    skos:broader <stdInhaltESA/98bbd660-f390-4f71-a9df-0d0c34a321b8> ;
-    skos:inScheme <> ;
-    skos:notation "5.9" ;
-    skos:prefLabel "nutzen bei der Durchführung von Zufallsexperimenten die auftretenden relativen Häufigkeiten als Schätzwerte von Wahrscheinlichkeiten, die bei wachsendem Stichprobenumfang besser werden,"@de .
-
-<stdInhaltESA/4d32a5c1-8b1f-4440-abd9-50a0f8f0acb2> a skos:Concept ;
-    skos:broader <stdInhaltESA/98bbd660-f390-4f71-a9df-0d0c34a321b8> ;
+<00fb61ba-8028-4dec-98a5-1000e3ab2897> a skos:Concept ;
+    skos:broader <76efb7d9-08a9-4b48-b339-59f4e7bce397> ;
     skos:inScheme <> ;
     skos:notation "5.7" ;
     skos:prefLabel "reflektieren mit Hilfe der mathematischen Kenntnisse den Umgang mit und die Darstellung von Daten in Medien, etwa in Bezug auf die Absicht und mögliche Wirkungen der Darstellung,"@de .
 
-<stdInhaltESA/520c605d-1fdd-4efc-adc3-d3d9bfdf3287> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.12" ;
-    skos:prefLabel "prüfen und interpretieren Ergebnisse, auch in Sachsituationen,"@de .
-
-<stdInhaltESA/5569dddd-6095-44e6-8118-0250f158a618> a skos:Concept ;
-    skos:broader <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> ;
-    skos:inScheme <> ;
-    skos:notation "3.7" ;
-    skos:prefLabel "lösen realitätsnahe Probleme im Zusammenhang mit linearen, proportionalen und antiproportionalen Zuordnungen, ggf. auch mit Hilfe des Dreisatzes, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
-
-<stdInhaltESA/5619c020-bdbf-4235-a107-5f52c19551e0> a skos:Concept ;
-    skos:broader <stdInhaltESA/f5f5030c-84d4-4565-91fe-23f7ca4d3721> ;
-    skos:inScheme <> ;
-    skos:notation "4.2" ;
-    skos:prefLabel "entwickeln Vorstellungen im zwei- und dreidimensionalen Raum und operieren (insbesondere verschieben, drehen, spiegeln) gedanklich mit den darin enthaltenen Objekten (Punkten, Strecken, Flächen und Körpern),"@de .
-
-<stdInhaltESA/59674bc9-6d4d-4d75-ad9c-de8de823c2b0> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.4" ;
-    skos:prefLabel "untersuchen Zahlen nach ihren Faktoren, in einfachen Fällen ohne digitale Mathematikwerkzeuge,"@de .
-
-<stdInhaltESA/67268abd-338d-4c4b-a475-8e9488923323> a skos:Concept ;
-    skos:broader <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> ;
-    skos:inScheme <> ;
-    skos:notation "3.10" ;
-    skos:prefLabel "bestimmen kennzeichnende Merkmale von linearen Funktionen im Funktionsterm, Graph und der Wertetabelle und stellen Beziehungen zwischen den Darstellungen her,"@de .
-
-<stdInhaltESA/67d9d6c7-c765-46e2-87d6-bcdb70d68d90> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.15" ;
-    skos:prefLabel "erläutern Potenzen und Wurzeln und berechnen einfache Potenzen und Wurzeln (Quadrat- und Kubikwurzeln),"@de .
-
-<stdInhaltESA/709bc679-fc01-41b6-b2ee-5cef4b077ff6> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.3" ;
-    skos:prefLabel "nutzen sinntragende Vorstellungen von Operationen rationaler Zahlen (z. B. schrittweiser, halbschriftlicher Verfahren),"@de .
-
-<stdInhaltESA/714b44fd-0e5b-4303-9672-46859b18d28b> a skos:Concept ;
-    skos:broader <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> ;
-    skos:inScheme <> ;
-    skos:notation "3.13" ;
-    skos:prefLabel "interpretieren die Steigung linearer Funktionen im Sachzusammenhang,"@de .
-
-<stdInhaltESA/7dc0482b-fe4a-4479-ab7a-227de7034b04> a skos:Concept ;
-    skos:broader <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> ;
-    skos:inScheme <> ;
-    skos:notation "3.5" ;
-    skos:prefLabel "erkennen und verwenden funktionale Zusammenhänge in Alltagssituationen und stellen diese in verschiedenen Repräsentationen dar (sprachlich, tabellarisch, grafisch, lineare Funktionen auch algebraisch) und können zwischen diesen Darstellungsformen wechseln, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
-
-<stdInhaltESA/8036da4f-cec1-48f6-8153-2aa2d9fdc1c9> a skos:Concept ;
-    skos:broader <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> ;
-    skos:inScheme <> ;
-    skos:notation "3.11" ;
-    skos:prefLabel "wenden lineare Funktionen in Sachsituationen an,"@de .
-
-<stdInhaltESA/84b5f17d-9834-46fb-b925-5390f631465f> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.11" ;
-    skos:prefLabel "runden Zahlen dem Sachverhalt entsprechend sinnvoll,"@de .
-
-<stdInhaltESA/8889b4a0-5c2a-4f48-a86e-792604410e43> a skos:Concept ;
-    skos:broader <stdInhaltESA/98bbd660-f390-4f71-a9df-0d0c34a321b8> ;
-    skos:inScheme <> ;
-    skos:notation "5.5" ;
-    skos:prefLabel "ermitteln und interpretieren Kenngrößen (z. B. Minimum, Maximum, arithmetisches Mittel, Median, Spannweite),"@de .
-
-<stdInhaltESA/8991f0f7-63d2-48bc-9ca8-f1671597d856> a skos:Concept ;
-    skos:broader <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> ;
-    skos:inScheme <> ;
-    skos:notation "3.6" ;
-    skos:prefLabel "unterscheiden proportionale und antiproportionale Zusammenhänge in Sachsituationen und stellen damit Berechnungen an,"@de .
-
-<stdInhaltESA/8c5cc331-5918-40e1-afa7-3a37abcda0dc> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.8" ;
-    skos:prefLabel "erläutern an Beispielen die verschiedenen Vorstellungen zum Bruchbegriff (insbesondere Teile eines oder mehrerer Ganzer, relative Anteile),"@de .
-
-<stdInhaltESA/8e4ff1cc-6114-4876-a7a7-73db7bb04e28> a skos:Concept ;
-    skos:broader <stdInhaltESA/895619d7-394f-4e01-8184-6466ad301510> ;
-    skos:inScheme <> ;
-    skos:notation "2.3" ;
-    skos:prefLabel "schätzen Größen mit Hilfe von Vorstellungen über geeignete Repräsentanten (z. B. typisches Objekt für eine Standardgröße) und nutzen dies auch zur Plausibilitätsprüfung,"@de .
-
-<stdInhaltESA/91a59f6a-66ca-42e4-885b-0d15986e050a> a skos:Concept ;
-    skos:broader <stdInhaltESA/895619d7-394f-4e01-8184-6466ad301510> ;
-    skos:inScheme <> ;
-    skos:notation "2.6" ;
-    skos:prefLabel "nehmen in ihrer Umwelt gezielt Messungen vor, auch mit Hilfe digitaler Medien (als Informationsquelle oder Messinstrument), entnehmen Maßangaben aus Quellenmaterial, führen damit Berechnungen durch und bewerten die Ergebnisse sowie den gewählten Weg in Bezug auf die Sachsituation,"@de .
-
-<stdInhaltESA/92941f3b-63b6-4828-a5ba-1d3f75be4297> a skos:Concept ;
-    skos:broader <stdInhaltESA/f5f5030c-84d4-4565-91fe-23f7ca4d3721> ;
-    skos:inScheme <> ;
-    skos:notation "4.3" ;
-    skos:prefLabel "stellen ebene geometrische Figuren (z. B. Dreiecke, Vierecke) und elementare geometrische Abbildungen (z. B. Verschiebungen, Drehungen, Spiegelungen, zentrische Streckungen) im ebenen kartesischen Koordinatensystem dar, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
-
-<stdInhaltESA/9442257c-9b7e-4244-84ea-7ffed7084644> a skos:Concept ;
-    skos:broader <stdInhaltESA/f5f5030c-84d4-4565-91fe-23f7ca4d3721> ;
-    skos:inScheme <> ;
-    skos:notation "4.1" ;
-    skos:prefLabel "benennen und beschreiben geometrische Objekte und Beziehungen in der Umwelt mit Hilfe mathematischer Modelle (Punkte, Winkel, Strecken, Geraden, Flächen, Körper) und ihre Zusammenhänge,"@de .
-
-<stdInhaltESA/949e67cb-0702-435f-a61a-a3aa918a2e85> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.14" ;
-    skos:prefLabel "verwenden Prozent- und Zinsrechnung vorstellungsbasiert (z. B. Prozentstreifen) und sachgerecht,"@de .
-
-<stdInhaltESA/9ea35f9a-3127-46a1-98ac-137d3ce9952f> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.5" ;
-    skos:prefLabel "stellen Zahlen der Situation angemessen dar, unter anderem in Zehnerpotenzschreibweise,"@de .
-
-<stdInhaltESA/9ff60f03-17f1-4889-b6a9-087c07009180> a skos:Concept ;
-    skos:broader <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> ;
-    skos:inScheme <> ;
-    skos:notation "3.1" ;
-    skos:prefLabel "verwenden Variablen je nach Kontext als eine feste Zahl, als eine beliebige Zahl aus einem Zahlbereich und als Veränderliche in einem bestimmten Bereich und können Beispiele für die unterschiedliche Verwendung von Variablen nennen,"@de .
-
-<stdInhaltESA/a8349e35-5175-4a94-9db0-a7fcd357b42e> a skos:Concept ;
-    skos:broader <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> ;
-    skos:inScheme <> ;
-    skos:notation "3.2" ;
-    skos:prefLabel "stellen einfache Terme, um allgemeine Zusammenhänge im Sachkontext zu beschreiben, formen sie um und interpretieren sie,"@de .
-
-<stdInhaltESA/aa405433-9d8f-458a-981f-6a84d459473e> a skos:Concept ;
-    skos:broader <stdInhaltESA/f5f5030c-84d4-4565-91fe-23f7ca4d3721> ;
-    skos:inScheme <> ;
-    skos:notation "4.6" ;
-    skos:prefLabel "erkennen und beschreiben Eigenschaften und Beziehungen geometrischer Objekte (z. B. Symmetrie, Idee der Kongruenz, Lagebeziehungen),"@de .
-
-<stdInhaltESA/aa43f57b-1826-4b88-a81f-da3c4ed763a2> a skos:Concept ;
-    skos:broader <stdInhaltESA/98bbd660-f390-4f71-a9df-0d0c34a321b8> ;
-    skos:inScheme <> ;
-    skos:notation "5.3" ;
-    skos:prefLabel "planen einfache Befragungen,"@de .
-
-<stdInhaltESA/ab6689bd-0f39-4f06-8f4d-de176563d288> a skos:Concept ;
-    skos:broader <stdInhaltESA/f5f5030c-84d4-4565-91fe-23f7ca4d3721> ;
-    skos:inScheme <> ;
-    skos:notation "4.4" ;
-    skos:prefLabel "fertigen Netze, Schrägbilder und Modelle von ausgewählten Körpern (z. B. Quader, Prisma, Pyramide) an - auch mit Hilfe digitaler Medien - und erkennen Körper aus ihren entsprechenden Darstellungen,"@de .
-
-<stdInhaltESA/ad2fd941-f260-4550-b423-39c3788cb379> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.10" ;
-    skos:prefLabel "nutzen Überschlagsrechnungen zur Orientierung und zur Kontrolle,"@de .
-
-<stdInhaltESA/b422a863-464c-4a29-b3d8-c76b7cee09c0> a skos:Concept ;
-    skos:broader <stdInhaltESA/f5f5030c-84d4-4565-91fe-23f7ca4d3721> ;
-    skos:inScheme <> ;
-    skos:notation "4.8" ;
-    skos:prefLabel "zeichnen und konstruieren geometrische Figuren unter Verwendung angemessener Medien wie Zirkel, Geodreieck oder digitaler Mathematikwerkzeuge."@de .
-
-<stdInhaltESA/bd025778-9edf-42e1-8a46-e5616689514b> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.17" ;
-    skos:prefLabel "wählen und beschreiben Vorgehensweisen und Verfahren, denen Algorithmen bzw. Kalküle zu Grunde liegen und führen diese aus (z. B. schriftliche Division)."@de .
-
-<stdInhaltESA/c2d62176-7cd2-4a27-99d8-4699fe665798> a skos:Concept ;
-    skos:broader <stdInhaltESA/98bbd660-f390-4f71-a9df-0d0c34a321b8> ;
-    skos:inScheme <> ;
-    skos:notation "5.4" ;
-    skos:prefLabel "sammeln systematisch Daten (z. B. Messwerte, Daten aus Befragungen oder Internet), organisieren sie in Tabellen und stellen sie grafisch dar, auch unter Verwendung geeigneter Hilfsmittel wie Tabellenkalkulation oder Stochastiktools,"@de .
-
-<stdInhaltESA/c38e3a72-742e-4459-8295-6f419fee9a58> a skos:Concept ;
-    skos:broader <stdInhaltESA/895619d7-394f-4e01-8184-6466ad301510> ;
-    skos:inScheme <> ;
-    skos:notation "2.2" ;
-    skos:prefLabel "wählen Einheiten von Größen situationsgerecht aus (insbesondere für Zeitspannen, Masse, Geld, Länge, Fläche, Volumen und Winkel) und wandeln sie ggf. um,"@de .
-
-<stdInhaltESA/c4aa308c-b6da-4489-99a6-b50abbc90c56> a skos:Concept ;
-    skos:broader <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> ;
-    skos:inScheme <> ;
-    skos:notation "3.8" ;
-    skos:prefLabel "lösen einfache lineare Gleichungen numerisch (systematisches Probieren), algebraisch (Umformen) und grafisch (mit Hilfe von Funktionsgraphen), auch unter Einsatz digitaler Mathematikwerkzeuge, und vergleichen verschiedene Lösungsverfahren im Hinblick auf die jeweilige Fragestellung oder das Problem,"@de .
-
-<stdInhaltESA/c525df6c-b5fc-4221-8000-c4e56cb2620f> a skos:Concept ;
-    skos:broader <stdInhaltESA/98bbd660-f390-4f71-a9df-0d0c34a321b8> ;
-    skos:inScheme <> ;
-    skos:notation "5.1" ;
-    skos:prefLabel "werten grafische Darstellungen und Tabellen von statistischen Erhebungen aus, auch mit Hilfe von Tabellenkalkulation oder Stochastiktools,"@de .
-
-<stdInhaltESA/dbc3ebaa-ce80-468d-af4a-a93865013930> a skos:Concept ;
-    skos:broader <stdInhaltESA/895619d7-394f-4e01-8184-6466ad301510> ;
-    skos:inScheme <> ;
-    skos:notation "2.5" ;
-    skos:prefLabel "ermitteln Volumen und Oberflächeninhalt von Quader, Prisma, Pyramide und Zylinder sowie daraus zusammengesetzten Körpern, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
-
-<stdInhaltESA/e4f84901-5774-4c14-bb39-4442a05169a5> a skos:Concept ;
-    skos:broader <stdInhaltESA/895619d7-394f-4e01-8184-6466ad301510> ;
+<04b89b0f-f68b-4b0b-ac62-aa9cfb1b2120> a skos:Concept ;
+    skos:broader <c2d9b560-64a6-469a-bea2-61f8cbeab1ea> ;
     skos:inScheme <> ;
     skos:notation "2.1" ;
     skos:prefLabel "nutzen das Grundprinzip des Messens als Vergleichen mit (Standard-)Einheiten, z. B. bei der Bestimmung von Längen, Flächeninhalten und Volumina, auch in Sachsituationen,"@de .
 
-<stdInhaltESA/e9df8f3d-4cf5-47cc-b787-e681860968ef> a skos:Concept ;
-    skos:broader <stdInhaltESA/895619d7-394f-4e01-8184-6466ad301510> ;
+<06a2952c-d9cb-44d9-8b80-a41efd0132cc> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
     skos:inScheme <> ;
-    skos:notation "2.7" ;
-    skos:prefLabel "berechnen Streckenlängen und Winkelgrößen, auch unter Nutzung des Satzes von Pythagoras und Ähnlichkeitsbeziehungen, auch mit Hilfe digitaler Mathematikwerkzeuge."@de .
+    skos:notation "1.14" ;
+    skos:prefLabel "verwenden Prozent- und Zinsrechnung vorstellungsbasiert (z. B. Prozentstreifen) und sachgerecht,"@de .
 
-<stdInhaltESA/ec2f7a7e-b6f2-4426-a4ba-e90981b19224> a skos:Concept ;
-    skos:broader <stdInhaltESA/98bbd660-f390-4f71-a9df-0d0c34a321b8> ;
-    skos:inScheme <> ;
-    skos:notation "5.2" ;
-    skos:prefLabel "nutzen Simulationen um stochastische Fragen zu entscheiden "@de .
-
-<stdInhaltESA/ed1eed78-3b52-4bdf-b88e-9c6de09a4147> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
-    skos:inScheme <> ;
-    skos:notation "1.9" ;
-    skos:prefLabel "nutzen Rechengesetze (z. B. Kommutativ-, Assoziativ-, Distributivgesetz), auch zum vorteilhaften Rechnen,"@de .
-
-<stdInhaltESA/ef1c4320-5ba3-4f8c-91d4-13cf1e9903c3> a skos:Concept ;
-    skos:broader <stdInhaltESA/98bbd660-f390-4f71-a9df-0d0c34a321b8> ;
-    skos:inScheme <> ;
-    skos:notation "5.6" ;
-    skos:prefLabel "erstellen und interpretieren Diagramme (z. B. Säulen- oder Balkendiagramm, Kreisdiagramm, Liniendiagramm), auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
-
-<stdInhaltESA/f3261884-4b9a-450f-ba6e-3567d8475524> a skos:Concept ;
-    skos:broader <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> ;
+<114fd234-af99-4fbe-9beb-1136b89b17a0> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
     skos:inScheme <> ;
     skos:notation "1.13" ;
     skos:prefLabel "erläutern an Beispielen den Zusammenhang zwischen Rechenoperationen und deren Umkehrungen und nutzen diese Zusammenhänge,"@de .
 
-<stdInhaltESA/fde99cdb-2e58-4936-be3c-01953416d17e> a skos:Concept ;
-    skos:broader <stdInhaltESA/98bbd660-f390-4f71-a9df-0d0c34a321b8> ;
+<1478d008-3ba0-494a-ac41-669a8dcaa586> a skos:Concept ;
+    skos:broader <76efb7d9-08a9-4b48-b339-59f4e7bce397> ;
+    skos:inScheme <> ;
+    skos:notation "5.2" ;
+    skos:prefLabel "nutzen Simulationen um stochastische Fragen zu entscheiden "@de .
+
+<1ca12b4e-1181-4ffa-ad81-01ee9aab80d6> a skos:Concept ;
+    skos:broader <7db1933b-d6ac-4984-8533-8c0e2e3730d9> ;
+    skos:inScheme <> ;
+    skos:notation "4.5" ;
+    skos:prefLabel "analysieren und klassifizieren geometrische Objekte der Ebene (insbesondere Winkel, Dreiecke, Vierecke) und des Raumes (insbesondere Quader, Prismen, Pyramiden, Zylinder, Kegel, Kugel),"@de .
+
+<20d00a15-e639-4f8f-b48c-a6da7fb49a55> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.6" ;
+    skos:prefLabel "rechnen mit natürlichen, ganzen und rationalen Zahlen, die im täglichen Leben vorkommen, sowohl zur Kontrolle als auch im Kopf und erklären die Bedeutung der Rechenoperationen,"@de .
+
+<22e29035-d21a-4736-827a-576dec5ddd04> a skos:Concept ;
+    skos:broader <a385731c-010f-4b9a-9c07-5c6833e3fcf6> ;
+    skos:inScheme <> ;
+    skos:notation "3.13" ;
+    skos:prefLabel "interpretieren die Steigung linearer Funktionen im Sachzusammenhang,"@de .
+
+<23739f8e-f2b2-4ad2-82cc-837f66fd0f91> a skos:Concept ;
+    skos:broader <a385731c-010f-4b9a-9c07-5c6833e3fcf6> ;
+    skos:inScheme <> ;
+    skos:notation "3.2" ;
+    skos:prefLabel "stellen einfache Terme, um allgemeine Zusammenhänge im Sachkontext zu beschreiben, formen sie um und interpretieren sie,"@de .
+
+<33433fed-d30b-4f52-89fb-7ef0a3c33933> a skos:Concept ;
+    skos:broader <76efb7d9-08a9-4b48-b339-59f4e7bce397> ;
+    skos:inScheme <> ;
+    skos:notation "5.6" ;
+    skos:prefLabel "erstellen und interpretieren Diagramme (z. B. Säulen- oder Balkendiagramm, Kreisdiagramm, Liniendiagramm), auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
+
+<49494691-93ea-437d-87f2-1ff6c3388162> a skos:Concept ;
+    skos:broader <c2d9b560-64a6-469a-bea2-61f8cbeab1ea> ;
+    skos:inScheme <> ;
+    skos:notation "2.6" ;
+    skos:prefLabel "nehmen in ihrer Umwelt gezielt Messungen vor, auch mit Hilfe digitaler Medien (als Informationsquelle oder Messinstrument), entnehmen Maßangaben aus Quellenmaterial, führen damit Berechnungen durch und bewerten die Ergebnisse sowie den gewählten Weg in Bezug auf die Sachsituation,"@de .
+
+<4b9522e7-96fa-4445-8824-f38347e337a7> a skos:Concept ;
+    skos:broader <a385731c-010f-4b9a-9c07-5c6833e3fcf6> ;
+    skos:inScheme <> ;
+    skos:notation "3.1" ;
+    skos:prefLabel "verwenden Variablen je nach Kontext als eine feste Zahl, als eine beliebige Zahl aus einem Zahlbereich und als Veränderliche in einem bestimmten Bereich und können Beispiele für die unterschiedliche Verwendung von Variablen nennen,"@de .
+
+<53fbd900-1551-4a30-9dcb-32d3bf9e85b0> a skos:Concept ;
+    skos:broader <7db1933b-d6ac-4984-8533-8c0e2e3730d9> ;
+    skos:inScheme <> ;
+    skos:notation "4.1" ;
+    skos:prefLabel "benennen und beschreiben geometrische Objekte und Beziehungen in der Umwelt mit Hilfe mathematischer Modelle (Punkte, Winkel, Strecken, Geraden, Flächen, Körper) und ihre Zusammenhänge,"@de .
+
+<55f7bfda-2458-4c42-96a8-2c7b3696f51e> a skos:Concept ;
+    skos:broader <76efb7d9-08a9-4b48-b339-59f4e7bce397> ;
+    skos:inScheme <> ;
+    skos:notation "5.4" ;
+    skos:prefLabel "sammeln systematisch Daten (z. B. Messwerte, Daten aus Befragungen oder Internet), organisieren sie in Tabellen und stellen sie grafisch dar, auch unter Verwendung geeigneter Hilfsmittel wie Tabellenkalkulation oder Stochastiktools,"@de .
+
+<62deba25-ec1d-4a3d-87e7-cffc8f3994f8> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.7" ;
+    skos:prefLabel "begründen die Notwendigkeit von Zahlbereichserweiterungen von N nach Z und Q an Beispielen,"@de .
+
+<63e50e0a-cb9a-45e1-8df8-6fa12d4c2dd1> a skos:Concept ;
+    skos:broader <76efb7d9-08a9-4b48-b339-59f4e7bce397> ;
+    skos:inScheme <> ;
+    skos:notation "5.1" ;
+    skos:prefLabel "werten grafische Darstellungen und Tabellen von statistischen Erhebungen aus, auch mit Hilfe von Tabellenkalkulation oder Stochastiktools,"@de .
+
+<6f8829cd-bcf9-4104-a8cb-cd34c577561e> a skos:Concept ;
+    skos:broader <a385731c-010f-4b9a-9c07-5c6833e3fcf6> ;
+    skos:inScheme <> ;
+    skos:notation "3.4" ;
+    skos:prefLabel "nutzen Maßstäbe beim Lesen und Anfertigen von Zeichnungen situationsgerecht,"@de .
+
+<700c0ce1-948b-4843-bc12-ccd0fe1a8061> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.5" ;
+    skos:prefLabel "stellen Zahlen der Situation angemessen dar, unter anderem in Zehnerpotenzschreibweise,"@de .
+
+<7247dba5-24e6-4fb1-b454-728f26efffe0> a skos:Concept ;
+    skos:broader <76efb7d9-08a9-4b48-b339-59f4e7bce397> ;
+    skos:inScheme <> ;
+    skos:notation "5.8" ;
+    skos:prefLabel "beschreiben Zufallserscheinungen aus dem Alltag und ihre Darstellung in Medien,"@de .
+
+<731ff92f-831c-43f6-9068-ef648fd01593> a skos:Concept ;
+    skos:broader <c2d9b560-64a6-469a-bea2-61f8cbeab1ea> ;
+    skos:inScheme <> ;
+    skos:notation "2.2" ;
+    skos:prefLabel "wählen Einheiten von Größen situationsgerecht aus (insbesondere für Zeitspannen, Masse, Geld, Länge, Fläche, Volumen und Winkel) und wandeln sie ggf. um,"@de .
+
+<80ede463-1683-43d5-8b6a-a535d8e209d2> a skos:Concept ;
+    skos:broader <a385731c-010f-4b9a-9c07-5c6833e3fcf6> ;
+    skos:inScheme <> ;
+    skos:notation "3.7" ;
+    skos:prefLabel "lösen realitätsnahe Probleme im Zusammenhang mit linearen, proportionalen und antiproportionalen Zuordnungen, ggf. auch mit Hilfe des Dreisatzes, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
+
+<8192a627-ea0b-4cf1-9df4-ab3b3c33b8dc> a skos:Concept ;
+    skos:broader <76efb7d9-08a9-4b48-b339-59f4e7bce397> ;
     skos:inScheme <> ;
     skos:notation "5.10" ;
     skos:prefLabel "bestimmen Wahrscheinlichkeiten bei einfachen Zufallsexperimenten, ohne und mit Hilfe digitaler Mathematikwerkzeuge."@de .
 
+<8bf02354-d06c-4b18-95ea-56b30a030bd8> a skos:Concept ;
+    skos:broader <a385731c-010f-4b9a-9c07-5c6833e3fcf6> ;
+    skos:inScheme <> ;
+    skos:notation "3.6" ;
+    skos:prefLabel "unterscheiden proportionale und antiproportionale Zusammenhänge in Sachsituationen und stellen damit Berechnungen an,"@de .
+
+<90276f4e-2541-4c5d-bf75-7180258fb106> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.12" ;
+    skos:prefLabel "prüfen und interpretieren Ergebnisse, auch in Sachsituationen,"@de .
+
+<9339a8e6-f59d-4504-9ce9-53ea58e30db2> a skos:Concept ;
+    skos:broader <c2d9b560-64a6-469a-bea2-61f8cbeab1ea> ;
+    skos:inScheme <> ;
+    skos:notation "2.4" ;
+    skos:prefLabel "ermitteln Flächeninhalt und Umfang von Rechteck, Dreieck und Kreis sowie daraus zusammengesetzten Figuren, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
+
+<9453ae9e-73cc-4701-8b49-1c40b23adb47> a skos:Concept ;
+    skos:broader <a385731c-010f-4b9a-9c07-5c6833e3fcf6> ;
+    skos:inScheme <> ;
+    skos:notation "3.3" ;
+    skos:prefLabel "nutzen die Prozentrechnung bei Wachstumsprozessen (beispielsweise bei der Zinsrechnung), auch unter Verwendung digitaler Werkzeuge,"@de .
+
+<9614fecb-373e-497c-87ce-c99b9d4f06e2> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.10" ;
+    skos:prefLabel "nutzen Überschlagsrechnungen zur Orientierung und zur Kontrolle,"@de .
+
+<9701443a-fda7-4a14-b1aa-eda6d01413e6> a skos:Concept ;
+    skos:broader <7db1933b-d6ac-4984-8533-8c0e2e3730d9> ;
+    skos:inScheme <> ;
+    skos:notation "4.3" ;
+    skos:prefLabel "stellen ebene geometrische Figuren (z. B. Dreiecke, Vierecke) und elementare geometrische Abbildungen (z. B. Verschiebungen, Drehungen, Spiegelungen, zentrische Streckungen) im ebenen kartesischen Koordinatensystem dar, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
+
+<98c800dc-448b-4970-8dd0-6af7ab249a38> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.9" ;
+    skos:prefLabel "nutzen Rechengesetze (z. B. Kommutativ-, Assoziativ-, Distributivgesetz), auch zum vorteilhaften Rechnen,"@de .
+
+<9df3d405-b89e-46ad-84e1-01b8a3e52dac> a skos:Concept ;
+    skos:broader <76efb7d9-08a9-4b48-b339-59f4e7bce397> ;
+    skos:inScheme <> ;
+    skos:notation "5.3" ;
+    skos:prefLabel "planen einfache Befragungen,"@de .
+
+<aaac4f8e-427f-4340-8579-ecd151c27f44> a skos:Concept ;
+    skos:broader <76efb7d9-08a9-4b48-b339-59f4e7bce397> ;
+    skos:inScheme <> ;
+    skos:notation "5.5" ;
+    skos:prefLabel "ermitteln und interpretieren Kenngrößen (z. B. Minimum, Maximum, arithmetisches Mittel, Median, Spannweite),"@de .
+
+<b0d61d2c-00cb-4c60-9b05-3e4b6844bc0f> a skos:Concept ;
+    skos:broader <76efb7d9-08a9-4b48-b339-59f4e7bce397> ;
+    skos:inScheme <> ;
+    skos:notation "5.9" ;
+    skos:prefLabel "nutzen bei der Durchführung von Zufallsexperimenten die auftretenden relativen Häufigkeiten als Schätzwerte von Wahrscheinlichkeiten, die bei wachsendem Stichprobenumfang besser werden,"@de .
+
+<b3b18d98-6e32-472a-8c32-7f9d39b15349> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.11" ;
+    skos:prefLabel "runden Zahlen dem Sachverhalt entsprechend sinnvoll,"@de .
+
+<b56d0db2-2e14-4173-8c3a-db8db538a77f> a skos:Concept ;
+    skos:broader <7db1933b-d6ac-4984-8533-8c0e2e3730d9> ;
+    skos:inScheme <> ;
+    skos:notation "4.7" ;
+    skos:prefLabel "wenden Sätze der ebenen Geometrie (insbesondere den Satz des Pythagoras und Ähnlichkeitsbeziehungen) bei Konstruktionen und Berechnungen an, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
+
+<b97abd7b-e75d-4ad6-b686-136c46a6072b> a skos:Concept ;
+    skos:broader <a385731c-010f-4b9a-9c07-5c6833e3fcf6> ;
+    skos:inScheme <> ;
+    skos:notation "3.8" ;
+    skos:prefLabel "lösen einfache lineare Gleichungen numerisch (systematisches Probieren), algebraisch (Umformen) und grafisch (mit Hilfe von Funktionsgraphen), auch unter Einsatz digitaler Mathematikwerkzeuge, und vergleichen verschiedene Lösungsverfahren im Hinblick auf die jeweilige Fragestellung oder das Problem,"@de .
+
+<b9f7f4db-0437-41c6-be09-cf3aa7d1fcb1> a skos:Concept ;
+    skos:broader <a385731c-010f-4b9a-9c07-5c6833e3fcf6> ;
+    skos:inScheme <> ;
+    skos:notation "3.11" ;
+    skos:prefLabel "wenden lineare Funktionen in Sachsituationen an,"@de .
+
+<bc930723-a5a8-4ab1-98d9-2c04c82b0654> a skos:Concept ;
+    skos:broader <a385731c-010f-4b9a-9c07-5c6833e3fcf6> ;
+    skos:inScheme <> ;
+    skos:notation "3.10" ;
+    skos:prefLabel "bestimmen kennzeichnende Merkmale von linearen Funktionen im Funktionsterm, Graph und der Wertetabelle und stellen Beziehungen zwischen den Darstellungen her,"@de .
+
+<c1fc25c1-9d30-4a4c-b047-e38068e95af5> a skos:Concept ;
+    skos:broader <7db1933b-d6ac-4984-8533-8c0e2e3730d9> ;
+    skos:inScheme <> ;
+    skos:notation "4.4" ;
+    skos:prefLabel "fertigen Netze, Schrägbilder und Modelle von ausgewählten Körpern (z. B. Quader, Prisma, Pyramide) an - auch mit Hilfe digitaler Medien - und erkennen Körper aus ihren entsprechenden Darstellungen,"@de .
+
+<c79efd4e-cf7c-4f3a-83a4-05b0e641855a> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.8" ;
+    skos:prefLabel "erläutern an Beispielen die verschiedenen Vorstellungen zum Bruchbegriff (insbesondere Teile eines oder mehrerer Ganzer, relative Anteile),"@de .
+
+<d32aef20-68f3-4776-a566-d7bd17e7546b> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.4" ;
+    skos:prefLabel "untersuchen Zahlen nach ihren Faktoren, in einfachen Fällen ohne digitale Mathematikwerkzeuge,"@de .
+
+<d372d43f-2247-4d76-bc06-b70b86dcc014> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.17" ;
+    skos:prefLabel "wählen und beschreiben Vorgehensweisen und Verfahren, denen Algorithmen bzw. Kalküle zu Grunde liegen und führen diese aus (z. B. schriftliche Division)."@de .
+
+<d66ea275-403e-4a3f-8b76-4112d291c31f> a skos:Concept ;
+    skos:broader <c2d9b560-64a6-469a-bea2-61f8cbeab1ea> ;
+    skos:inScheme <> ;
+    skos:notation "2.7" ;
+    skos:prefLabel "berechnen Streckenlängen und Winkelgrößen, auch unter Nutzung des Satzes von Pythagoras und Ähnlichkeitsbeziehungen, auch mit Hilfe digitaler Mathematikwerkzeuge."@de .
+
+<e3fcc005-9eb0-408a-a2b6-841e699388f8> a skos:Concept ;
+    skos:broader <7db1933b-d6ac-4984-8533-8c0e2e3730d9> ;
+    skos:inScheme <> ;
+    skos:notation "4.6" ;
+    skos:prefLabel "erkennen und beschreiben Eigenschaften und Beziehungen geometrischer Objekte (z. B. Symmetrie, Idee der Kongruenz, Lagebeziehungen),"@de .
+
+<e546667d-c4a5-4286-a872-5ec01b5218b2> a skos:Concept ;
+    skos:broader <c2d9b560-64a6-469a-bea2-61f8cbeab1ea> ;
+    skos:inScheme <> ;
+    skos:notation "2.3" ;
+    skos:prefLabel "schätzen Größen mit Hilfe von Vorstellungen über geeignete Repräsentanten (z. B. typisches Objekt für eine Standardgröße) und nutzen dies auch zur Plausibilitätsprüfung,"@de .
+
+<eb08e5d5-9c62-4217-8a3c-6bf49a7c7e47> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.1" ;
+    skos:prefLabel "nutzen sinntragende Vorstellungen von rationalen Zahlen, insbesondere von natürlichen, ganzen und gebrochenen Zahlen entsprechend der Verwendungsnotwendigkeit,"@de .
+
+<eca818b6-c46b-453b-b8e4-2c861daefa73> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.15" ;
+    skos:prefLabel "erläutern Potenzen und Wurzeln und berechnen einfache Potenzen und Wurzeln (Quadrat- und Kubikwurzeln),"@de .
+
+<ecbcc289-d8ea-4759-890c-4cc85fe1cdb6> a skos:Concept ;
+    skos:broader <c2d9b560-64a6-469a-bea2-61f8cbeab1ea> ;
+    skos:inScheme <> ;
+    skos:notation "2.5" ;
+    skos:prefLabel "ermitteln Volumen und Oberflächeninhalt von Quader, Prisma, Pyramide und Zylinder sowie daraus zusammengesetzten Körpern, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
+
+<f395b685-cdaf-4f06-8113-4e7ca95fb3e1> a skos:Concept ;
+    skos:broader <a385731c-010f-4b9a-9c07-5c6833e3fcf6> ;
+    skos:inScheme <> ;
+    skos:notation "3.5" ;
+    skos:prefLabel "erkennen und verwenden funktionale Zusammenhänge in Alltagssituationen und stellen diese in verschiedenen Repräsentationen dar (sprachlich, tabellarisch, grafisch, lineare Funktionen auch algebraisch) und können zwischen diesen Darstellungsformen wechseln, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de .
+
+<f7fd52bf-20c5-48e3-91ba-6e10ad4ffb84> a skos:Concept ;
+    skos:broader <0226f0a6-65a6-4502-99fa-928b1b8ea268> ;
+    skos:inScheme <> ;
+    skos:notation "1.3" ;
+    skos:prefLabel "nutzen sinntragende Vorstellungen von Operationen rationaler Zahlen (z. B. schrittweiser, halbschriftlicher Verfahren),"@de .
+
+<f80655cd-f98e-48cc-8c6e-c876dcc5a4ce> a skos:Concept ;
+    skos:broader <7db1933b-d6ac-4984-8533-8c0e2e3730d9> ;
+    skos:inScheme <> ;
+    skos:notation "4.8" ;
+    skos:prefLabel "zeichnen und konstruieren geometrische Figuren unter Verwendung angemessener Medien wie Zirkel, Geodreieck oder digitaler Mathematikwerkzeuge."@de .
+
+<fc1a8989-ba73-4f21-8c3c-cea527670829> a skos:Concept ;
+    skos:broader <7db1933b-d6ac-4984-8533-8c0e2e3730d9> ;
+    skos:inScheme <> ;
+    skos:notation "4.2" ;
+    skos:prefLabel "entwickeln Vorstellungen im zwei- und dreidimensionalen Raum und operieren (insbesondere verschieben, drehen, spiegeln) gedanklich mit den darin enthaltenen Objekten (Punkten, Strecken, Flächen und Körpern),"@de .
+
+<fdad6334-8dd7-42d7-bf68-f4b559195b4a> a skos:Concept ;
+    skos:broader <a385731c-010f-4b9a-9c07-5c6833e3fcf6> ;
+    skos:inScheme <> ;
+    skos:notation "3.14" ;
+    skos:prefLabel "geben zu vorgegebenen linearen Funktionen Sachsituationen an, die mit Hilfe dieser Funktion beschrieben werden können."@de .
+
 <stdInhaltESA/> a skos:Concept ;
     skos:definition "Bei  den folgenden inhaltsbezogenen Kompetenzen ist grundsätzlich daran gedacht, dass diese mit und ohne Medien erreicht werden sollen. Abweichungen davon werden explizit an den entsprechenden Stellen erwähnt."@de ;
-    skos:narrower <stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf>,
-        <stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71>,
-        <stdInhaltESA/895619d7-394f-4e01-8184-6466ad301510>,
-        <stdInhaltESA/98bbd660-f390-4f71-a9df-0d0c34a321b8>,
-        <stdInhaltESA/f5f5030c-84d4-4565-91fe-23f7ca4d3721> ;
+    skos:narrower <0226f0a6-65a6-4502-99fa-928b1b8ea268>,
+        <76efb7d9-08a9-4b48-b339-59f4e7bce397>,
+        <7db1933b-d6ac-4984-8533-8c0e2e3730d9>,
+        <a385731c-010f-4b9a-9c07-5c6833e3fcf6>,
+        <c2d9b560-64a6-469a-bea2-61f8cbeab1ea> ;
     skos:prefLabel "Inhaltsbezogene Kompetenzen ESA"@de ;
     skos:topConceptOf <> .
 
-<stdInhaltESA/895619d7-394f-4e01-8184-6466ad301510> a skos:Concept ;
+<c2d9b560-64a6-469a-bea2-61f8cbeab1ea> a skos:Concept ;
     skos:broader <stdInhaltESA/> ;
     skos:definition "Diese Leitidee umfasst das Bestimmen und Deuten von Größen unter Berücksichtigung des Grundprinzips des Messens. Dabei spielen neben Längen-, Flächen- und Volumenmessungen weitere Größen wie Winkel und Zeitspannen sowie die Berücksichtigung der Sachsituation einschließlich Vorstellungen über geeignete Repräsentanten eine Rolle. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind Arithmetik, Algebra und Geometrie."@de ;
     skos:inScheme <> ;
-    skos:narrower <stdInhaltESA/3fdb136c-f3d2-4fa6-ae0c-17819eb29a37>,
-        <stdInhaltESA/8e4ff1cc-6114-4876-a7a7-73db7bb04e28>,
-        <stdInhaltESA/91a59f6a-66ca-42e4-885b-0d15986e050a>,
-        <stdInhaltESA/c38e3a72-742e-4459-8295-6f419fee9a58>,
-        <stdInhaltESA/dbc3ebaa-ce80-468d-af4a-a93865013930>,
-        <stdInhaltESA/e4f84901-5774-4c14-bb39-4442a05169a5>,
-        <stdInhaltESA/e9df8f3d-4cf5-47cc-b787-e681860968ef> ;
+    skos:narrower <04b89b0f-f68b-4b0b-ac62-aa9cfb1b2120>,
+        <49494691-93ea-437d-87f2-1ff6c3388162>,
+        <731ff92f-831c-43f6-9068-ef648fd01593>,
+        <9339a8e6-f59d-4504-9ce9-53ea58e30db2>,
+        <d66ea275-403e-4a3f-8b76-4112d291c31f>,
+        <e546667d-c4a5-4286-a872-5ec01b5218b2>,
+        <ecbcc289-d8ea-4759-890c-4cc85fe1cdb6> ;
     skos:notation "2" ;
     skos:prefLabel "Leitidee Größen und Messen"@de .
 
-<stdInhaltESA/f5f5030c-84d4-4565-91fe-23f7ca4d3721> a skos:Concept ;
+<7db1933b-d6ac-4984-8533-8c0e2e3730d9> a skos:Concept ;
     skos:broader <stdInhaltESA/> ;
     skos:definition "Diese Leitidee ist auf die Entwicklung des geometrischen Vorstellungsvermögens gerichtet. Sie beinhaltet den Umgang mit Objekten in Ebene und Raum. Es geht hier sowohl um Eigenschaften und Beziehungen dieser Objekte als auch um deren Darstellungen mit geeigneten Medien einschließlich digitaler Mathematikwerkzeuge. Das zugehörige mathematische Sachgebiet der Sekundarstufe I ist die Geometrie."@de ;
     skos:inScheme <> ;
-    skos:narrower <stdInhaltESA/25275aeb-22ef-44cb-b35b-ee9878e0bcd4>,
-        <stdInhaltESA/296110d8-2610-43be-9922-12320e830718>,
-        <stdInhaltESA/5619c020-bdbf-4235-a107-5f52c19551e0>,
-        <stdInhaltESA/92941f3b-63b6-4828-a5ba-1d3f75be4297>,
-        <stdInhaltESA/9442257c-9b7e-4244-84ea-7ffed7084644>,
-        <stdInhaltESA/aa405433-9d8f-458a-981f-6a84d459473e>,
-        <stdInhaltESA/ab6689bd-0f39-4f06-8f4d-de176563d288>,
-        <stdInhaltESA/b422a863-464c-4a29-b3d8-c76b7cee09c0> ;
+    skos:narrower <1ca12b4e-1181-4ffa-ad81-01ee9aab80d6>,
+        <53fbd900-1551-4a30-9dcb-32d3bf9e85b0>,
+        <9701443a-fda7-4a14-b1aa-eda6d01413e6>,
+        <b56d0db2-2e14-4173-8c3a-db8db538a77f>,
+        <c1fc25c1-9d30-4a4c-b047-e38068e95af5>,
+        <e3fcc005-9eb0-408a-a2b6-841e699388f8>,
+        <f80655cd-f98e-48cc-8c6e-c876dcc5a4ce>,
+        <fc1a8989-ba73-4f21-8c3c-cea527670829> ;
     skos:notation "4" ;
     skos:prefLabel "Leitidee Raum und Form"@de .
 
-<stdInhaltESA/98bbd660-f390-4f71-a9df-0d0c34a321b8> a skos:Concept ;
+<76efb7d9-08a9-4b48-b339-59f4e7bce397> a skos:Concept ;
     skos:broader <stdInhaltESA/> ;
     skos:definition "Diese Leitidee umfasst zwei Säulen, die beschreibende Statistik und die Wahrscheinlichkeitsrechnung zur Modellierung von zufallsabhängigen Vorgängen und Risiken. Wahrscheinlichkeiten können als Prognosen von relativen Häufigkeiten bei zufallsabhängigen Vorgängen gedeutet werden, wodurch die beiden Säulen verknüpft werden. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind die Stochastik und Funktionen. Es werden Begriffe und Methoden zur Erhebung, Aufbereitung und Interpretation von statistischen Daten vernetzt mit solchen zur Beschreibung und Modellierung zufallsabhängiger Situationen. Die stochastische Simulation spielt bei der Verknüpfung eine wichtige Rolle. Der Umgang mit Daten und Zufallserscheinungen im Alltag und Zufallsexperimenten geschieht auch unter Verwendung einschlägiger digitaler Mathematikwerkzeuge, hier vor allem Tabellenkalkulation und Stochastiktools."@de ;
     skos:inScheme <> ;
-    skos:narrower <stdInhaltESA/3e4077d2-2111-4b45-83ad-621ea2ac3348>,
-        <stdInhaltESA/4be095b3-db38-4659-853d-aedda710a6f1>,
-        <stdInhaltESA/4d32a5c1-8b1f-4440-abd9-50a0f8f0acb2>,
-        <stdInhaltESA/8889b4a0-5c2a-4f48-a86e-792604410e43>,
-        <stdInhaltESA/aa43f57b-1826-4b88-a81f-da3c4ed763a2>,
-        <stdInhaltESA/c2d62176-7cd2-4a27-99d8-4699fe665798>,
-        <stdInhaltESA/c525df6c-b5fc-4221-8000-c4e56cb2620f>,
-        <stdInhaltESA/ec2f7a7e-b6f2-4426-a4ba-e90981b19224>,
-        <stdInhaltESA/ef1c4320-5ba3-4f8c-91d4-13cf1e9903c3>,
-        <stdInhaltESA/fde99cdb-2e58-4936-be3c-01953416d17e> ;
+    skos:narrower <00fb61ba-8028-4dec-98a5-1000e3ab2897>,
+        <1478d008-3ba0-494a-ac41-669a8dcaa586>,
+        <33433fed-d30b-4f52-89fb-7ef0a3c33933>,
+        <55f7bfda-2458-4c42-96a8-2c7b3696f51e>,
+        <63e50e0a-cb9a-45e1-8df8-6fa12d4c2dd1>,
+        <7247dba5-24e6-4fb1-b454-728f26efffe0>,
+        <8192a627-ea0b-4cf1-9df4-ab3b3c33b8dc>,
+        <9df3d405-b89e-46ad-84e1-01b8a3e52dac>,
+        <aaac4f8e-427f-4340-8579-ecd151c27f44>,
+        <b0d61d2c-00cb-4c60-9b05-3e4b6844bc0f> ;
     skos:notation "5" ;
     skos:prefLabel "Leitidee Daten und Zufall"@de .
 
-<stdInhaltESA/78a92c1a-dc40-47bb-9172-c246598fad71> a skos:Concept ;
+<a385731c-010f-4b9a-9c07-5c6833e3fcf6> a skos:Concept ;
     skos:broader <stdInhaltESA/> ;
     skos:definition "Die Leitidee umfasst funktionale Beziehungen zwischen Zahlen, Daten bzw. Größen sowie deren Darstellungen und Eigenschaften, auch unter Nutzung geeigneter digitaler Mathematikwerkzeuge. Das umfasst auch das Lösen von Gleichungen und linearen Gleichungssystemen und die Anwendung verschiedener Funktionenklassen bei der Bearbeitung von Problemen und in Sachsituationen. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind Algebra und Funktionen."@de ;
     skos:inScheme <> ;
-    skos:narrower <stdInhaltESA/079dbaff-1ae1-4505-aa86-f82f3c2bddd9>,
-        <stdInhaltESA/10922556-f8d4-4104-b49c-be8b41c33e3c>,
-        <stdInhaltESA/1ebceaab-484f-4aa4-be9b-dc956b382e28>,
-        <stdInhaltESA/5569dddd-6095-44e6-8118-0250f158a618>,
-        <stdInhaltESA/67268abd-338d-4c4b-a475-8e9488923323>,
-        <stdInhaltESA/714b44fd-0e5b-4303-9672-46859b18d28b>,
-        <stdInhaltESA/7dc0482b-fe4a-4479-ab7a-227de7034b04>,
-        <stdInhaltESA/8036da4f-cec1-48f6-8153-2aa2d9fdc1c9>,
-        <stdInhaltESA/8991f0f7-63d2-48bc-9ca8-f1671597d856>,
-        <stdInhaltESA/9ff60f03-17f1-4889-b6a9-087c07009180>,
-        <stdInhaltESA/a8349e35-5175-4a94-9db0-a7fcd357b42e>,
-        <stdInhaltESA/c4aa308c-b6da-4489-99a6-b50abbc90c56> ;
+    skos:narrower <22e29035-d21a-4736-827a-576dec5ddd04>,
+        <23739f8e-f2b2-4ad2-82cc-837f66fd0f91>,
+        <4b9522e7-96fa-4445-8824-f38347e337a7>,
+        <6f8829cd-bcf9-4104-a8cb-cd34c577561e>,
+        <80ede463-1683-43d5-8b6a-a535d8e209d2>,
+        <8bf02354-d06c-4b18-95ea-56b30a030bd8>,
+        <9453ae9e-73cc-4701-8b49-1c40b23adb47>,
+        <b97abd7b-e75d-4ad6-b686-136c46a6072b>,
+        <b9f7f4db-0437-41c6-be09-cf3aa7d1fcb1>,
+        <bc930723-a5a8-4ab1-98d9-2c04c82b0654>,
+        <f395b685-cdaf-4f06-8113-4e7ca95fb3e1>,
+        <fdad6334-8dd7-42d7-bf68-f4b559195b4a> ;
     skos:notation "3" ;
     skos:prefLabel "Leitidee Strukturen und funktionaler Zusammenhang"@de .
 
-<stdInhaltESA/0679aa85-0ef1-4789-b95f-cfa9b6b880bf> a skos:Concept ;
+<0226f0a6-65a6-4502-99fa-928b1b8ea268> a skos:Concept ;
     skos:broader <stdInhaltESA/> ;
     skos:definition "Diese  Leitidee umfasst sinntragende Vorstellungen und Darstellungen von Zahlen und Operationen sowie die Nutzung von Rechengesetzen und Kontrollverfahren. Dazu gehört zum Beispiel die sachgerechte Nutzung von Prozent- und Zinsrechnung. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind die Arithmetik und Algebra"@de ;
     skos:inScheme <> ;
-    skos:narrower <stdInhaltESA/0b124cad-6ac3-4a3f-9549-dd9ddb7708b9>,
-        <stdInhaltESA/0ee9a846-fc88-4314-92ae-5736a50e5032>,
-        <stdInhaltESA/3512e48a-ab2d-4bcc-b9c9-f6afa3b8ab67>,
-        <stdInhaltESA/520c605d-1fdd-4efc-adc3-d3d9bfdf3287>,
-        <stdInhaltESA/59674bc9-6d4d-4d75-ad9c-de8de823c2b0>,
-        <stdInhaltESA/67d9d6c7-c765-46e2-87d6-bcdb70d68d90>,
-        <stdInhaltESA/709bc679-fc01-41b6-b2ee-5cef4b077ff6>,
-        <stdInhaltESA/84b5f17d-9834-46fb-b925-5390f631465f>,
-        <stdInhaltESA/8c5cc331-5918-40e1-afa7-3a37abcda0dc>,
-        <stdInhaltESA/949e67cb-0702-435f-a61a-a3aa918a2e85>,
-        <stdInhaltESA/9ea35f9a-3127-46a1-98ac-137d3ce9952f>,
-        <stdInhaltESA/ad2fd941-f260-4550-b423-39c3788cb379>,
-        <stdInhaltESA/bd025778-9edf-42e1-8a46-e5616689514b>,
-        <stdInhaltESA/ed1eed78-3b52-4bdf-b88e-9c6de09a4147>,
-        <stdInhaltESA/f3261884-4b9a-450f-ba6e-3567d8475524> ;
+    skos:narrower <06a2952c-d9cb-44d9-8b80-a41efd0132cc>,
+        <114fd234-af99-4fbe-9beb-1136b89b17a0>,
+        <20d00a15-e639-4f8f-b48c-a6da7fb49a55>,
+        <62deba25-ec1d-4a3d-87e7-cffc8f3994f8>,
+        <700c0ce1-948b-4843-bc12-ccd0fe1a8061>,
+        <90276f4e-2541-4c5d-bf75-7180258fb106>,
+        <9614fecb-373e-497c-87ce-c99b9d4f06e2>,
+        <98c800dc-448b-4970-8dd0-6af7ab249a38>,
+        <b3b18d98-6e32-472a-8c32-7f9d39b15349>,
+        <c79efd4e-cf7c-4f3a-83a4-05b0e641855a>,
+        <d32aef20-68f3-4776-a566-d7bd17e7546b>,
+        <d372d43f-2247-4d76-bc06-b70b86dcc014>,
+        <eb08e5d5-9c62-4217-8a3c-6bf49a7c7e47>,
+        <eca818b6-c46b-453b-b8e4-2c861daefa73>,
+        <f7fd52bf-20c5-48e3-91ba-6e10ad4ffb84> ;
     skos:notation "1" ;
     skos:prefLabel "Leitidee Zahl und Operation"@de .
 
