@@ -4,7 +4,7 @@
 
 <ab/55e6deae-fac6-4c50-890c-fa10e1064c60> a skos:Concept ;
     skos:broader <ab/> ;
-    skos:definition "Dieser Anforderungsbereich umfasst das selbstständige Auswählen, Anordnen, Darstellen und Bearbeiten bekannter Sachverhalte, indem Kenntnisse, Fertigkeiten und Fähigkeiten verknüpft werden, die in der Auseinandersetzung mit Mathematik auf verschiedenen Gebieten erworben wurden."@de ;
+    skos:definition "Dieser  Anforderungsbereich umfasst das selbstständige Auswählen, Anordnen, Darstellen und Bearbeiten bekannter Sachverhalte, indem Kenntnisse, Fertigkeiten und Fähigkeiten verknüpft werden, die in der Auseinandersetzung mit Mathematik auf verschiedenen Gebieten erworben wurden."@de ;
     skos:inScheme <> ;
     skos:notation "2" ;
     skos:prefLabel "Anforderungsbereich II: Zusammenhänge herstellen"@de .
