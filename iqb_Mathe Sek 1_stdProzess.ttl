@@ -1,685 +1,702 @@
-@base <https://w3id.org/iqb/bista22mas1/stdProzess/> .
+@base <https://w3id.org/iqb/bistamas1/stdProzess/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<0a3ea421-fbaa-45cd-b011-7256f9fe0dd6> a skos:Concept ;
-    skos:broader <dff1a013-0eb6-4815-a773-c639d971cd34> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.3" ;
-    skos:prefLabel "überprüfen  die Plausibilität von Ergebnissen,"@de .
-
-<0b50a377-fb5f-472e-a82b-cb4532baa319> a skos:Concept ;
-    skos:broader <8b499b94-93ff-4b56-8de2-6d39e5aaea48> ;
-    skos:inScheme <> ;
-    skos:notation "5.1.2" ;
-    skos:prefLabel "interpretieren vertraute Darstellungen,"@de .
-
-<0bdb5bf7-699a-4cbb-a485-80e931da59a8> a skos:Concept ;
-    skos:broader <1de4cfb6-8e98-4830-ab57-47bf6ab8ddec> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.2" ;
-    skos:prefLabel "erläutern Lösungswege und prüfen sie u. a. auf Konsistenz,"@de .
-
-<0f552e65-75c3-47af-888d-048b08a4aeb3> a skos:Concept ;
-    skos:broader <3abd4fc6-3cb8-40ce-9719-7c59bd60a01b> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.1" ;
-    skos:prefLabel "geben vertraute Argumentationen wieder (wie Rechnungen, Verfahren, Herleitungen, Sätze),"@de .
-
-<1031bbff-ac80-491a-a939-b2223e302392> a skos:Concept ;
-    skos:broader <dd8d6896-0e10-4225-9234-0b3190e136f8> ;
-    skos:inScheme <> ;
-    skos:notation "5.2.3" ;
-    skos:prefLabel "übersetzen symbolische und formale Sprache in natürliche Sprache und umgekehrt,"@de .
-
-<1b262663-7fdd-43ab-b285-41f7bd43a028> a skos:Concept ;
-    skos:broader <e6843c36-02cd-4b18-a6df-247ffe7d4181> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.3" ;
-    skos:prefLabel "prüfen die Passung der Resultate zur Aufgabenstellung,"@de .
-
-<20d95c07-40fa-4aec-98b0-b75df1ba128f> a skos:Concept ;
-    skos:broader <adfda927-4b25-489e-845d-904023f4b202> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.1" ;
-    skos:prefLabel "entwickeln und erläutern komplexe Argumentationen,"@de .
-
-<294071a6-6ccf-42ca-950e-3655e430750a> a skos:Concept ;
-    skos:broader <ec50348b-07cb-4c16-8bc0-44a35e791f47> ;
-    skos:inScheme <> ;
-    skos:notation "6.2.1" ;
-    skos:prefLabel "führen komplexere Lösungs- und Kontrollverfahren aus,"@de .
-
-<2990149f-a584-4513-a949-700eb6617d4a> a skos:Concept ;
-    skos:broader <762e1b06-385f-4976-ac49-975d8bda19a2> ;
-    skos:inScheme <> ;
-    skos:notation "5.3.1" ;
-    skos:prefLabel "entwickeln eigene Darstellungen,"@de .
-
-<2cc9da0c-2a38-4b7c-8ce3-f885f8ffc429> a skos:Concept ;
-    skos:broader <c389d900-5171-4214-b09d-4c41928c35f3> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.1" ;
-    skos:prefLabel "präsentieren sachgerecht komplexe mathematische Sachverhalte mündlich und schriftlich,"@de .
-
-<2e43d4c2-0d0f-46d8-aff3-b45880db9e19> a skos:Concept ;
-    skos:broader <1de4cfb6-8e98-4830-ab57-47bf6ab8ddec> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.4" ;
-    skos:prefLabel "erläutern mathematische Zusammenhänge, Ordnungen und logische Strukturen,"@de .
-
-<309227fc-8875-49ba-a5c2-ebd49fc775a7> a skos:Concept ;
-    skos:broader <dd8d6896-0e10-4225-9234-0b3190e136f8> ;
-    skos:inScheme <> ;
-    skos:notation "5.2.2" ;
-    skos:prefLabel "wechseln sachgerecht zwischen mathematischen Darstellungen und erklären, wie sie vernetzt sind,"@de .
-
-<34ce74b2-d26d-43af-acc1-9c5d33290c2e> a skos:Concept ;
-    skos:broader <762e1b06-385f-4976-ac49-975d8bda19a2> ;
-    skos:inScheme <> ;
-    skos:notation "5.3.2" ;
-    skos:prefLabel "analysieren und beurteilen verschiedene Formen der Darstellung entsprechend ihres Zwecks,"@de .
-
-<373cc18c-ff5a-4abd-9ce9-ed1dff991f2f> a skos:Concept ;
-    skos:broader <16f6cc94-cfe1-4dbe-8a5d-d874404cf78c> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.1" ;
-    skos:prefLabel "formulieren einfache mathematische Sachverhalte mit eigenen Worten und mithilfe mathematischer Begriffe mündlich und schriftlich,"@de .
-
-<3c6b4514-7803-4a05-8261-1003aefd5b46> a skos:Concept ;
-    skos:broader <2e998cde-4fea-46b4-958e-d6d4da20aff3> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.2" ;
-    skos:prefLabel "nehmen Mathematisierungen vor, die mehrere Schritte erfordern,"@de .
-
-<3d4912fa-30d5-4d84-bc3b-acb931264c6c> a skos:Concept ;
-    skos:broader <9f2684ee-5da7-4e5b-9f93-1acf2129deb4> ;
-    skos:inScheme <> ;
-    skos:notation "4.3.3" ;
-    skos:prefLabel "entscheiden, ob der Modellierungskreislauf erneut durchlaufen werden sollte."@de .
-
-<41a74ec3-eb1c-4753-8eab-e04b9d2ffc15> a skos:Concept ;
-    skos:broader <405dd83b-998c-4235-b110-fc98aa446062> ;
-    skos:inScheme <> ;
-    skos:notation "7.2.3" ;
-    skos:prefLabel "nutzen bekannte Algorithmen mit digitalen Mathematikwerkzeugen,"@de .
-
-<445e3a1a-462a-49ef-b1d4-67bc7009b443> a skos:Concept ;
-    skos:broader <080bfb46-4359-4a35-bd72-ae57ae27f727> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.3" ;
-    skos:prefLabel "Verwenden die mathematische Fachsprache situationsangemessen und erklären ihre Bedeutung,"@de .
-
-<48e19cc4-be65-4a47-91ff-4cfc1b692981> a skos:Concept ;
-    skos:broader <1de4cfb6-8e98-4830-ab57-47bf6ab8ddec> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.1" ;
-    skos:prefLabel "entwickeln und erläutern überschaubare mehrschrittige Argumentationen,"@de .
-
-<4b050d39-8e2c-4b0b-99fd-979db7acc131> a skos:Concept ;
-    skos:broader <d0b091e3-e19d-4e4d-98f9-039dd1963b24> ;
-    skos:inScheme <> ;
-    skos:notation "7.1.1" ;
-    skos:prefLabel "verwenden allgemeine Medien zur Kommunikation (z. B. Recherche in Fachliteratur oder Internet, Nutzung von Lernplattformen) und zur Präsentation mathematischer Inhalte in Situationen, in denen der Einsatz geübt wurde,"@de .
-
-<4d7f2d47-e7ae-429f-8021-5410e264b9e5> a skos:Concept ;
-    skos:broader <ec50348b-07cb-4c16-8bc0-44a35e791f47> ;
-    skos:inScheme <> ;
-    skos:notation "6.2.2" ;
-    skos:prefLabel "beschreiben die innere Struktur mathematischer Objekte (z. B. von Termen) und gehen flexibel und sicher mit ihnen um,"@de .
-
-<4f51ff9b-99d8-44fe-9ead-d427ee218e05> a skos:Concept ;
-    skos:broader <d2988eef-9b97-4e57-9220-137825f1f721> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.1" ;
-    skos:prefLabel "geben Heurismen an (z. B. Skizze erstellen, systematisch probieren),"@de .
-
-<536bee7f-adf6-4621-9300-61550f6b90b4> a skos:Concept ;
-    skos:broader <3abd4fc6-3cb8-40ce-9719-7c59bd60a01b> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.2" ;
-    skos:prefLabel "formulieren typische Fragen, die auf Argumentationen zielen („Wie verändert sich …?“, „Ist das immer so …?“),"@de .
-
-<58be313f-6218-4fe0-9100-f61ddc6d85ae> a skos:Concept ;
-    skos:broader <adfda927-4b25-489e-845d-904023f4b202> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.2" ;
-    skos:prefLabel "bewerten verschiedene Argumentationen (z. B. in Texten und Darstellungen aus digitalen Medien),"@de .
-
-<60db7218-f553-4ffe-9439-96b956b70e62> a skos:Concept ;
-    skos:broader <dd8d6896-0e10-4225-9234-0b3190e136f8> ;
-    skos:inScheme <> ;
-    skos:notation "5.2.1" ;
-    skos:prefLabel "wählen eine Darstellung passend zur Problemstellung aus,"@de .
-
-<61852a32-cce3-4859-8271-2668fc7cbfd0> a skos:Concept ;
-    skos:broader <d0b091e3-e19d-4e4d-98f9-039dd1963b24> ;
-    skos:inScheme <> ;
-    skos:notation "7.1.4" ;
-    skos:prefLabel "ziehen Informationen aus mathematikhaltigen Darstellungen in Alltagsmedien,"@de .
-
-<632f3e74-932a-42ec-b25b-70d929aa02b3> a skos:Concept ;
-    skos:broader <2e998cde-4fea-46b4-958e-d6d4da20aff3> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.5" ;
-    skos:prefLabel "ordnen einem mathematischen Modell passende Situationen zu,"@de .
-
-<63a6a9a9-318d-470a-9eea-fc84ba51002b> a skos:Concept ;
-    skos:broader <405dd83b-998c-4235-b110-fc98aa446062> ;
-    skos:inScheme <> ;
-    skos:notation "7.2.2" ;
-    skos:prefLabel "nutzen weitere mathematikspezifische Medien (z. B. Apps zur Lernstandsbestimmung, Erklärvideos zum Verstehen, Programme zum Üben) zum selbstgesteuerten Lernen und Anwenden von Mathematik,"@de .
-
-<649d0897-b1c9-43ef-ac25-c275dc158d3a> a skos:Concept ;
-    skos:broader <dff1a013-0eb6-4815-a773-c639d971cd34> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.2" ;
-    skos:prefLabel "wählen geeignete Heurismen zur Lösung entsprechender Probleme aus,"@de .
-
-<79cc59d2-3999-470c-b738-948893034df9> a skos:Concept ;
-    skos:broader <b06c56e2-833b-40a8-ac23-bd09664aa37f> ;
-    skos:inScheme <> ;
-    skos:notation "6.1.1" ;
-    skos:prefLabel "verwenden Routineverfahren (z. B. Lösen einer linearen Gleichung),"@de .
-
-<7c971306-b22c-45a1-acf4-95d068157fcf> a skos:Concept ;
-    skos:broader <405dd83b-998c-4235-b110-fc98aa446062> ;
-    skos:inScheme <> ;
-    skos:notation "7.2.1" ;
-    skos:prefLabel "nutzen analoge und digitale Mathematikwerkzeuge (z. B. Geometriesoftware, Tabellenkalkulation, Computeralgebrasystem, Stochastiktool ) zum Problemlösen, Entdecken, Modellieren, Daten verarbeiten, Kontrollieren und Darstellungswechseln etc.,"@de .
-
-<7ce54107-abd1-4756-bc15-e1173e889bb1> a skos:Concept ;
-    skos:broader <405dd83b-998c-4235-b110-fc98aa446062> ;
-    skos:inScheme <> ;
-    skos:notation "7.2.5" ;
-    skos:prefLabel "wählen analoge und digitale Medien kriteriengeleitet je nach Zielsetzung bewusst aus,"@de .
-
-<89f2a1eb-ad03-41bf-a698-056876223364> a skos:Concept ;
-    skos:broader <83fd3e24-185e-49e4-9099-55d0c322f168> ;
-    skos:inScheme <> ;
-    skos:notation "7.3.1" ;
-    skos:prefLabel "reflektieren Möglichkeiten und Grenzen der Nutzung mathematikspezifischer Medien, auch im Vergleich zwischen analogem und digitalem Medium,"@de .
-
-<967d80c4-e661-4cbd-8927-d0056fd836de> a skos:Concept ;
-    skos:broader <83fd3e24-185e-49e4-9099-55d0c322f168> ;
-    skos:inScheme <> ;
-    skos:notation "7.3.6" ;
-    skos:prefLabel "nutzen Algorithmen mit Hilfe digitaler Werkzeuge, um den jeweils zugrundeliegenden mathematischen Inhalt zu untersuchen."@de .
-
-<979b58d2-512d-4f10-a461-36cc329ba08e> a skos:Concept ;
-    skos:broader <a5c54b97-0828-4be1-8729-6fae468ae1b9> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.2" ;
-    skos:prefLabel "reflektieren das Finden von Lösungsideen, vergleichen und beurteilen verschiedene Lösungswege."@de .
-
-<9ddbad2a-89c9-47c3-8030-a270d740fb9e> a skos:Concept ;
-    skos:broader <0c482f94-b6ed-437c-8b8a-a4ec0b3dc6b0> ;
-    skos:inScheme <> ;
-    skos:notation "6.3.1" ;
-    skos:prefLabel "bewerten Lösungs- und Kontrollverfahren hinsichtlich ihrer Effizienz,"@de .
-
-<9e3c21b7-92a3-4dd5-8099-7a9e9ac547f2> a skos:Concept ;
-    skos:broader <dff1a013-0eb6-4815-a773-c639d971cd34> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.1" ;
-    skos:prefLabel "formulieren  Problemstellungen,"@de .
-
-<a08bc56d-db95-48e8-b655-680656fe96ec> a skos:Concept ;
-    skos:broader <c389d900-5171-4214-b09d-4c41928c35f3> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2" ;
-    skos:prefLabel "interpretieren und beurteilen komplexe mathematische Texte sinnentnehmend,"@de .
-
-<a14bf0ed-2dda-4a9a-89ac-0080d451029b> a skos:Concept ;
-    skos:broader <080bfb46-4359-4a35-bd72-ae57ae27f727> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.2" ;
-    skos:prefLabel "erfassen, interpretieren und deuten komplexere mathematikhaltige Texte und Abbildungen sinnentnehmend und strukturieren Informationen,"@de .
-
-<a9ce796b-6e6c-437f-aa96-4a8f50bc5951> a skos:Concept ;
-    skos:broader <9f2684ee-5da7-4e5b-9f93-1acf2129deb4> ;
-    skos:inScheme <> ;
-    skos:notation "4.3.1" ;
-    skos:prefLabel "modellieren komplexe oder unvertraute Situationen und entwickeln ggf. eigene Modelle,"@de .
-
-<aa4eed75-1cb9-4389-8559-735fe4a99b1d> a skos:Concept ;
-    skos:broader <b06c56e2-833b-40a8-ac23-bd09664aa37f> ;
-    skos:inScheme <> ;
-    skos:notation "6.1.2" ;
-    skos:prefLabel "gehen mit vertrauten mathematischen Objekten (z. B. Strecken, Termen, Gleichungen) um,"@de .
-
-<acf2d419-d1a1-4e19-b2b3-48f34797d38d> a skos:Concept ;
-    skos:broader <83fd3e24-185e-49e4-9099-55d0c322f168> ;
-    skos:inScheme <> ;
-    skos:notation "7.3.2" ;
-    skos:prefLabel "konzipieren und erstellen selbst analoge und digitale Medien um mathematische Sachverhalte darzustellen oder zu bearbeiten und stellen ihre Ergebnisse vor (z. B. Präsentation, Videos),"@de .
-
-<ada8a34d-55a5-4f65-9dac-404e80eeb5bd> a skos:Concept ;
-    skos:broader <080bfb46-4359-4a35-bd72-ae57ae27f727> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.1" ;
-    skos:prefLabel "stellen Überlegungen, Lösungswege bzw. Ergebnisse und Verfahren verständlich dar,"@de .
-
-<af680f94-7fa3-4f86-beaa-ef802ee1eda3> a skos:Concept ;
-    skos:broader <d0b091e3-e19d-4e4d-98f9-039dd1963b24> ;
-    skos:inScheme <> ;
-    skos:notation "7.1.2" ;
-    skos:prefLabel "nutzen analoge und digitale Lernumgebungen zum Lernen von Mathematik,"@de .
-
-<b5202f3e-9a6a-4bc3-92e5-1da569c86cce> a skos:Concept ;
-    skos:broader <2e998cde-4fea-46b4-958e-d6d4da20aff3> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.4" ;
-    skos:prefLabel "prüfen Ergebnisse einer Modellierung auf Plausibilität in Bezug auf die Ausgangssituation,"@de .
-
-<b6696902-2275-4212-97db-e4b5da358794> a skos:Concept ;
-    skos:broader <16f6cc94-cfe1-4dbe-8a5d-d874404cf78c> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.3" ;
-    skos:prefLabel "reagieren  sach- und adressatengerecht auf Fragen und Kritik zu eigenen Lösungen,"@de .
-
-<bafc84ee-368e-49f7-aa00-bc0733f6f3ef> a skos:Concept ;
-    skos:broader <e6843c36-02cd-4b18-a6df-247ffe7d4181> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.2" ;
-    skos:prefLabel "nutzen bekannte und direkt erkennbare Modelle (z. B. Proportionalität bzw. Dreisatz),"@de .
-
-<bfa2c792-4bcc-4550-b69e-60266c18216a> a skos:Concept ;
-    skos:broader <405dd83b-998c-4235-b110-fc98aa446062> ;
-    skos:inScheme <> ;
-    skos:notation "7.2.4" ;
-    skos:prefLabel "vergleichen mathematikhaltige Informationen und Darstellungen in Alltagsmedien unter mathematischen Gesichtspunkten,"@de .
-
-<c1847d9e-329c-4df8-b108-65c50dbc4a0c> a skos:Concept ;
-    skos:broader <adfda927-4b25-489e-845d-904023f4b202> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.3" ;
-    skos:prefLabel "stellen selbstständig Fragen, die für die Mathematik charakteristisch sind, und äußern begründet Vermutungen."@de .
-
-<c35388b9-8709-45f8-93fd-4714f6225634> a skos:Concept ;
-    skos:broader <c389d900-5171-4214-b09d-4c41928c35f3> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.3" ;
-    skos:prefLabel "vergleichen und bewerten Äußerungen von anderen zu mathematischen Inhalten sachlich und fachlich angemessen."@de .
-
-<c5a7da50-6997-4326-973f-f350027ccf27> a skos:Concept ;
-    skos:broader <a5c54b97-0828-4be1-8729-6fae468ae1b9> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1" ;
-    skos:prefLabel "lösen anspruchsvolle, komplexe oder offen formulierte Probleme,"@de .
-
-<c6cec57d-5c8a-4f0e-8697-738ce93a0356> a skos:Concept ;
-    skos:broader <83fd3e24-185e-49e4-9099-55d0c322f168> ;
-    skos:inScheme <> ;
-    skos:notation "7.3.5" ;
-    skos:prefLabel "setzen bekannte mathematische Verfahren mithilfe digitaler Mathematikwerkzeuge (z. B. Tabellenkalkulation) als Algorithmus um,"@de .
-
-<c70e9c12-1fac-47bc-b7ac-9eb81cae6cfe> a skos:Concept ;
-    skos:broader <2e998cde-4fea-46b4-958e-d6d4da20aff3> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.3" ;
-    skos:prefLabel "interpretieren Ergebnisse einer Modellierung,"@de .
-
-<c837b631-35b3-422f-8d37-77f6750333ce> a skos:Concept ;
-    skos:broader <3abd4fc6-3cb8-40ce-9719-7c59bd60a01b> ;
+<03c8eccf-7fce-4c47-9383-9b12645676c8> a skos:Concept ;
+    skos:broader <667203f1-e346-41e7-abd7-08da7dd4449a> ;
     skos:inScheme <> ;
     skos:notation "1.1.3" ;
     skos:prefLabel "begründen angemessen auf Basis von Alltagswissen,"@de .
 
-<cd66c89f-47d8-4ed2-aa15-03f83bfb1aba> a skos:Concept ;
-    skos:broader <e6843c36-02cd-4b18-a6df-247ffe7d4181> ;
+<0edbea3b-454b-419a-8ab7-1fef4af0793f> a skos:Concept ;
+    skos:broader <89fa89f8-5187-464f-a5be-588dac2bb4f1> ;
     skos:inScheme <> ;
-    skos:notation "4.1.1" ;
-    skos:prefLabel "ordnen einfachen Realsituationen aus dem Alltag mathematische Objekte zu,"@de .
+    skos:notation "7.3.5" ;
+    skos:prefLabel "setzen bekannte mathematische Verfahren mithilfe digitaler Mathematikwerkzeuge (z. B. Tabellenkalkulation) als Algorithmus um,"@de .
 
-<d17ac54b-c186-46e4-bd9f-4d984e0cde13> a skos:Concept ;
-    skos:broader <16f6cc94-cfe1-4dbe-8a5d-d874404cf78c> ;
+<134ed5e6-6c98-462b-b324-c29829bee834> a skos:Concept ;
+    skos:broader <7d84dab6-d2ae-446d-bd87-753b95a0e66e> ;
     skos:inScheme <> ;
-    skos:notation "2.1.2" ;
-    skos:prefLabel "entnehmen Informationen aus einfachen mathematikhaltigen Texten und Abbildungen,"@de .
+    skos:notation "1.2.1" ;
+    skos:prefLabel "entwickeln und erläutern überschaubare mehrschrittige Argumentationen,"@de .
 
-<d2a56059-647f-45e8-95d7-7c268bd8b0c8> a skos:Concept ;
-    skos:broader <8b499b94-93ff-4b56-8de2-6d39e5aaea48> ;
-    skos:inScheme <> ;
-    skos:notation "5.1.1" ;
-    skos:prefLabel "nutzen und erzeugen vertraute und geübte Darstellungen von mathematischen Objekten und Situationen,"@de .
-
-<da127402-2503-49b0-a804-4832378b8379> a skos:Concept ;
-    skos:broader <83fd3e24-185e-49e4-9099-55d0c322f168> ;
-    skos:inScheme <> ;
-    skos:notation "7.3.3" ;
-    skos:prefLabel "beurteilen analoge und digitale Medien kriteriengeleitet je nach Zielsetzung,"@de .
-
-<e69c045e-d22e-4777-bf6b-17cb03c98eef> a skos:Concept ;
-    skos:broader <762e1b06-385f-4976-ac49-975d8bda19a2> ;
-    skos:inScheme <> ;
-    skos:notation "5.3.3" ;
-    skos:prefLabel "interpretieren nicht vertraute Darstellungen und beurteilen ihre Aussagekraft."@de .
-
-<e90e20d9-d842-42ec-be3d-ebc0851b9ed2> a skos:Concept ;
-    skos:broader <83fd3e24-185e-49e4-9099-55d0c322f168> ;
+<1f74362f-38a6-4e13-82a2-f3793693e469> a skos:Concept ;
+    skos:broader <89fa89f8-5187-464f-a5be-588dac2bb4f1> ;
     skos:inScheme <> ;
     skos:notation "7.3.4" ;
     skos:prefLabel "beurteilen mathematikhaltige Informationen und Darstellungen in Alltagsmedien unter mathematischen Gesichtspunkten,"@de .
 
-<ec9cb3f9-c7ce-4729-b328-3c417718681c> a skos:Concept ;
-    skos:broader <2e998cde-4fea-46b4-958e-d6d4da20aff3> ;
+<2a8a6cce-b8d0-4214-ab41-78876514e144> a skos:Concept ;
+    skos:broader <8ee23cde-eaf9-4247-8158-e4977591fd3c> ;
     skos:inScheme <> ;
-    skos:notation "4.2.1" ;
-    skos:prefLabel "wählen ein geeignetes mathematisches Modell aus,"@de .
+    skos:notation "2.2.1" ;
+    skos:prefLabel "stellen Überlegungen, Lösungswege bzw. Ergebnisse und Verfahren verständlich dar,"@de .
 
-<eded52d5-de31-4d1a-93dc-6efacb51af5e> a skos:Concept ;
-    skos:broader <d0b091e3-e19d-4e4d-98f9-039dd1963b24> ;
+<2d6865c6-0446-4d6e-ae06-d31c291c3624> a skos:Concept ;
+    skos:broader <8ee23cde-eaf9-4247-8158-e4977591fd3c> ;
     skos:inScheme <> ;
-    skos:notation "7.1.3" ;
-    skos:prefLabel "nutzen analoge und digitale Mathematikwerkzeuge (z. B. wissenschaftlichen Taschenrechner), die aus dem Unterricht vertraut sind,"@de .
+    skos:notation "2.2.2" ;
+    skos:prefLabel "erfassen, interpretieren und deuten komplexere mathematikhaltige Texte und Abbildungen sinnentnehmend und strukturieren Informationen,"@de .
 
-<ee1ecf80-18e4-47d3-b787-fdc5dde324ab> a skos:Concept ;
-    skos:broader <080bfb46-4359-4a35-bd72-ae57ae27f727> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.4" ;
-    skos:prefLabel "gehen fachbezogen auf Äußerungen von anderen zu mathematischen Inhalten ein (z. B. konstruktiver Umgang mit Fehlern, Weiterführen mathematischer Ideen),"@de .
-
-<efa01e6f-d709-4762-bd57-18402c89eb29> a skos:Concept ;
-    skos:broader <d2988eef-9b97-4e57-9220-137825f1f721> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.2" ;
-    skos:prefLabel "lösen einfache Probleme mit bekannten Heurismen (z. B. systematisches Probieren),"@de .
-
-<f25084e4-38ac-403b-b7bf-6a7e1f31756c> a skos:Concept ;
-    skos:broader <9f2684ee-5da7-4e5b-9f93-1acf2129deb4> ;
+<30ef676d-ca74-436a-a714-959468a544f0> a skos:Concept ;
+    skos:broader <d933a63a-59a3-4ecf-9713-bf415b072b3a> ;
     skos:inScheme <> ;
     skos:notation "4.3.2" ;
     skos:prefLabel "reflektieren und beurteilen verwendete mathematische Modelle kritisch, z. B. in Bezug auf die Realsituation,"@de .
 
-<f30d0bfa-da5e-40d9-a9a3-45725aec4d9e> a skos:Concept ;
-    skos:broader <1de4cfb6-8e98-4830-ab57-47bf6ab8ddec> ;
+<34fcf92e-b34f-4257-842b-60d13d8c613d> a skos:Concept ;
+    skos:broader <dc4b724e-14c9-4244-9407-f71ed2923f8c> ;
     skos:inScheme <> ;
-    skos:notation "1.2.3" ;
-    skos:prefLabel "bewerten Ergebnisse und Aussagen auch bzgl. ihres Anwendungskontextes,"@de .
+    skos:notation "7.1.2" ;
+    skos:prefLabel "nutzen analoge und digitale Lernumgebungen zum Lernen von Mathematik,"@de .
 
-<fe1906bf-531e-4638-9873-95d21a564b68> a skos:Concept ;
-    skos:broader <0c482f94-b6ed-437c-8b8a-a4ec0b3dc6b0> ;
+<39b96eaa-f9b0-4c82-b572-fb4a2ea16486> a skos:Concept ;
+    skos:broader <be2a7226-04f3-45a8-8b97-16427405024b> ;
+    skos:inScheme <> ;
+    skos:notation "5.1.1" ;
+    skos:prefLabel "nutzen und erzeugen vertraute und geübte Darstellungen von mathematischen Objekten und Situationen,"@de .
+
+<3cdbfd99-0347-40c1-a499-f3ba14260250> a skos:Concept ;
+    skos:broader <918ef7d7-49a3-4a34-ad9c-a30d96169d4a> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.1" ;
+    skos:prefLabel "ordnen einfachen Realsituationen aus dem Alltag mathematische Objekte zu,"@de .
+
+<40fa97d3-dc9b-44bd-ac5a-b7cb4591423e> a skos:Concept ;
+    skos:broader <d933a63a-59a3-4ecf-9713-bf415b072b3a> ;
+    skos:inScheme <> ;
+    skos:notation "4.3.1" ;
+    skos:prefLabel "modellieren komplexe oder unvertraute Situationen und entwickeln ggf. eigene Modelle,"@de .
+
+<434ad4aa-19fc-4057-88a6-baa7fef1ca0c> a skos:Concept ;
+    skos:broader <7d84dab6-d2ae-446d-bd87-753b95a0e66e> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.2" ;
+    skos:prefLabel "erläutern Lösungswege und prüfen sie u. a. auf Konsistenz,"@de .
+
+<439008d0-4297-49f2-851b-65f7b6ae5b89> a skos:Concept ;
+    skos:broader <feb98f0d-bd1e-498e-a570-4f0abfd88198> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.1" ;
+    skos:prefLabel "geben Heurismen an (z. B. Skizze erstellen, systematisch probieren),"@de .
+
+<4c1f269b-cc96-4efb-9606-abab80d72b02> a skos:Concept ;
+    skos:broader <31277bf4-3e12-4871-9bad-74a3345207ce> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.5" ;
+    skos:prefLabel "ordnen einem mathematischen Modell passende Situationen zu,"@de .
+
+<55fc2c10-ff99-465e-bb5f-7fd53ddf2a1f> a skos:Concept ;
+    skos:broader <9ff8adf5-f1cf-4986-a35c-33eb3150dda5> ;
     skos:inScheme <> ;
     skos:notation "6.3.2" ;
     skos:prefLabel "beschreiben die innere Struktur von Lösungsverfahren, erfassen deren Allgemeingültigkeit und übertragen die Verfahren auf neue Situationen."@de .
 
-<0c482f94-b6ed-437c-8b8a-a4ec0b3dc6b0> a skos:Concept ;
-    skos:broader <a03fd002-5201-4749-ad54-87314f0136d3> ;
+<56052ff7-681f-4785-b48f-d780488cff59> a skos:Concept ;
+    skos:broader <adabee91-5f11-4a49-9484-f87384103bcf> ;
     skos:inScheme <> ;
-    skos:narrower <9ddbad2a-89c9-47c3-8030-a270d740fb9e>,
-        <fe1906bf-531e-4638-9873-95d21a564b68> ;
-    skos:notation "6.3" ;
-    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
+    skos:notation "1.3.2" ;
+    skos:prefLabel "bewerten verschiedene Argumentationen (z. B. in Texten und Darstellungen aus digitalen Medien),"@de .
 
-<8b499b94-93ff-4b56-8de2-6d39e5aaea48> a skos:Concept ;
-    skos:broader <0429c24f-695a-4be6-99f4-073f66a18af4> ;
+<5ac83a2e-9e28-40af-948f-8f72fb2a45e2> a skos:Concept ;
+    skos:broader <d933a63a-59a3-4ecf-9713-bf415b072b3a> ;
     skos:inScheme <> ;
-    skos:narrower <0b50a377-fb5f-472e-a82b-cb4532baa319>,
-        <d2a56059-647f-45e8-95d7-7c268bd8b0c8> ;
-    skos:notation "5.1" ;
-    skos:prefLabel "Reproduzieren"@de .
+    skos:notation "4.3.3" ;
+    skos:prefLabel "entscheiden, ob der Modellierungskreislauf erneut durchlaufen werden sollte."@de .
 
-<a5c54b97-0828-4be1-8729-6fae468ae1b9> a skos:Concept ;
-    skos:broader <b681d554-b154-454d-816b-ad78b8f4d607> ;
+<5c0032a6-7ce6-4105-a7b7-d3391af719b6> a skos:Concept ;
+    skos:broader <9ff8adf5-f1cf-4986-a35c-33eb3150dda5> ;
     skos:inScheme <> ;
-    skos:narrower <979b58d2-512d-4f10-a461-36cc329ba08e>,
-        <c5a7da50-6997-4326-973f-f350027ccf27> ;
-    skos:notation "3.3" ;
-    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
+    skos:notation "6.3.1" ;
+    skos:prefLabel "bewerten Lösungs- und Kontrollverfahren hinsichtlich ihrer Effizienz,"@de .
 
-<b06c56e2-833b-40a8-ac23-bd09664aa37f> a skos:Concept ;
-    skos:broader <a03fd002-5201-4749-ad54-87314f0136d3> ;
+<5d770155-4786-46f3-87fe-e0691b68040e> a skos:Concept ;
+    skos:broader <adabee91-5f11-4a49-9484-f87384103bcf> ;
     skos:inScheme <> ;
-    skos:narrower <79cc59d2-3999-470c-b738-948893034df9>,
-        <aa4eed75-1cb9-4389-8559-735fe4a99b1d> ;
+    skos:notation "1.3.1" ;
+    skos:prefLabel "entwickeln und erläutern komplexe Argumentationen,"@de .
+
+<63322885-d17a-44aa-b17f-72fbd27c612e> a skos:Concept ;
+    skos:broader <c2ba3a5c-366c-4ef0-bef0-9d2f08818055> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2" ;
+    skos:prefLabel "interpretieren und beurteilen komplexe mathematische Texte sinnentnehmend,"@de .
+
+<6610c353-8d89-4366-99e1-1159774d4029> a skos:Concept ;
+    skos:broader <699bee01-cb17-4af2-9ce1-c7e2f5950d28> ;
+    skos:inScheme <> ;
+    skos:notation "5.3.3" ;
+    skos:prefLabel "interpretieren nicht vertraute Darstellungen und beurteilen ihre Aussagekraft."@de .
+
+<695c71e0-cba8-4a4f-99cb-1a44d2306979> a skos:Concept ;
+    skos:broader <8ee23cde-eaf9-4247-8158-e4977591fd3c> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.4" ;
+    skos:prefLabel "gehen fachbezogen auf Äußerungen von anderen zu mathematischen Inhalten ein (z. B. konstruktiver Umgang mit Fehlern, Weiterführen mathematischer Ideen),"@de .
+
+<6ac04e4a-ac64-4e10-b184-b95b94746c5c> a skos:Concept ;
+    skos:broader <918ef7d7-49a3-4a34-ad9c-a30d96169d4a> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.2" ;
+    skos:prefLabel "nutzen bekannte und direkt erkennbare Modelle (z. B. Proportionalität bzw. Dreisatz),"@de .
+
+<6b0bd30c-eb07-40e9-91b8-be9fdb0a82a6> a skos:Concept ;
+    skos:broader <be2a7226-04f3-45a8-8b97-16427405024b> ;
+    skos:inScheme <> ;
+    skos:notation "5.1.2" ;
+    skos:prefLabel "interpretieren vertraute Darstellungen,"@de .
+
+<6d76a148-3265-4d93-bf32-62e62abf4527> a skos:Concept ;
+    skos:broader <5aad8c18-1be5-4b35-b092-2713384df9a4> ;
+    skos:inScheme <> ;
+    skos:notation "7.2.4" ;
+    skos:prefLabel "vergleichen mathematikhaltige Informationen und Darstellungen in Alltagsmedien unter mathematischen Gesichtspunkten,"@de .
+
+<72e5b939-6c97-4b30-8e1b-fe6a94196c9d> a skos:Concept ;
+    skos:broader <feb98f0d-bd1e-498e-a570-4f0abfd88198> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.2" ;
+    skos:prefLabel "lösen einfache Probleme mit bekannten Heurismen (z. B. systematisches Probieren),"@de .
+
+<7abbeb0d-4af3-4913-bc4b-4dfac8b7a593> a skos:Concept ;
+    skos:broader <2d8841e4-38b9-46f8-9f6d-4751556a0d6e> ;
+    skos:inScheme <> ;
+    skos:notation "6.2.2" ;
+    skos:prefLabel "beschreiben die innere Struktur mathematischer Objekte (z. B. von Termen) und gehen flexibel und sicher mit ihnen um,"@de .
+
+<7eefc5e9-63a0-4656-a916-57860e3bd9b3> a skos:Concept ;
+    skos:broader <89fa89f8-5187-464f-a5be-588dac2bb4f1> ;
+    skos:inScheme <> ;
+    skos:notation "7.3.1" ;
+    skos:prefLabel "reflektieren Möglichkeiten und Grenzen der Nutzung mathematikspezifischer Medien, auch im Vergleich zwischen analogem und digitalem Medium,"@de .
+
+<83d6f14e-5d0e-41d1-8290-84cc408bc711> a skos:Concept ;
+    skos:broader <5aad8c18-1be5-4b35-b092-2713384df9a4> ;
+    skos:inScheme <> ;
+    skos:notation "7.2.5" ;
+    skos:prefLabel "wählen analoge und digitale Medien kriteriengeleitet je nach Zielsetzung bewusst aus,"@de .
+
+<84f56def-97b0-4952-8000-ce33e0bfab16> a skos:Concept ;
+    skos:broader <3a884d0d-3687-4445-9b9c-600609abacbc> ;
+    skos:inScheme <> ;
+    skos:notation "6.1.2" ;
+    skos:prefLabel "gehen mit vertrauten mathematischen Objekten (z. B. Strecken, Termen, Gleichungen) um,"@de .
+
+<8a2110da-5767-49d3-afca-8bd41771c7e9> a skos:Concept ;
+    skos:broader <7d84dab6-d2ae-446d-bd87-753b95a0e66e> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.4" ;
+    skos:prefLabel "erläutern mathematische Zusammenhänge, Ordnungen und logische Strukturen,"@de .
+
+<8ceccb47-d669-49bf-ae56-065bb07155d0> a skos:Concept ;
+    skos:broader <c2ba3a5c-366c-4ef0-bef0-9d2f08818055> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.3" ;
+    skos:prefLabel "vergleichen und bewerten Äußerungen von anderen zu mathematischen Inhalten sachlich und fachlich angemessen."@de .
+
+<925d9130-818e-400b-9c00-c100b34b2c11> a skos:Concept ;
+    skos:broader <dc4b724e-14c9-4244-9407-f71ed2923f8c> ;
+    skos:inScheme <> ;
+    skos:notation "7.1.1" ;
+    skos:prefLabel "verwenden allgemeine Medien zur Kommunikation (z. B. Recherche in Fachliteratur oder Internet, Nutzung von Lernplattformen) und zur Präsentation mathematischer Inhalte in Situationen, in denen der Einsatz geübt wurde,"@de .
+
+<97f7ed6a-438c-4260-9864-b2f348220594> a skos:Concept ;
+    skos:broader <5aad8c18-1be5-4b35-b092-2713384df9a4> ;
+    skos:inScheme <> ;
+    skos:notation "7.2.1" ;
+    skos:prefLabel "nutzen analoge und digitale Mathematikwerkzeuge (z. B. Geometriesoftware, Tabellenkalkulation, Computeralgebrasystem, Stochastiktool ) zum Problemlösen, Entdecken, Modellieren, Daten verarbeiten, Kontrollieren und Darstellungswechseln etc.,"@de .
+
+<9e3fcf48-dacd-45cf-8255-423e0f8a27df> a skos:Concept ;
+    skos:broader <31277bf4-3e12-4871-9bad-74a3345207ce> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.3" ;
+    skos:prefLabel "interpretieren Ergebnisse einer Modellierung,"@de .
+
+<a67fa396-b9a2-43e2-957f-187a8f200bdb> a skos:Concept ;
+    skos:broader <58c7bd0b-16bd-4edd-a496-a3a19b5d7099> ;
+    skos:inScheme <> ;
+    skos:notation "5.2.3" ;
+    skos:prefLabel "übersetzen symbolische und formale Sprache in natürliche Sprache und umgekehrt,"@de .
+
+<a87a8cab-c548-4825-966e-c3529a41008e> a skos:Concept ;
+    skos:broader <a2906b14-8558-4c04-a345-a1c507df4306> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.3" ;
+    skos:prefLabel "überprüfen  die Plausibilität von Ergebnissen,"@de .
+
+<a895c648-52fd-4fc6-9662-08e07f5121a0> a skos:Concept ;
+    skos:broader <7d84dab6-d2ae-446d-bd87-753b95a0e66e> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.3" ;
+    skos:prefLabel "bewerten Ergebnisse und Aussagen auch bzgl. ihres Anwendungskontextes,"@de .
+
+<ad85b47e-ddb2-40fa-bd2c-aa02123a21c8> a skos:Concept ;
+    skos:broader <58c7bd0b-16bd-4edd-a496-a3a19b5d7099> ;
+    skos:inScheme <> ;
+    skos:notation "5.2.2" ;
+    skos:prefLabel "wechseln sachgerecht zwischen mathematischen Darstellungen und erklären, wie sie vernetzt sind,"@de .
+
+<af0ddedc-26b2-4582-9742-d939b8512272> a skos:Concept ;
+    skos:broader <89fa89f8-5187-464f-a5be-588dac2bb4f1> ;
+    skos:inScheme <> ;
+    skos:notation "7.3.6" ;
+    skos:prefLabel "nutzen Algorithmen mit Hilfe digitaler Werkzeuge, um den jeweils zugrundeliegenden mathematischen Inhalt zu untersuchen."@de .
+
+<af2ce950-c859-4014-9ff7-145d58628830> a skos:Concept ;
+    skos:broader <31277bf4-3e12-4871-9bad-74a3345207ce> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.1" ;
+    skos:prefLabel "wählen ein geeignetes mathematisches Modell aus,"@de .
+
+<b0518af6-9ef1-473c-9e82-44283f32f12f> a skos:Concept ;
+    skos:broader <89fa89f8-5187-464f-a5be-588dac2bb4f1> ;
+    skos:inScheme <> ;
+    skos:notation "7.3.2" ;
+    skos:prefLabel "konzipieren und erstellen selbst analoge und digitale Medien um mathematische Sachverhalte darzustellen oder zu bearbeiten und stellen ihre Ergebnisse vor (z. B. Präsentation, Videos),"@de .
+
+<b9be88fc-2055-49ae-a28d-e5e4be2b2994> a skos:Concept ;
+    skos:broader <667203f1-e346-41e7-abd7-08da7dd4449a> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.2" ;
+    skos:prefLabel "formulieren typische Fragen, die auf Argumentationen zielen („Wie verändert sich …?“, „Ist das immer so …?“),"@de .
+
+<bd35a769-a9ba-4801-8d03-11cfc68ded13> a skos:Concept ;
+    skos:broader <04e5723c-6f33-45ae-a8b3-e4f24e050530> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.2" ;
+    skos:prefLabel "entnehmen Informationen aus einfachen mathematikhaltigen Texten und Abbildungen,"@de .
+
+<be86193d-3f2b-4ffe-add9-7a02002ebc6a> a skos:Concept ;
+    skos:broader <699bee01-cb17-4af2-9ce1-c7e2f5950d28> ;
+    skos:inScheme <> ;
+    skos:notation "5.3.1" ;
+    skos:prefLabel "entwickeln eigene Darstellungen,"@de .
+
+<bf3b3b60-f6cb-4056-a679-dd0d60665f21> a skos:Concept ;
+    skos:broader <b4d57925-65d5-461e-a095-e4e000fe444c> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.2" ;
+    skos:prefLabel "reflektieren das Finden von Lösungsideen, vergleichen und beurteilen verschiedene Lösungswege."@de .
+
+<c8bd48a2-c5fc-4dcb-b693-20485fa44e80> a skos:Concept ;
+    skos:broader <5aad8c18-1be5-4b35-b092-2713384df9a4> ;
+    skos:inScheme <> ;
+    skos:notation "7.2.2" ;
+    skos:prefLabel "nutzen weitere mathematikspezifische Medien (z. B. Apps zur Lernstandsbestimmung, Erklärvideos zum Verstehen, Programme zum Üben) zum selbstgesteuerten Lernen und Anwenden von Mathematik,"@de .
+
+<cca930fe-7779-4a04-8149-8e8b93986cae> a skos:Concept ;
+    skos:broader <c2ba3a5c-366c-4ef0-bef0-9d2f08818055> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.1" ;
+    skos:prefLabel "präsentieren sachgerecht komplexe mathematische Sachverhalte mündlich und schriftlich,"@de .
+
+<d4937b0b-c08b-4f47-acca-b2d8fa725b1e> a skos:Concept ;
+    skos:broader <04e5723c-6f33-45ae-a8b3-e4f24e050530> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.1" ;
+    skos:prefLabel "formulieren einfache mathematische Sachverhalte mit eigenen Worten und mithilfe mathematischer Begriffe mündlich und schriftlich,"@de .
+
+<db22edb0-b370-4ff6-8cc8-d422e44877ca> a skos:Concept ;
+    skos:broader <58c7bd0b-16bd-4edd-a496-a3a19b5d7099> ;
+    skos:inScheme <> ;
+    skos:notation "5.2.1" ;
+    skos:prefLabel "wählen eine Darstellung passend zur Problemstellung aus,"@de .
+
+<db7af968-e465-41b3-8bb1-2eac30c65c4c> a skos:Concept ;
+    skos:broader <04e5723c-6f33-45ae-a8b3-e4f24e050530> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.3" ;
+    skos:prefLabel "reagieren  sach- und adressatengerecht auf Fragen und Kritik zu eigenen Lösungen,"@de .
+
+<dbef6360-5490-440a-876f-d798a4213c0b> a skos:Concept ;
+    skos:broader <adabee91-5f11-4a49-9484-f87384103bcf> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.3" ;
+    skos:prefLabel "stellen selbstständig Fragen, die für die Mathematik charakteristisch sind, und äußern begründet Vermutungen."@de .
+
+<dfc1d813-70ec-4cb5-a4c2-5881da990bfd> a skos:Concept ;
+    skos:broader <a2906b14-8558-4c04-a345-a1c507df4306> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.2" ;
+    skos:prefLabel "wählen geeignete Heurismen zur Lösung entsprechender Probleme aus,"@de .
+
+<e116ff30-ee14-4177-b43e-c9692b31ca72> a skos:Concept ;
+    skos:broader <dc4b724e-14c9-4244-9407-f71ed2923f8c> ;
+    skos:inScheme <> ;
+    skos:notation "7.1.4" ;
+    skos:prefLabel "ziehen Informationen aus mathematikhaltigen Darstellungen in Alltagsmedien,"@de .
+
+<e2d7d105-fcc0-4cd3-8167-f9136239e993> a skos:Concept ;
+    skos:broader <699bee01-cb17-4af2-9ce1-c7e2f5950d28> ;
+    skos:inScheme <> ;
+    skos:notation "5.3.2" ;
+    skos:prefLabel "analysieren und beurteilen verschiedene Formen der Darstellung entsprechend ihres Zwecks,"@de .
+
+<e641a50b-42b8-4740-a400-252607f935fa> a skos:Concept ;
+    skos:broader <89fa89f8-5187-464f-a5be-588dac2bb4f1> ;
+    skos:inScheme <> ;
+    skos:notation "7.3.3" ;
+    skos:prefLabel "beurteilen analoge und digitale Medien kriteriengeleitet je nach Zielsetzung,"@de .
+
+<eb536c06-3365-4efb-8b44-393b16734a89> a skos:Concept ;
+    skos:broader <8ee23cde-eaf9-4247-8158-e4977591fd3c> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.3" ;
+    skos:prefLabel "Verwenden die mathematische Fachsprache situationsangemessen und erklären ihre Bedeutung,"@de .
+
+<f2e439db-57fa-44be-81cc-8fd21f58723e> a skos:Concept ;
+    skos:broader <31277bf4-3e12-4871-9bad-74a3345207ce> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.2" ;
+    skos:prefLabel "nehmen Mathematisierungen vor, die mehrere Schritte erfordern,"@de .
+
+<f2ebd9e4-be5a-4852-b53e-9941a403907c> a skos:Concept ;
+    skos:broader <3a884d0d-3687-4445-9b9c-600609abacbc> ;
+    skos:inScheme <> ;
+    skos:notation "6.1.1" ;
+    skos:prefLabel "verwenden Routineverfahren (z. B. Lösen einer linearen Gleichung),"@de .
+
+<f3c8844d-27ce-4e99-af50-e8e1d8f65360> a skos:Concept ;
+    skos:broader <31277bf4-3e12-4871-9bad-74a3345207ce> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.4" ;
+    skos:prefLabel "prüfen Ergebnisse einer Modellierung auf Plausibilität in Bezug auf die Ausgangssituation,"@de .
+
+<f779ff57-b8c0-4f24-8ced-37ec63d218a3> a skos:Concept ;
+    skos:broader <5aad8c18-1be5-4b35-b092-2713384df9a4> ;
+    skos:inScheme <> ;
+    skos:notation "7.2.3" ;
+    skos:prefLabel "nutzen bekannte Algorithmen mit digitalen Mathematikwerkzeugen,"@de .
+
+<f797a331-d68f-4d62-b04e-0a172d058d29> a skos:Concept ;
+    skos:broader <a2906b14-8558-4c04-a345-a1c507df4306> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.1" ;
+    skos:prefLabel "formulieren  Problemstellungen,"@de .
+
+<f8c2c315-5fb0-44da-8ade-1d7f550987ae> a skos:Concept ;
+    skos:broader <b4d57925-65d5-461e-a095-e4e000fe444c> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1" ;
+    skos:prefLabel "lösen anspruchsvolle, komplexe oder offen formulierte Probleme,"@de .
+
+<f903217c-d813-4838-89b2-4f700cde378d> a skos:Concept ;
+    skos:broader <dc4b724e-14c9-4244-9407-f71ed2923f8c> ;
+    skos:inScheme <> ;
+    skos:notation "7.1.3" ;
+    skos:prefLabel "nutzen analoge und digitale Mathematikwerkzeuge (z. B. wissenschaftlichen Taschenrechner), die aus dem Unterricht vertraut sind,"@de .
+
+<fb14592c-cbed-4657-a09a-c13652145172> a skos:Concept ;
+    skos:broader <2d8841e4-38b9-46f8-9f6d-4751556a0d6e> ;
+    skos:inScheme <> ;
+    skos:notation "6.2.1" ;
+    skos:prefLabel "führen komplexere Lösungs- und Kontrollverfahren aus,"@de .
+
+<fef21013-9d14-43a2-824e-45c0d750fe5f> a skos:Concept ;
+    skos:broader <918ef7d7-49a3-4a34-ad9c-a30d96169d4a> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.3" ;
+    skos:prefLabel "prüfen die Passung der Resultate zur Aufgabenstellung,"@de .
+
+<ff2af828-6b2b-45cf-91c8-8ecf27d83136> a skos:Concept ;
+    skos:broader <667203f1-e346-41e7-abd7-08da7dd4449a> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.1" ;
+    skos:prefLabel "geben vertraute Argumentationen wieder (wie Rechnungen, Verfahren, Herleitungen, Sätze),"@de .
+
+<2d8841e4-38b9-46f8-9f6d-4751556a0d6e> a skos:Concept ;
+    skos:broader <b201dba5-4f7c-44cd-bace-482341b7409f> ;
+    skos:inScheme <> ;
+    skos:narrower <7abbeb0d-4af3-4913-bc4b-4dfac8b7a593>,
+        <fb14592c-cbed-4657-a09a-c13652145172> ;
+    skos:notation "6.2" ;
+    skos:prefLabel "Zusammenhänge  herstellen"@de .
+
+<3a884d0d-3687-4445-9b9c-600609abacbc> a skos:Concept ;
+    skos:broader <b201dba5-4f7c-44cd-bace-482341b7409f> ;
+    skos:inScheme <> ;
+    skos:narrower <84f56def-97b0-4952-8000-ce33e0bfab16>,
+        <f2ebd9e4-be5a-4852-b53e-9941a403907c> ;
     skos:notation "6.1" ;
     skos:prefLabel "Reproduzieren"@de .
 
-<d2988eef-9b97-4e57-9220-137825f1f721> a skos:Concept ;
-    skos:broader <b681d554-b154-454d-816b-ad78b8f4d607> ;
+<9ff8adf5-f1cf-4986-a35c-33eb3150dda5> a skos:Concept ;
+    skos:broader <b201dba5-4f7c-44cd-bace-482341b7409f> ;
     skos:inScheme <> ;
-    skos:narrower <4f51ff9b-99d8-44fe-9ead-d427ee218e05>,
-        <efa01e6f-d709-4762-bd57-18402c89eb29> ;
+    skos:narrower <55fc2c10-ff99-465e-bb5f-7fd53ddf2a1f>,
+        <5c0032a6-7ce6-4105-a7b7-d3391af719b6> ;
+    skos:notation "6.3" ;
+    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
+
+<b4d57925-65d5-461e-a095-e4e000fe444c> a skos:Concept ;
+    skos:broader <3480a912-4e29-4bf6-828d-9cdf4c579c82> ;
+    skos:inScheme <> ;
+    skos:narrower <bf3b3b60-f6cb-4056-a679-dd0d60665f21>,
+        <f8c2c315-5fb0-44da-8ade-1d7f550987ae> ;
+    skos:notation "3.3" ;
+    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
+
+<be2a7226-04f3-45a8-8b97-16427405024b> a skos:Concept ;
+    skos:broader <9de4c138-54ae-4182-b904-fdc79cbb1b20> ;
+    skos:inScheme <> ;
+    skos:narrower <39b96eaa-f9b0-4c82-b572-fb4a2ea16486>,
+        <6b0bd30c-eb07-40e9-91b8-be9fdb0a82a6> ;
+    skos:notation "5.1" ;
+    skos:prefLabel "Reproduzieren"@de .
+
+<feb98f0d-bd1e-498e-a570-4f0abfd88198> a skos:Concept ;
+    skos:broader <3480a912-4e29-4bf6-828d-9cdf4c579c82> ;
+    skos:inScheme <> ;
+    skos:narrower <439008d0-4297-49f2-851b-65f7b6ae5b89>,
+        <72e5b939-6c97-4b30-8e1b-fe6a94196c9d> ;
     skos:notation "3.1" ;
     skos:prefLabel "Reproduzieren"@de .
 
-<ec50348b-07cb-4c16-8bc0-44a35e791f47> a skos:Concept ;
-    skos:broader <a03fd002-5201-4749-ad54-87314f0136d3> ;
+<04e5723c-6f33-45ae-a8b3-e4f24e050530> a skos:Concept ;
+    skos:broader <847450fd-92e3-4a5d-8e6d-1221dfecb090> ;
     skos:inScheme <> ;
-    skos:narrower <294071a6-6ccf-42ca-950e-3655e430750a>,
-        <4d7f2d47-e7ae-429f-8021-5410e264b9e5> ;
-    skos:notation "6.2" ;
-    skos:prefLabel "Zusammenhänge  herstellen"@de .
-
-<0429c24f-695a-4be6-99f4-073f66a18af4> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Diese Kompetenz umfasst das Erzeugen und Vernetzen von sowie das Umgehen mit mathematischen Darstellungen - der grafisch-visuellen, algebraisch-formalen, numerisch-tabellarischen, verbal-sprachlichen Darstellung. Das Spektrum reicht von Anwenden, Interpretieren und Unterscheiden von Standarddarstellungen über den Wechsel geeigneter mathematischer Darstellungen bis hin zum Erstellen eigener Darstellungen, die dem Strukturieren und Dokumentieren individueller Überlegungen dienen."@de ;
-    skos:inScheme <> ;
-    skos:narrower <762e1b06-385f-4976-ac49-975d8bda19a2>,
-        <8b499b94-93ff-4b56-8de2-6d39e5aaea48>,
-        <dd8d6896-0e10-4225-9234-0b3190e136f8> ;
-    skos:notation "5" ;
-    skos:prefLabel "Mathematisch darstellen"@de .
-
-<16f6cc94-cfe1-4dbe-8a5d-d874404cf78c> a skos:Concept ;
-    skos:broader <43ca2344-0149-42f2-8c23-5191e823ec6b> ;
-    skos:inScheme <> ;
-    skos:narrower <373cc18c-ff5a-4abd-9ce9-ed1dff991f2f>,
-        <b6696902-2275-4212-97db-e4b5da358794>,
-        <d17ac54b-c186-46e4-bd9f-4d984e0cde13> ;
+    skos:narrower <bd35a769-a9ba-4801-8d03-11cfc68ded13>,
+        <d4937b0b-c08b-4f47-acca-b2d8fa725b1e>,
+        <db7af968-e465-41b3-8bb1-2eac30c65c4c> ;
     skos:notation "2.1" ;
     skos:prefLabel "Reproduzieren"@de .
 
-<3abd4fc6-3cb8-40ce-9719-7c59bd60a01b> a skos:Concept ;
-    skos:broader <cc645547-156d-4265-b016-a69012002cb3> ;
+<58c7bd0b-16bd-4edd-a496-a3a19b5d7099> a skos:Concept ;
+    skos:broader <9de4c138-54ae-4182-b904-fdc79cbb1b20> ;
     skos:inScheme <> ;
-    skos:narrower <0f552e65-75c3-47af-888d-048b08a4aeb3>,
-        <536bee7f-adf6-4621-9300-61550f6b90b4>,
-        <c837b631-35b3-422f-8d37-77f6750333ce> ;
-    skos:notation "1.1" ;
-    skos:prefLabel "Reproduzieren"@de .
-
-<43ca2344-0149-42f2-8c23-5191e823ec6b> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Zu dieser Kompetenz gehören sowohl das Entnehmen von Informationen aus Texten, mündlichen Äußerungen oder sonstigen Quellen als auch das Darlegen von Überlegungen, Lösungswegen bzw. Ergebnissen in mündlicher und schriftlicher Form auch unter Verwendung einer adressatengerechten Fachsprache. Das Spektrum reicht von der direkten Informationsentnahme aus Texten des Alltagsgebrauchs bzw. vom Aufschreiben einfacher Lösungswege bis hin zum sinnentnehmenden Erfassen fachsprachlicher Texte bzw. vom Dokumentieren einfacher Lösungswege zum strukturierten Darlegen oder Präsentieren eigener Überlegungen, auch mit Hilfe geeigneter Medien."@de ;
-    skos:inScheme <> ;
-    skos:narrower <080bfb46-4359-4a35-bd72-ae57ae27f727>,
-        <16f6cc94-cfe1-4dbe-8a5d-d874404cf78c>,
-        <c389d900-5171-4214-b09d-4c41928c35f3> ;
-    skos:notation "2" ;
-    skos:prefLabel "Mathematisch kommunizieren"@de .
-
-<762e1b06-385f-4976-ac49-975d8bda19a2> a skos:Concept ;
-    skos:broader <0429c24f-695a-4be6-99f4-073f66a18af4> ;
-    skos:inScheme <> ;
-    skos:narrower <2990149f-a584-4513-a949-700eb6617d4a>,
-        <34ce74b2-d26d-43af-acc1-9c5d33290c2e>,
-        <e69c045e-d22e-4777-bf6b-17cb03c98eef> ;
-    skos:notation "5.3" ;
-    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
-
-<7f91e026-85fb-4732-891c-f726c373b8ef> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Beim mathematischen Modellieren geht es um das Lösen eines realen Problems mit Hilfe von Mathematik. Von besonderer Bedeutung dabei ist das Übersetzen zwischen Realsituationen und mathematischen Begriffen, Resultaten oder Methoden. Typische Teilschritte des Modellierens sind das Strukturieren und Vereinfachen gegebener Realsituationen, das Übersetzen realer Gegebenheiten in mathematische Modelle, das Arbeiten im mathematischen Modell, das Interpretieren mathematischer Ergebnisse in Bezug auf Realsituationen und das Überprüfen von Ergebnissen sowie des Modells im Hinblick auf Stimmigkeit und Angemessenheit bezogen auf die Realsituation. Das Spektrum reicht von Standardmodellen (z. B. proportionale Zuordnung) bis hin zu komplexeren Modellierungen (z. B. geometrische Konstruktionen, Sinusfunktion, Exponentialfunktion, Zufallsexperimente)."@de ;
-    skos:inScheme <> ;
-    skos:narrower <2e998cde-4fea-46b4-958e-d6d4da20aff3>,
-        <9f2684ee-5da7-4e5b-9f93-1acf2129deb4>,
-        <e6843c36-02cd-4b18-a6df-247ffe7d4181> ;
-    skos:notation "4" ;
-    skos:prefLabel "Mathematisch modellieren"@de .
-
-<9f2684ee-5da7-4e5b-9f93-1acf2129deb4> a skos:Concept ;
-    skos:broader <7f91e026-85fb-4732-891c-f726c373b8ef> ;
-    skos:inScheme <> ;
-    skos:narrower <3d4912fa-30d5-4d84-bc3b-acb931264c6c>,
-        <a9ce796b-6e6c-437f-aa96-4a8f50bc5951>,
-        <f25084e4-38ac-403b-b7bf-6a7e1f31756c> ;
-    skos:notation "4.3" ;
-    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
-
-<a03fd002-5201-4749-ad54-87314f0136d3> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Diese Kompetenz beinhaltet das verständige Umgehen mit mathematischen Objekten wie Zahlen, Größen, Symbolen, Variablen, Termen, Formeln, Gleichungen und Funktionen sowie in der Geometrie Strecken, Winkeln und Kreisen mit und ohne Hilfsmittel. Das Spektrum reicht hier von einfachen, überschaubaren Routineverfahren bis hin zu komplexen Verfahren einschließlich deren reflektierender Bewertung. Diese Kompetenz beinhaltet auch Faktenwissen und Regelwissen für ein zielgerichtetes und effizientes Bearbeiten von mathematischen Aufgabenstellungen."@de ;
-    skos:inScheme <> ;
-    skos:narrower <0c482f94-b6ed-437c-8b8a-a4ec0b3dc6b0>,
-        <b06c56e2-833b-40a8-ac23-bd09664aa37f>,
-        <ec50348b-07cb-4c16-8bc0-44a35e791f47> ;
-    skos:notation "6" ;
-    skos:prefLabel "Mit mathematischen Objekten umgehen"@de .
-
-<adfda927-4b25-489e-845d-904023f4b202> a skos:Concept ;
-    skos:broader <cc645547-156d-4265-b016-a69012002cb3> ;
-    skos:inScheme <> ;
-    skos:narrower <20d95c07-40fa-4aec-98b0-b75df1ba128f>,
-        <58be313f-6218-4fe0-9100-f61ddc6d85ae>,
-        <c1847d9e-329c-4df8-b108-65c50dbc4a0c> ;
-    skos:notation "1.3" ;
-    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
-
-<b681d554-b154-454d-816b-ad78b8f4d607> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Diese Kompetenz beinhaltet, ausgehend vom Erkennen und Formulieren mathematischer Probleme, das Auswählen geeigneter Heurismen sowie das Entwickeln und Ausführen geeigneter Lösungswege. Das Spektrum reicht vom Bearbeiten vorgegebener und selbst formulierter Probleme auf der einen Seite bis hin zum Überprüfen der Plausibilität von Ergebnissen, dem Finden von Lösungsideen und dem Reflektieren von Lösungswegen auf der anderen Seite. Geeignete Heurismen (u. a. Skizzen erstellen, systematisch probieren, rückwärts arbeiten, zerlegen und ergänzen) zum Problemlösen werden ausgewählt und angewendet."@de ;
-    skos:inScheme <> ;
-    skos:narrower <a5c54b97-0828-4be1-8729-6fae468ae1b9>,
-        <d2988eef-9b97-4e57-9220-137825f1f721>,
-        <dff1a013-0eb6-4815-a773-c639d971cd34> ;
-    skos:notation "3" ;
-    skos:prefLabel "Probleme mathematisch lösen"@de .
-
-<c389d900-5171-4214-b09d-4c41928c35f3> a skos:Concept ;
-    skos:broader <43ca2344-0149-42f2-8c23-5191e823ec6b> ;
-    skos:inScheme <> ;
-    skos:narrower <2cc9da0c-2a38-4b7c-8ce3-f885f8ffc429>,
-        <a08bc56d-db95-48e8-b655-680656fe96ec>,
-        <c35388b9-8709-45f8-93fd-4714f6225634> ;
-    skos:notation "2.3" ;
-    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
-
-<cc645547-156d-4265-b016-a69012002cb3> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Zu dieser Kompetenz gehören sowohl das Entwickeln eigenständiger, situationsangemessener mathematischer Argumentationen (wie Begründungen, Beweise), als auch das Erläutern, Prüfen und Begründen von Lösungswegen und das begründete Äußern von Vermutungen. Das Spektrum reicht dabei von einfachen Plausibilitätsargumenten über inhaltlich-anschauliche Begründungen bis hin zu Argumentationsketten."@de ;
-    skos:inScheme <> ;
-    skos:narrower <1de4cfb6-8e98-4830-ab57-47bf6ab8ddec>,
-        <3abd4fc6-3cb8-40ce-9719-7c59bd60a01b>,
-        <adfda927-4b25-489e-845d-904023f4b202> ;
-    skos:notation "1" ;
-    skos:prefLabel "Mathematisch argumentieren"@de .
-
-<dd8d6896-0e10-4225-9234-0b3190e136f8> a skos:Concept ;
-    skos:broader <0429c24f-695a-4be6-99f4-073f66a18af4> ;
-    skos:inScheme <> ;
-    skos:narrower <1031bbff-ac80-491a-a939-b2223e302392>,
-        <309227fc-8875-49ba-a5c2-ebd49fc775a7>,
-        <60db7218-f553-4ffe-9439-96b956b70e62> ;
+    skos:narrower <a67fa396-b9a2-43e2-957f-187a8f200bdb>,
+        <ad85b47e-ddb2-40fa-bd2c-aa02123a21c8>,
+        <db22edb0-b370-4ff6-8cc8-d422e44877ca> ;
     skos:notation "5.2" ;
     skos:prefLabel "Zusammenhänge  herstellen"@de .
 
-<dff1a013-0eb6-4815-a773-c639d971cd34> a skos:Concept ;
-    skos:broader <b681d554-b154-454d-816b-ad78b8f4d607> ;
+<667203f1-e346-41e7-abd7-08da7dd4449a> a skos:Concept ;
+    skos:broader <5eeb1055-5c97-460d-88f6-da4354e5f04b> ;
     skos:inScheme <> ;
-    skos:narrower <0a3ea421-fbaa-45cd-b011-7256f9fe0dd6>,
-        <649d0897-b1c9-43ef-ac25-c275dc158d3a>,
-        <9e3c21b7-92a3-4dd5-8099-7a9e9ac547f2> ;
-    skos:notation "3.2" ;
-    skos:prefLabel "Zusammenhänge  herstellen"@de .
+    skos:narrower <03c8eccf-7fce-4c47-9383-9b12645676c8>,
+        <b9be88fc-2055-49ae-a28d-e5e4be2b2994>,
+        <ff2af828-6b2b-45cf-91c8-8ecf27d83136> ;
+    skos:notation "1.1" ;
+    skos:prefLabel "Reproduzieren"@de .
 
-<e6843c36-02cd-4b18-a6df-247ffe7d4181> a skos:Concept ;
-    skos:broader <7f91e026-85fb-4732-891c-f726c373b8ef> ;
+<699bee01-cb17-4af2-9ce1-c7e2f5950d28> a skos:Concept ;
+    skos:broader <9de4c138-54ae-4182-b904-fdc79cbb1b20> ;
     skos:inScheme <> ;
-    skos:narrower <1b262663-7fdd-43ab-b285-41f7bd43a028>,
-        <bafc84ee-368e-49f7-aa00-bc0733f6f3ef>,
-        <cd66c89f-47d8-4ed2-aa15-03f83bfb1aba> ;
+    skos:narrower <6610c353-8d89-4366-99e1-1159774d4029>,
+        <be86193d-3f2b-4ffe-add9-7a02002ebc6a>,
+        <e2d7d105-fcc0-4cd3-8167-f9136239e993> ;
+    skos:notation "5.3" ;
+    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
+
+<918ef7d7-49a3-4a34-ad9c-a30d96169d4a> a skos:Concept ;
+    skos:broader <f29f5be2-f6d2-4815-9143-dfd8d5d76f8a> ;
+    skos:inScheme <> ;
+    skos:narrower <3cdbfd99-0347-40c1-a499-f3ba14260250>,
+        <6ac04e4a-ac64-4e10-b184-b95b94746c5c>,
+        <fef21013-9d14-43a2-824e-45c0d750fe5f> ;
     skos:notation "4.1" ;
     skos:prefLabel "Reproduzieren"@de .
 
-<eb4b5151-975a-49ca-b28b-a39447d11e19> a skos:Concept ;
-    skos:broader <stdProzess/> ;
-    skos:definition "Mathematische Bildung in der digitalen Welt umfasst: Fachliche Kompetenzen digital zu fördern und digitale Kompetenzen fachlich zu fördern. Darüber hinaus sollte ein Beitrag geleistet werden zur digitalen personalen Bildung, um Mathematik für die kritische Rezeption von Alltagsmedien zu nutzen. Dazu gehört der Umgang analoger Medien (Schulbuch, Lineal, Körpermodell, Formelsammlung, Spielwürfel, ...) im Verbund mit digitalen Medien. Digitale Medien, die für das Lernen und Lehren von Mathematik relevant sind, umfassen mathematikspezifische sowie allgemeine Medien. Mathematikspezifisch sind insbesondere digitale Mathematikwerkzeuge als themenübergreifende Medien, aber auch themenspezifische mathematikhaltige Medien (z. B. Apps, interaktive Lernangebote). Allgemeine Medien (z. B. Videos, Textverarbeitung, Präsentationsmedien) spielen eine Rolle, da Sie erfordern, mathematikhaltige Informationen zu bündeln, zu präsentieren und nach mathematischen Kriterien zu beurteilen. Das Spektrum der Kompetenzen reicht von der Nutzung analoger Medien, der kritischen Prüfung von Informationen der digitalen Welt unter mathematischen Gesichtspunkten, der Verwendung digitaler Mathematikwerkzeuge (z. B. Tabellenkalkulation oder Geometriesoftware) und Lernumgebungen über die Erstellung und Gestaltung eigener allgemeiner Medien wie Videos und Präsentationen bis hin zur bewussten Verwendung, Entwicklung und Reflexion von Algorithmen mit Hilfe digitaler Medien."@de ;
+<a2906b14-8558-4c04-a345-a1c507df4306> a skos:Concept ;
+    skos:broader <3480a912-4e29-4bf6-828d-9cdf4c579c82> ;
     skos:inScheme <> ;
-    skos:narrower <405dd83b-998c-4235-b110-fc98aa446062>,
-        <83fd3e24-185e-49e4-9099-55d0c322f168>,
-        <d0b091e3-e19d-4e4d-98f9-039dd1963b24> ;
-    skos:notation "7" ;
-    skos:prefLabel "Mit Medien mathematisch umgehen"@de .
-
-<080bfb46-4359-4a35-bd72-ae57ae27f727> a skos:Concept ;
-    skos:broader <43ca2344-0149-42f2-8c23-5191e823ec6b> ;
-    skos:inScheme <> ;
-    skos:narrower <445e3a1a-462a-49ef-b1d4-67bc7009b443>,
-        <a14bf0ed-2dda-4a9a-89ac-0080d451029b>,
-        <ada8a34d-55a5-4f65-9dac-404e80eeb5bd>,
-        <ee1ecf80-18e4-47d3-b787-fdc5dde324ab> ;
-    skos:notation "2.2" ;
+    skos:narrower <a87a8cab-c548-4825-966e-c3529a41008e>,
+        <dfc1d813-70ec-4cb5-a4c2-5881da990bfd>,
+        <f797a331-d68f-4d62-b04e-0a172d058d29> ;
+    skos:notation "3.2" ;
     skos:prefLabel "Zusammenhänge  herstellen"@de .
 
-<1de4cfb6-8e98-4830-ab57-47bf6ab8ddec> a skos:Concept ;
-    skos:broader <cc645547-156d-4265-b016-a69012002cb3> ;
+<adabee91-5f11-4a49-9484-f87384103bcf> a skos:Concept ;
+    skos:broader <5eeb1055-5c97-460d-88f6-da4354e5f04b> ;
     skos:inScheme <> ;
-    skos:narrower <0bdb5bf7-699a-4cbb-a485-80e931da59a8>,
-        <2e43d4c2-0d0f-46d8-aff3-b45880db9e19>,
-        <48e19cc4-be65-4a47-91ff-4cfc1b692981>,
-        <f30d0bfa-da5e-40d9-a9a3-45725aec4d9e> ;
+    skos:narrower <56052ff7-681f-4785-b48f-d780488cff59>,
+        <5d770155-4786-46f3-87fe-e0691b68040e>,
+        <dbef6360-5490-440a-876f-d798a4213c0b> ;
+    skos:notation "1.3" ;
+    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
+
+<c2ba3a5c-366c-4ef0-bef0-9d2f08818055> a skos:Concept ;
+    skos:broader <847450fd-92e3-4a5d-8e6d-1221dfecb090> ;
+    skos:inScheme <> ;
+    skos:narrower <63322885-d17a-44aa-b17f-72fbd27c612e>,
+        <8ceccb47-d669-49bf-ae56-065bb07155d0>,
+        <cca930fe-7779-4a04-8149-8e8b93986cae> ;
+    skos:notation "2.3" ;
+    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
+
+<d933a63a-59a3-4ecf-9713-bf415b072b3a> a skos:Concept ;
+    skos:broader <f29f5be2-f6d2-4815-9143-dfd8d5d76f8a> ;
+    skos:inScheme <> ;
+    skos:narrower <30ef676d-ca74-436a-a714-959468a544f0>,
+        <40fa97d3-dc9b-44bd-ac5a-b7cb4591423e>,
+        <5ac83a2e-9e28-40af-948f-8f72fb2a45e2> ;
+    skos:notation "4.3" ;
+    skos:prefLabel "Verallgemeinern und Reflektieren"@de .
+
+<3480a912-4e29-4bf6-828d-9cdf4c579c82> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Diese Kompetenz beinhaltet, ausgehend vom Erkennen und Formulieren mathematischer Probleme, das Auswählen geeigneter Heurismen sowie das Entwickeln und Ausführen geeigneter Lösungswege. Das Spektrum reicht vom Bearbeiten vorgegebener und selbst formulierter Probleme auf der einen Seite bis hin zum Überprüfen der Plausibilität von Ergebnissen, dem Finden von Lösungsideen und dem Reflektieren von Lösungswegen auf der anderen Seite. Geeignete Heurismen (u. a. Skizzen erstellen, systematisch probieren, rückwärts arbeiten, zerlegen und ergänzen) zum Problemlösen werden ausgewählt und angewendet."@de ;
+    skos:inScheme <> ;
+    skos:narrower <a2906b14-8558-4c04-a345-a1c507df4306>,
+        <b4d57925-65d5-461e-a095-e4e000fe444c>,
+        <feb98f0d-bd1e-498e-a570-4f0abfd88198> ;
+    skos:notation "3" ;
+    skos:note "Diese Kompetenz beinhaltet, ausgehend vom Erkennen und Formulieren mathematischer Probleme, das Auswählen geeigneter Heurismen sowie das Entwickeln und Ausführen geeigneter Lösungswege. Das Spektrum reicht vom Bearbeiten vorgegebener und selbst formulierter Probleme auf der einen Seite bis hin zum Überprüfen der Plausibilität von Ergebnissen, dem Finden von Lösungsideen und dem Reflektieren von Lösungswegen auf der anderen Seite. Geeignete Heurismen (u. a. Skizzen erstellen, systematisch probieren, rückwärts arbeiten, zerlegen und ergänzen) zum Problemlösen werden ausgewählt und angewendet."@de ;
+    skos:prefLabel "Probleme mathematisch lösen"@de ;
+    skos:topConceptOf <> .
+
+<5eeb1055-5c97-460d-88f6-da4354e5f04b> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Zu dieser Kompetenz gehören sowohl das Entwickeln eigenständiger, situationsangemessener mathematischer Argumentationen (wie Begründungen, Beweise), als auch das Erläutern, Prüfen und Begründen von Lösungswegen und das begründete Äußern von Vermutungen. Das Spektrum reicht dabei von einfachen Plausibilitätsargumenten über inhaltlich-anschauliche Begründungen bis hin zu Argumentationsketten."@de ;
+    skos:inScheme <> ;
+    skos:narrower <667203f1-e346-41e7-abd7-08da7dd4449a>,
+        <7d84dab6-d2ae-446d-bd87-753b95a0e66e>,
+        <adabee91-5f11-4a49-9484-f87384103bcf> ;
+    skos:notation "1" ;
+    skos:note "Zu dieser Kompetenz gehören sowohl das Entwickeln eigenständiger, situationsangemessener mathematischer Argumentationen (wie Begründungen, Beweise), als auch das Erläutern, Prüfen und Begründen von Lösungswegen und das begründete Äußern von Vermutungen. Das Spektrum reicht dabei von einfachen Plausibilitätsargumenten über inhaltlich-anschauliche Begründungen bis hin zu Argumentationsketten."@de ;
+    skos:prefLabel "Mathematisch argumentieren"@de ;
+    skos:topConceptOf <> .
+
+<7d84dab6-d2ae-446d-bd87-753b95a0e66e> a skos:Concept ;
+    skos:broader <5eeb1055-5c97-460d-88f6-da4354e5f04b> ;
+    skos:inScheme <> ;
+    skos:narrower <134ed5e6-6c98-462b-b324-c29829bee834>,
+        <434ad4aa-19fc-4057-88a6-baa7fef1ca0c>,
+        <8a2110da-5767-49d3-afca-8bd41771c7e9>,
+        <a895c648-52fd-4fc6-9662-08e07f5121a0> ;
     skos:notation "1.2" ;
     skos:prefLabel "Zusammenhänge  herstellen"@de .
 
-<d0b091e3-e19d-4e4d-98f9-039dd1963b24> a skos:Concept ;
-    skos:broader <eb4b5151-975a-49ca-b28b-a39447d11e19> ;
+<8062c505-1639-43fe-aafc-486db33f38c2> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Mathematische Bildung in der digitalen Welt umfasst: Fachliche Kompetenzen digital zu fördern und digitale Kompetenzen fachlich zu fördern. Darüber hinaus sollte ein Beitrag geleistet werden zur digitalen personalen Bildung, um Mathematik für die kritische Rezeption von Alltagsmedien zu nutzen. Dazu gehört der Umgang analoger Medien (Schulbuch, Lineal, Körpermodell, Formelsammlung, Spielwürfel, ...) im Verbund mit digitalen Medien. Digitale Medien, die für das Lernen und Lehren von Mathematik relevant sind, umfassen mathematikspezifische sowie allgemeine Medien. Mathematikspezifisch sind insbesondere digitale Mathematikwerkzeuge als themenübergreifende Medien, aber auch themenspezifische mathematikhaltige Medien (z. B. Apps, interaktive Lernangebote). Allgemeine Medien (z. B. Videos, Textverarbeitung, Präsentationsmedien) spielen eine Rolle, da Sie erfordern, mathematikhaltige Informationen zu bündeln, zu präsentieren und nach mathematischen Kriterien zu beurteilen. Das Spektrum der Kompetenzen reicht von der Nutzung analoger Medien, der kritischen Prüfung von Informationen der digitalen Welt unter mathematischen Gesichtspunkten, der Verwendung digitaler Mathematikwerkzeuge (z. B. Tabellenkalkulation oder Geometriesoftware) und Lernumgebungen über die Erstellung und Gestaltung eigener allgemeiner Medien wie Videos und Präsentationen bis hin zur bewussten Verwendung, Entwicklung und Reflexion von Algorithmen mit Hilfe digitaler Medien."@de ;
     skos:inScheme <> ;
-    skos:narrower <4b050d39-8e2c-4b0b-99fd-979db7acc131>,
-        <61852a32-cce3-4859-8271-2668fc7cbfd0>,
-        <af680f94-7fa3-4f86-beaa-ef802ee1eda3>,
-        <eded52d5-de31-4d1a-93dc-6efacb51af5e> ;
+    skos:narrower <5aad8c18-1be5-4b35-b092-2713384df9a4>,
+        <89fa89f8-5187-464f-a5be-588dac2bb4f1>,
+        <dc4b724e-14c9-4244-9407-f71ed2923f8c> ;
+    skos:notation "7" ;
+    skos:note "Mathematische Bildung in der digitalen Welt umfasst: Fachliche Kompetenzen digital zu fördern und digitale Kompetenzen fachlich zu fördern. Darüber hinaus sollte ein Beitrag geleistet werden zur digitalen personalen Bildung, um Mathematik für die kritische Rezeption von Alltagsmedien zu nutzen. Dazu gehört der Umgang analoger Medien (Schulbuch, Lineal, Körpermodell, Formelsammlung, Spielwürfel, ...) im Verbund mit digitalen Medien. Digitale Medien, die für das Lernen und Lehren von Mathematik relevant sind, umfassen mathematikspezifische sowie allgemeine Medien. Mathematikspezifisch sind insbesondere digitale Mathematikwerkzeuge als themenübergreifende Medien, aber auch themenspezifische mathematikhaltige Medien (z. B. Apps, interaktive Lernangebote). Allgemeine Medien (z. B. Videos, Textverarbeitung, Präsentationsmedien) spielen eine Rolle, da Sie erfordern, mathematikhaltige Informationen zu bündeln, zu präsentieren und nach mathematischen Kriterien zu beurteilen. Das Spektrum der Kompetenzen reicht von der Nutzung analoger Medien, der kritischen Prüfung von Informationen der digitalen Welt unter mathematischen Gesichtspunkten, der Verwendung digitaler Mathematikwerkzeuge (z. B. Tabellenkalkulation oder Geometriesoftware) und Lernumgebungen über die Erstellung und Gestaltung eigener allgemeiner Medien wie Videos und Präsentationen bis hin zur bewussten Verwendung, Entwicklung und Reflexion von Algorithmen mit Hilfe digitaler Medien."@de ;
+    skos:prefLabel "Mit Medien mathematisch umgehen"@de ;
+    skos:topConceptOf <> .
+
+<847450fd-92e3-4a5d-8e6d-1221dfecb090> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Zu dieser Kompetenz gehören sowohl das Entnehmen von Informationen aus Texten, mündlichen Äußerungen oder sonstigen Quellen als auch das Darlegen von Überlegungen, Lösungswegen bzw. Ergebnissen in mündlicher und schriftlicher Form auch unter Verwendung einer adressatengerechten Fachsprache. Das Spektrum reicht von der direkten Informationsentnahme aus Texten des Alltagsgebrauchs bzw. vom Aufschreiben einfacher Lösungswege bis hin zum sinnentnehmenden Erfassen fachsprachlicher Texte bzw. vom Dokumentieren einfacher Lösungswege zum strukturierten Darlegen oder Präsentieren eigener Überlegungen, auch mit Hilfe geeigneter Medien."@de ;
+    skos:inScheme <> ;
+    skos:narrower <04e5723c-6f33-45ae-a8b3-e4f24e050530>,
+        <8ee23cde-eaf9-4247-8158-e4977591fd3c>,
+        <c2ba3a5c-366c-4ef0-bef0-9d2f08818055> ;
+    skos:notation "2" ;
+    skos:note "Zu dieser Kompetenz gehören sowohl das Entnehmen von Informationen aus Texten, mündlichen Äußerungen oder sonstigen Quellen als auch das Darlegen von Überlegungen, Lösungswegen bzw. Ergebnissen in mündlicher und schriftlicher Form auch unter Verwendung einer adressatengerechten Fachsprache. Das Spektrum reicht von der direkten Informationsentnahme aus Texten des Alltagsgebrauchs bzw. vom Aufschreiben einfacher Lösungswege bis hin zum sinnentnehmenden Erfassen fachsprachlicher Texte bzw. vom Dokumentieren einfacher Lösungswege zum strukturierten Darlegen oder Präsentieren eigener Überlegungen, auch mit Hilfe geeigneter Medien."@de ;
+    skos:prefLabel "Mathematisch kommunizieren"@de ;
+    skos:topConceptOf <> .
+
+<8ee23cde-eaf9-4247-8158-e4977591fd3c> a skos:Concept ;
+    skos:broader <847450fd-92e3-4a5d-8e6d-1221dfecb090> ;
+    skos:inScheme <> ;
+    skos:narrower <2a8a6cce-b8d0-4214-ab41-78876514e144>,
+        <2d6865c6-0446-4d6e-ae06-d31c291c3624>,
+        <695c71e0-cba8-4a4f-99cb-1a44d2306979>,
+        <eb536c06-3365-4efb-8b44-393b16734a89> ;
+    skos:notation "2.2" ;
+    skos:prefLabel "Zusammenhänge  herstellen"@de .
+
+<9de4c138-54ae-4182-b904-fdc79cbb1b20> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Diese Kompetenz umfasst das Erzeugen und Vernetzen von sowie das Umgehen mit mathematischen Darstellungen - der grafisch-visuellen, algebraisch-formalen, numerisch-tabellarischen, verbal-sprachlichen Darstellung. Das Spektrum reicht von Anwenden, Interpretieren und Unterscheiden von Standarddarstellungen über den Wechsel geeigneter mathematischer Darstellungen bis hin zum Erstellen eigener Darstellungen, die dem Strukturieren und Dokumentieren individueller Überlegungen dienen."@de ;
+    skos:inScheme <> ;
+    skos:narrower <58c7bd0b-16bd-4edd-a496-a3a19b5d7099>,
+        <699bee01-cb17-4af2-9ce1-c7e2f5950d28>,
+        <be2a7226-04f3-45a8-8b97-16427405024b> ;
+    skos:notation "5" ;
+    skos:note "Diese Kompetenz umfasst das Erzeugen und Vernetzen von sowie das Umgehen mit mathematischen Darstellungen - der grafisch-visuellen, algebraisch-formalen, numerisch-tabellarischen, verbal-sprachlichen Darstellung. Das Spektrum reicht von Anwenden, Interpretieren und Unterscheiden von Standarddarstellungen über den Wechsel geeigneter mathematischer Darstellungen bis hin zum Erstellen eigener Darstellungen, die dem Strukturieren und Dokumentieren individueller Überlegungen dienen."@de ;
+    skos:prefLabel "Mathematisch darstellen"@de ;
+    skos:topConceptOf <> .
+
+<b201dba5-4f7c-44cd-bace-482341b7409f> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Diese Kompetenz beinhaltet das verständige Umgehen mit mathematischen Objekten wie Zahlen, Größen, Symbolen, Variablen, Termen, Formeln, Gleichungen und Funktionen sowie in der Geometrie Strecken, Winkeln und Kreisen mit und ohne Hilfsmittel. Das Spektrum reicht hier von einfachen, überschaubaren Routineverfahren bis hin zu komplexen Verfahren einschließlich deren reflektierender Bewertung. Diese Kompetenz beinhaltet auch Faktenwissen und Regelwissen für ein zielgerichtetes und effizientes Bearbeiten von mathematischen Aufgabenstellungen."@de ;
+    skos:inScheme <> ;
+    skos:narrower <2d8841e4-38b9-46f8-9f6d-4751556a0d6e>,
+        <3a884d0d-3687-4445-9b9c-600609abacbc>,
+        <9ff8adf5-f1cf-4986-a35c-33eb3150dda5> ;
+    skos:notation "6" ;
+    skos:note "Diese Kompetenz beinhaltet das verständige Umgehen mit mathematischen Objekten wie Zahlen, Größen, Symbolen, Variablen, Termen, Formeln, Gleichungen und Funktionen sowie in der Geometrie Strecken, Winkeln und Kreisen mit und ohne Hilfsmittel. Das Spektrum reicht hier von einfachen, überschaubaren Routineverfahren bis hin zu komplexen Verfahren einschließlich deren reflektierender Bewertung. Diese Kompetenz beinhaltet auch Faktenwissen und Regelwissen für ein zielgerichtetes und effizientes Bearbeiten von mathematischen Aufgabenstellungen."@de ;
+    skos:prefLabel "Mit mathematischen Objekten umgehen"@de ;
+    skos:topConceptOf <> .
+
+<dc4b724e-14c9-4244-9407-f71ed2923f8c> a skos:Concept ;
+    skos:broader <8062c505-1639-43fe-aafc-486db33f38c2> ;
+    skos:inScheme <> ;
+    skos:narrower <34fcf92e-b34f-4257-842b-60d13d8c613d>,
+        <925d9130-818e-400b-9c00-c100b34b2c11>,
+        <e116ff30-ee14-4177-b43e-c9692b31ca72>,
+        <f903217c-d813-4838-89b2-4f700cde378d> ;
     skos:notation "7.1" ;
     skos:prefLabel "Reproduzieren"@de .
 
-<2e998cde-4fea-46b4-958e-d6d4da20aff3> a skos:Concept ;
-    skos:broader <7f91e026-85fb-4732-891c-f726c373b8ef> ;
+<f29f5be2-f6d2-4815-9143-dfd8d5d76f8a> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Beim mathematischen Modellieren geht es um das Lösen eines realen Problems mit Hilfe von Mathematik. Von besonderer Bedeutung dabei ist das Übersetzen zwischen Realsituationen und mathematischen Begriffen, Resultaten oder Methoden. Typische Teilschritte des Modellierens sind das Strukturieren und Vereinfachen gegebener Realsituationen, das Übersetzen realer Gegebenheiten in mathematische Modelle, das Arbeiten im mathematischen Modell, das Interpretieren mathematischer Ergebnisse in Bezug auf Realsituationen und das Überprüfen von Ergebnissen sowie des Modells im Hinblick auf Stimmigkeit und Angemessenheit bezogen auf die Realsituation. Das Spektrum reicht von Standardmodellen (z. B. proportionale Zuordnung) bis hin zu komplexeren Modellierungen (z. B. geometrische Konstruktionen, Sinusfunktion, Exponentialfunktion, Zufallsexperimente)."@de ;
     skos:inScheme <> ;
-    skos:narrower <3c6b4514-7803-4a05-8261-1003aefd5b46>,
-        <632f3e74-932a-42ec-b25b-70d929aa02b3>,
-        <b5202f3e-9a6a-4bc3-92e5-1da569c86cce>,
-        <c70e9c12-1fac-47bc-b7ac-9eb81cae6cfe>,
-        <ec9cb3f9-c7ce-4729-b328-3c417718681c> ;
+    skos:narrower <31277bf4-3e12-4871-9bad-74a3345207ce>,
+        <918ef7d7-49a3-4a34-ad9c-a30d96169d4a>,
+        <d933a63a-59a3-4ecf-9713-bf415b072b3a> ;
+    skos:notation "4" ;
+    skos:note "Beim mathematischen Modellieren geht es um das Lösen eines realen Problems mit Hilfe von Mathematik. Von besonderer Bedeutung dabei ist das Übersetzen zwischen Realsituationen und mathematischen Begriffen, Resultaten oder Methoden. Typische Teilschritte des Modellierens sind das Strukturieren und Vereinfachen gegebener Realsituationen, das Übersetzen realer Gegebenheiten in mathematische Modelle, das Arbeiten im mathematischen Modell, das Interpretieren mathematischer Ergebnisse in Bezug auf Realsituationen und das Überprüfen von Ergebnissen sowie des Modells im Hinblick auf Stimmigkeit und Angemessenheit bezogen auf die Realsituation. Das Spektrum reicht von Standardmodellen (z. B. proportionale Zuordnung) bis hin zu komplexeren Modellierungen (z. B. geometrische Konstruktionen, Sinusfunktion, Exponentialfunktion, Zufallsexperimente)."@de ;
+    skos:prefLabel "Mathematisch modellieren"@de ;
+    skos:topConceptOf <> .
+
+<31277bf4-3e12-4871-9bad-74a3345207ce> a skos:Concept ;
+    skos:broader <f29f5be2-f6d2-4815-9143-dfd8d5d76f8a> ;
+    skos:inScheme <> ;
+    skos:narrower <4c1f269b-cc96-4efb-9606-abab80d72b02>,
+        <9e3fcf48-dacd-45cf-8255-423e0f8a27df>,
+        <af2ce950-c859-4014-9ff7-145d58628830>,
+        <f2e439db-57fa-44be-81cc-8fd21f58723e>,
+        <f3c8844d-27ce-4e99-af50-e8e1d8f65360> ;
     skos:notation "4.2" ;
     skos:prefLabel "Zusammenhänge  herstellen"@de .
 
-<405dd83b-998c-4235-b110-fc98aa446062> a skos:Concept ;
-    skos:broader <eb4b5151-975a-49ca-b28b-a39447d11e19> ;
+<5aad8c18-1be5-4b35-b092-2713384df9a4> a skos:Concept ;
+    skos:broader <8062c505-1639-43fe-aafc-486db33f38c2> ;
     skos:inScheme <> ;
-    skos:narrower <41a74ec3-eb1c-4753-8eab-e04b9d2ffc15>,
-        <63a6a9a9-318d-470a-9eea-fc84ba51002b>,
-        <7c971306-b22c-45a1-acf4-95d068157fcf>,
-        <7ce54107-abd1-4756-bc15-e1173e889bb1>,
-        <bfa2c792-4bcc-4550-b69e-60266c18216a> ;
+    skos:narrower <6d76a148-3265-4d93-bf32-62e62abf4527>,
+        <83d6f14e-5d0e-41d1-8290-84cc408bc711>,
+        <97f7ed6a-438c-4260-9864-b2f348220594>,
+        <c8bd48a2-c5fc-4dcb-b693-20485fa44e80>,
+        <f779ff57-b8c0-4f24-8ced-37ec63d218a3> ;
     skos:notation "6.2" ;
     skos:prefLabel "Zusammenhänge  herstellen"@de .
 
-<83fd3e24-185e-49e4-9099-55d0c322f168> a skos:Concept ;
-    skos:broader <eb4b5151-975a-49ca-b28b-a39447d11e19> ;
+<89fa89f8-5187-464f-a5be-588dac2bb4f1> a skos:Concept ;
+    skos:broader <8062c505-1639-43fe-aafc-486db33f38c2> ;
     skos:inScheme <> ;
-    skos:narrower <89f2a1eb-ad03-41bf-a698-056876223364>,
-        <967d80c4-e661-4cbd-8927-d0056fd836de>,
-        <acf2d419-d1a1-4e19-b2b3-48f34797d38d>,
-        <c6cec57d-5c8a-4f0e-8697-738ce93a0356>,
-        <da127402-2503-49b0-a804-4832378b8379>,
-        <e90e20d9-d842-42ec-be3d-ebc0851b9ed2> ;
+    skos:narrower <0edbea3b-454b-419a-8ab7-1fef4af0793f>,
+        <1f74362f-38a6-4e13-82a2-f3793693e469>,
+        <7eefc5e9-63a0-4656-a916-57860e3bd9b3>,
+        <af0ddedc-26b2-4582-9742-d939b8512272>,
+        <b0518af6-9ef1-473c-9e82-44283f32f12f>,
+        <e641a50b-42b8-4740-a400-252607f935fa> ;
     skos:notation "7.3" ;
     skos:prefLabel "Verallgemeinern und Reflektieren"@de .
-
-<stdProzess/> a skos:Concept ;
-    skos:narrower <0429c24f-695a-4be6-99f4-073f66a18af4>,
-        <43ca2344-0149-42f2-8c23-5191e823ec6b>,
-        <7f91e026-85fb-4732-891c-f726c373b8ef>,
-        <a03fd002-5201-4749-ad54-87314f0136d3>,
-        <b681d554-b154-454d-816b-ad78b8f4d607>,
-        <cc645547-156d-4265-b016-a69012002cb3>,
-        <eb4b5151-975a-49ca-b28b-a39447d11e19> ;
-    skos:prefLabel "Prozessbezogene Kompetenzen"@de ;
-    skos:topConceptOf <> .
 
 <> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "Mathe Sek 1_Prozessbezogene Kompetenzen"@de ;
-    skos:hasTopConcept <stdProzess/> .
+    skos:hasTopConcept <3480a912-4e29-4bf6-828d-9cdf4c579c82>,
+        <5eeb1055-5c97-460d-88f6-da4354e5f04b>,
+        <8062c505-1639-43fe-aafc-486db33f38c2>,
+        <847450fd-92e3-4a5d-8e6d-1221dfecb090>,
+        <9de4c138-54ae-4182-b904-fdc79cbb1b20>,
+        <b201dba5-4f7c-44cd-bace-482341b7409f>,
+        <f29f5be2-f6d2-4815-9143-dfd8d5d76f8a> ;
+    skos:narrower <3480a912-4e29-4bf6-828d-9cdf4c579c82>,
+        <5eeb1055-5c97-460d-88f6-da4354e5f04b>,
+        <8062c505-1639-43fe-aafc-486db33f38c2>,
+        <847450fd-92e3-4a5d-8e6d-1221dfecb090>,
+        <9de4c138-54ae-4182-b904-fdc79cbb1b20>,
+        <b201dba5-4f7c-44cd-bace-482341b7409f>,
+        <f29f5be2-f6d2-4815-9143-dfd8d5d76f8a> ;
+    skos:prefLabel "Prozessbezogene Kompetenzen"@de .
 
