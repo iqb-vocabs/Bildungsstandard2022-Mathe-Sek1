@@ -2,42 +2,39 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<6e839ea5-2827-4e9e-ab0b-b03f18e6fe5a> a skos:Concept ;
-    skos:broader <> ;
-    skos:definition "Dieser Anforderungsbereich umfasst die Wiedergabe und direkte Anwendung von grundlegenden Begriffen, Sätzen und Verfahren in einem abgegrenzten Gebiet und einem wiederholenden Zusammenhang."@de ;
-    skos:inScheme <> ;
-    skos:notation "1" ;
-    skos:note "Dieser Anforderungsbereich umfasst die Wiedergabe und direkte Anwendung von grundlegenden Begriffen, Sätzen und Verfahren in einem abgegrenzten Gebiet und einem wiederholenden Zusammenhang."@de ;
-    skos:prefLabel "Anforderungsbereich I: Reproduzieren"@de ;
-    skos:topConceptOf <> .
-
-<821c09b1-2ef8-407a-8514-9267a01de1df> a skos:Concept ;
+<ce4e48b6-4ed7-4272-8b0a-2786188501d3> a skos:Concept ;
     skos:broader <> ;
     skos:definition "Dieser Anforderungsbereich umfasst das selbstständige Auswählen, Anordnen, Darstellen und Bearbeiten bekannter Sachverhalte, indem Kenntnisse, Fertigkeiten und Fähigkeiten verknüpft werden, die in der Auseinandersetzung mit Mathematik auf verschiedenen Gebieten erworben wurden."@de ;
     skos:inScheme <> ;
     skos:notation "2" ;
-    skos:note "Dieser Anforderungsbereich umfasst das selbstständige Auswählen, Anordnen, Darstellen und Bearbeiten bekannter Sachverhalte, indem Kenntnisse, Fertigkeiten und Fähigkeiten verknüpft werden, die in der Auseinandersetzung mit Mathematik auf verschiedenen Gebieten erworben wurden."@de ;
     skos:prefLabel "Anforderungsbereich II: Zusammenhänge herstellen"@de ;
     skos:topConceptOf <> .
 
-<e94425a5-9bc6-4eb7-9f68-9eaade7abcb8> a skos:Concept ;
+<e0f4e54e-e6e1-48d7-8f81-c5c8c18c62ac> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Dieser Anforderungsbereich umfasst die Wiedergabe und direkte Anwendung von grundlegenden Begriffen, Sätzen und Verfahren in einem abgegrenzten Gebiet und einem wiederholenden Zusammenhang."@de ;
+    skos:inScheme <> ;
+    skos:notation "1" ;
+    skos:prefLabel "Anforderungsbereich I: Reproduzieren"@de ;
+    skos:topConceptOf <> .
+
+<e875a665-51d6-4402-a8a3-3768076fcfd8> a skos:Concept ;
     skos:broader <> ;
     skos:definition "Dieser Anforderungsbereich umfasst das selbstständige Auswählen geeigneter Arbeitstechniken und Verfahren sowie das Bearbeiten komplexer oder unbekannter Sachverhalte u. a. mit dem Ziel, zu eigenen Problemformulierungen, Lösungen, Begründungen, Folgerungen, Interpretationen oder Wertungen zu gelangen."@de ;
     skos:inScheme <> ;
     skos:notation "3" ;
-    skos:note "Dieser Anforderungsbereich umfasst das selbstständige Auswählen geeigneter Arbeitstechniken und Verfahren sowie das Bearbeiten komplexer oder unbekannter Sachverhalte u. a. mit dem Ziel, zu eigenen Problemformulierungen, Lösungen, Begründungen, Folgerungen, Interpretationen oder Wertungen zu gelangen."@de ;
     skos:prefLabel "Anforderungsbereich  III: Verallgemeinern und Reflektieren"@de ;
     skos:topConceptOf <> .
 
 <> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Zum Lösen mathematischer Aufgaben werden die prozessbezogenen Kompetenzen in unterschiedlicher Ausprägung benötigt. Diesbezüglich lassen sich drei Anforderungsbereiche für alle Schülerinnen und Schüler unterscheiden. Im Allgemeinen nehmen Anspruch und kognitive Komplexität von Anforderungsbereich I bis Anforderungsbereich III zu. Die Anforderungsbereiche sind für alle prozessbezogenen Kompetenzen wie folgt charakterisiert:"@de ;
     dct:title "Mathe Sek 1_Anforderungsbereiche"@de ;
-    skos:definition "Zum Lösen mathematischer Aufgaben werden die prozessbezogenen Kompetenzen in unterschiedlicher Ausprägung benötigt. Diesbezüglich lassen sich drei Anforderungsbereiche für alle Schülerinnen und Schüler unterscheiden. Im Allgemeinen nehmen Anspruch und kognitive Komplexität von Anforderungsbereich I bis Anforderungsbereich III zu. Die Anforderungsbereiche sind für alle prozessbezogenen Kompetenzen wie folgt charakterisiert:"@de ;
-    skos:hasTopConcept <6e839ea5-2827-4e9e-ab0b-b03f18e6fe5a>,
-        <821c09b1-2ef8-407a-8514-9267a01de1df>,
-        <e94425a5-9bc6-4eb7-9f68-9eaade7abcb8> ;
-    skos:narrower <6e839ea5-2827-4e9e-ab0b-b03f18e6fe5a>,
-        <821c09b1-2ef8-407a-8514-9267a01de1df>,
-        <e94425a5-9bc6-4eb7-9f68-9eaade7abcb8> ;
+    skos:hasTopConcept <ce4e48b6-4ed7-4272-8b0a-2786188501d3>,
+        <e0f4e54e-e6e1-48d7-8f81-c5c8c18c62ac>,
+        <e875a665-51d6-4402-a8a3-3768076fcfd8> ;
+    skos:narrower <ce4e48b6-4ed7-4272-8b0a-2786188501d3>,
+        <e0f4e54e-e6e1-48d7-8f81-c5c8c18c62ac>,
+        <e875a665-51d6-4402-a8a3-3768076fcfd8> ;
     skos:prefLabel "Anforderungsbereiche"@de .
 
