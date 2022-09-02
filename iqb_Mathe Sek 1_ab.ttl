@@ -1,16 +1,8 @@
-@base <https://w3id.org/iqb/bistamas1/ab/> .
+@base <https://w3id.org/iqb/bista22mas1/ab/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<ce4e48b6-4ed7-4272-8b0a-2786188501d3> a skos:Concept ;
-    skos:broader <> ;
-    skos:definition "Dieser Anforderungsbereich umfasst das selbstständige Auswählen, Anordnen, Darstellen und Bearbeiten bekannter Sachverhalte, indem Kenntnisse, Fertigkeiten und Fähigkeiten verknüpft werden, die in der Auseinandersetzung mit Mathematik auf verschiedenen Gebieten erworben wurden."@de ;
-    skos:inScheme <> ;
-    skos:notation "2" ;
-    skos:prefLabel "Anforderungsbereich II: Zusammenhänge herstellen"@de ;
-    skos:topConceptOf <> .
-
-<e0f4e54e-e6e1-48d7-8f81-c5c8c18c62ac> a skos:Concept ;
+<24faf10b-6907-4610-91f9-f399d108beb9> a skos:Concept ;
     skos:broader <> ;
     skos:definition "Dieser Anforderungsbereich umfasst die Wiedergabe und direkte Anwendung von grundlegenden Begriffen, Sätzen und Verfahren in einem abgegrenzten Gebiet und einem wiederholenden Zusammenhang."@de ;
     skos:inScheme <> ;
@@ -18,7 +10,15 @@
     skos:prefLabel "Anforderungsbereich I: Reproduzieren"@de ;
     skos:topConceptOf <> .
 
-<e875a665-51d6-4402-a8a3-3768076fcfd8> a skos:Concept ;
+<da0082c2-7fe1-4e1b-b6d5-989451c3b39a> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Dieser Anforderungsbereich umfasst das selbstständige Auswählen, Anordnen, Darstellen und Bearbeiten bekannter Sachverhalte, indem Kenntnisse, Fertigkeiten und Fähigkeiten verknüpft werden, die in der Auseinandersetzung mit Mathematik auf verschiedenen Gebieten erworben wurden."@de ;
+    skos:inScheme <> ;
+    skos:notation "2" ;
+    skos:prefLabel "Anforderungsbereich II: Zusammenhänge herstellen"@de ;
+    skos:topConceptOf <> .
+
+<f47ff599-d6ed-4ed2-9f5b-891c203da245> a skos:Concept ;
     skos:broader <> ;
     skos:definition "Dieser Anforderungsbereich umfasst das selbstständige Auswählen geeigneter Arbeitstechniken und Verfahren sowie das Bearbeiten komplexer oder unbekannter Sachverhalte u. a. mit dem Ziel, zu eigenen Problemformulierungen, Lösungen, Begründungen, Folgerungen, Interpretationen oder Wertungen zu gelangen."@de ;
     skos:inScheme <> ;
@@ -30,11 +30,11 @@
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:description "Zum Lösen mathematischer Aufgaben werden die prozessbezogenen Kompetenzen in unterschiedlicher Ausprägung benötigt. Diesbezüglich lassen sich drei Anforderungsbereiche für alle Schülerinnen und Schüler unterscheiden. Im Allgemeinen nehmen Anspruch und kognitive Komplexität von Anforderungsbereich I bis Anforderungsbereich III zu. Die Anforderungsbereiche sind für alle prozessbezogenen Kompetenzen wie folgt charakterisiert:"@de ;
     dct:title "Mathe Sek 1_Anforderungsbereiche"@de ;
-    skos:hasTopConcept <ce4e48b6-4ed7-4272-8b0a-2786188501d3>,
-        <e0f4e54e-e6e1-48d7-8f81-c5c8c18c62ac>,
-        <e875a665-51d6-4402-a8a3-3768076fcfd8> ;
-    skos:narrower <ce4e48b6-4ed7-4272-8b0a-2786188501d3>,
-        <e0f4e54e-e6e1-48d7-8f81-c5c8c18c62ac>,
-        <e875a665-51d6-4402-a8a3-3768076fcfd8> ;
+    skos:hasTopConcept <24faf10b-6907-4610-91f9-f399d108beb9>,
+        <da0082c2-7fe1-4e1b-b6d5-989451c3b39a>,
+        <f47ff599-d6ed-4ed2-9f5b-891c203da245> ;
+    skos:narrower <24faf10b-6907-4610-91f9-f399d108beb9>,
+        <da0082c2-7fe1-4e1b-b6d5-989451c3b39a>,
+        <f47ff599-d6ed-4ed2-9f5b-891c203da245> ;
     skos:prefLabel "Anforderungsbereiche"@de .
 
