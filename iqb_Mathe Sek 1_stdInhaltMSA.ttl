@@ -485,3 +485,4 @@
         <fafebdd7-35ae-461a-a294-127742eaef9f> ;
     skos:prefLabel "Inhaltsbezogene Kompetenzen MSA"@de .
 
+   
